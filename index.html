@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>词语搭配练习</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <h1>词语搭配练习</h1>
+
+        <div class="chapter-selector">
+            <label for="chapterSelect">Chapter:</label>
+
+            <select id="chapterSelect">
+                <option value="">请选择章节</option>
+            </select>
+        </div>
+
+        <div class="table-container">
+
+            <table id="collocationTable">
+
+                <thead>
+                    <tr>
+                        <th class="number-column">Number</th>
+                        <th>Chinese</th>
+                        <th>Pinyin</th>
+                        <th>English</th>
+                        <th>Sample Sentence</th>
+                    </tr>
+                </thead>
+
+                <tbody id="tableBody">
+                    <tr>
+                        <td colspan="5" class="empty-message">
+                            请选择一个章节
+                        </td>
+                    </tr>
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </main>
+
+    <script src="app.js"></script>
+
+</body>
+</html>

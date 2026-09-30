@@ -1,0 +1,318 @@
+{
+  "title": "24",
+  "categories": [
+    {
+      "main_word": "勇气",
+      "pinyin": "yǒngqì",
+      "english": "courage",
+      "words": [
+        {
+          "chinese": "有勇气",
+          "pinyin": "yǒu yǒngqì",
+          "english": "have courage",
+          "sample_sentences": [
+            "面对困难，我们要有勇气。",
+            "他是一个有勇气面对挑战的人。"
+          ]
+        },
+        {
+          "chinese": "获得勇气",
+          "pinyin": "huòdé yǒngqì",
+          "english": "gain courage",
+          "sample_sentences": [
+            "朋友的支持让她获得了勇气。",
+            "听完这句话以后，他获得了继续努力的勇气。"
+          ]
+        },
+        {
+          "chinese": "缺乏勇气",
+          "pinyin": "quēfá yǒngqì",
+          "english": "lack courage",
+          "sample_sentences": [
+            "他不是没有能力，只是缺乏勇气。",
+            "因为缺乏勇气，他一直不敢尝试。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "利用",
+      "pinyin": "lìyòng",
+      "english": "to use; make use of",
+      "words": [
+        {
+          "chinese": "利用工具",
+          "pinyin": "lìyòng gōngjù",
+          "english": "use tools",
+          "sample_sentences": [
+            "我们可以利用工具提高工作效率。",
+            "他善于利用各种工具解决问题。"
+          ]
+        },
+        {
+          "chinese": "利用人",
+          "pinyin": "lìyòng rén",
+          "english": "use a person; take advantage of someone",
+          "sample_sentences": [
+            "我们不能为了自己的利益而利用别人。",
+            "他发现自己一直被别人利用。"
+          ]
+        },
+        {
+          "chinese": "利用时间",
+          "pinyin": "lìyòng shíjiān",
+          "english": "make use of time",
+          "sample_sentences": [
+            "我们应该合理利用时间。",
+            "她喜欢利用时间学习新的知识。"
+          ]
+        },
+        {
+          "chinese": "利用条件",
+          "pinyin": "lìyòng tiáojiàn",
+          "english": "make use of conditions",
+          "sample_sentences": [
+            "我们应该充分利用现有条件。",
+            "他善于利用有利条件完成工作。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "承担",
+      "pinyin": "chéngdān",
+      "english": "to undertake; bear",
+      "words": [
+        {
+          "chinese": "承担责任",
+          "pinyin": "chéngdān zérèn",
+          "english": "take responsibility",
+          "sample_sentences": [
+            "每个人都应该承担自己的责任。",
+            "犯了错误以后，我们要勇于承担责任。"
+          ]
+        },
+        {
+          "chinese": "承担费用",
+          "pinyin": "chéngdān fèiyòng",
+          "english": "bear the cost",
+          "sample_sentences": [
+            "这些费用由公司承担。",
+            "旅行中的交通费用需要自己承担。"
+          ]
+        },
+        {
+          "chinese": "承担任务",
+          "pinyin": "chéngdān rènwu",
+          "english": "undertake a task",
+          "sample_sentences": [
+            "他主动承担了这项任务。",
+            "我们需要有人承担这项重要任务。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "建设",
+      "pinyin": "jiànshè",
+      "english": "construction; development",
+      "words": [
+        {
+          "chinese": "经济建设",
+          "pinyin": "jīngjì jiànshè",
+          "english": "economic development",
+          "sample_sentences": [
+            "经济建设需要长期的努力。",
+            "这个地区正在加强经济建设。"
+          ]
+        },
+        {
+          "chinese": "城市建设",
+          "pinyin": "chéngshì jiànshè",
+          "english": "urban development",
+          "sample_sentences": [
+            "城市建设正在不断发展。",
+            "政府正在加强城市建设。"
+          ]
+        },
+        {
+          "chinese": "学科建设",
+          "pinyin": "xuékē jiànshè",
+          "english": "academic discipline development",
+          "sample_sentences": [
+            "学校非常重视学科建设。",
+            "加强学科建设有助于提高教学水平。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "艰巨",
+      "pinyin": "jiānjù",
+      "english": "arduous; difficult",
+      "words": [
+        {
+          "chinese": "艰巨的任务",
+          "pinyin": "jiānjù de rènwu",
+          "english": "an arduous task",
+          "sample_sentences": [
+            "完成这个项目是一项艰巨的任务。",
+            "我们必须努力完成这个艰巨的任务。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "收获",
+      "pinyin": "shōuhuò",
+      "english": "harvest; gain",
+      "words": [
+        {
+          "chinese": "巨大的收获",
+          "pinyin": "jùdà de shōuhuò",
+          "english": "a great gain",
+          "sample_sentences": [
+            "这次学习让我有了巨大的收获。",
+            "经过努力，他取得了巨大的收获。"
+          ]
+        },
+        {
+          "chinese": "意外的收获",
+          "pinyin": "yìwài de shōuhuò",
+          "english": "an unexpected gain",
+          "sample_sentences": [
+            "这次旅行给了我一个意外的收获。",
+            "除了完成任务，我们还有一个意外的收获。"
+          ]
+        },
+        {
+          "chinese": "学习上的收获",
+          "pinyin": "xuéxí shàng de shōuhuò",
+          "english": "gains from learning",
+          "sample_sentences": [
+            "这门课让我有很多学习上的收获。",
+            "他总结了自己这一学期在学习上的收获。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "闯",
+      "pinyin": "chuǎng",
+      "english": "to rush into; break through",
+      "words": [
+        {
+          "chinese": "闯入",
+          "pinyin": "chuǎng rù",
+          "english": "rush into; break into",
+          "sample_sentences": [
+            "陌生人突然闯入了房间。",
+            "有人未经允许闯入了办公室。"
+          ]
+        },
+        {
+          "chinese": "闯进去",
+          "pinyin": "chuǎng jìnqù",
+          "english": "rush in",
+          "sample_sentences": [
+            "他没有敲门就直接闯进去。",
+            "危险发生时，他不顾一切地闯进去救人。"
+          ]
+        },
+        {
+          "chinese": "闯过去",
+          "pinyin": "chuǎng guòqù",
+          "english": "break through; rush past",
+          "sample_sentences": [
+            "他鼓起勇气闯过去。",
+            "他们终于闯过了最困难的阶段。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "采访",
+      "pinyin": "cǎifǎng",
+      "english": "to interview",
+      "words": [
+        {
+          "chinese": "采访到",
+          "pinyin": "cǎifǎng dào",
+          "english": "successfully interview",
+          "sample_sentences": [
+            "记者终于采访到了那位专家。",
+            "我们采访到了几位当地居民。"
+          ]
+        },
+        {
+          "chinese": "采访完",
+          "pinyin": "cǎifǎng wán",
+          "english": "finish interviewing",
+          "sample_sentences": [
+            "记者采访完以后就离开了。",
+            "采访完这位专家以后，他们又去了另一家公司。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "温柔",
+      "pinyin": "wēnróu",
+      "english": "gentle; tender",
+      "words": [
+        {
+          "chinese": "性格温柔",
+          "pinyin": "xìnggé wēnróu",
+          "english": "have a gentle personality",
+          "sample_sentences": [
+            "她性格温柔，很容易和别人相处。",
+            "大家都喜欢这个性格温柔的老师。"
+          ]
+        },
+        {
+          "chinese": "声音温柔",
+          "pinyin": "shēngyīn wēnróu",
+          "english": "have a gentle voice",
+          "sample_sentences": [
+            "她说话的声音温柔而亲切。",
+            "她用温柔的声音安慰孩子。"
+          ]
+        },
+        {
+          "chinese": "动作温柔",
+          "pinyin": "dòngzuò wēnróu",
+          "english": "have gentle movements",
+          "sample_sentences": [
+            "护士的动作很温柔。",
+            "给孩子检查身体时，医生的动作非常温柔。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "进步",
+      "pinyin": "jìnbù",
+      "english": "progress; improvement",
+      "words": [
+        {
+          "chinese": "进步很快",
+          "pinyin": "jìnbù hěn kuài",
+          "english": "make progress quickly",
+          "sample_sentences": [
+            "他的中文进步很快。",
+            "经过一段时间的练习，她的成绩进步很快。"
+          ]
+        },
+        {
+          "chinese": "进步巨大",
+          "pinyin": "jìnbù jùdà",
+          "english": "make great progress",
+          "sample_sentences": [
+            "经过一年的学习，他的中文进步巨大。",
+            "这段时间以来，公司的技术进步巨大。"
+          ]
+        }
+      ]
+    }
+  ]
+}

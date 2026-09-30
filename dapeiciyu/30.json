@@ -1,0 +1,501 @@
+{
+  "title": "30",
+  "categories": [
+    {
+      "main_word": "有利",
+      "pinyin": "yǒulì",
+      "english": "favorable; advantageous",
+      "words": [
+        {
+          "chinese": "有利的形势",
+          "pinyin": "yǒulì de xíngshì",
+          "english": "favorable situation",
+          "sample_sentences": [
+            "目前的市场环境为公司发展创造了有利的形势。",
+            "我们应该抓住当前的有利形势，扩大业务。"
+          ]
+        },
+        {
+          "chinese": "有利的条件",
+          "pinyin": "yǒulì de tiáojiàn",
+          "english": "favorable conditions",
+          "sample_sentences": [
+            "良好的教育环境为学生提供了有利的条件。",
+            "这些有利的条件有助于企业长期发展。"
+          ]
+        },
+        {
+          "chinese": "有利的地位",
+          "pinyin": "yǒulì de dìwèi",
+          "english": "advantageous position",
+          "sample_sentences": [
+            "这家公司在市场竞争中处于有利的地位。",
+            "掌握核心技术可以使企业保持有利的地位。"
+          ]
+        },
+        {
+          "chinese": "有利的环境",
+          "pinyin": "yǒulì de huánjìng",
+          "english": "favorable environment",
+          "sample_sentences": [
+            "良好的学习环境为学生提供了有利的环境。",
+            "政府正在努力创造有利的投资环境。"
+          ]
+        },
+        {
+          "chinese": "有利的位置",
+          "pinyin": "yǒulì de wèizhì",
+          "english": "advantageous location or position",
+          "sample_sentences": [
+            "这家商店位于一个有利的位置。",
+            "酒店处于有利的位置，距离机场和市中心都很近。"
+          ]
+        },
+        {
+          "chinese": "有利的因素",
+          "pinyin": "yǒulì de yīnsù",
+          "english": "favorable factor",
+          "sample_sentences": [
+            "丰富的人力资源是经济发展的有利因素。",
+            "良好的天气也是活动成功的有利因素。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "巧妙",
+      "pinyin": "qiǎomiào",
+      "english": "clever; ingenious; skillful",
+      "words": [
+        {
+          "chinese": "巧妙的方法",
+          "pinyin": "qiǎomiào de fāngfǎ",
+          "english": "clever method",
+          "sample_sentences": [
+            "老师想出了一个巧妙的方法来解决这个问题。",
+            "他用一个巧妙的方法提高了工作效率。"
+          ]
+        },
+        {
+          "chinese": "巧妙的提醒",
+          "pinyin": "qiǎomiào de tíxǐng",
+          "english": "subtle reminder",
+          "sample_sentences": [
+            "他用一个巧妙的提醒让大家注意到了这个问题。",
+            "她没有直接批评，而是给了我一个巧妙的提醒。"
+          ]
+        },
+        {
+          "chinese": "巧妙的设计",
+          "pinyin": "qiǎomiào de shèjì",
+          "english": "clever design",
+          "sample_sentences": [
+            "这个产品采用了非常巧妙的设计。",
+            "设计师通过巧妙的设计节省了很多空间。"
+          ]
+        },
+        {
+          "chinese": "巧妙的方式",
+          "pinyin": "qiǎomiào de fāngshì",
+          "english": "clever way",
+          "sample_sentences": [
+            "他用一种巧妙的方式解决了双方之间的矛盾。",
+            "老师通过巧妙的方式让学生理解了这个语法。"
+          ]
+        },
+        {
+          "chinese": "巧妙的回答",
+          "pinyin": "qiǎomiào de huídá",
+          "english": "clever answer",
+          "sample_sentences": [
+            "面对记者的问题，他给出了一个巧妙的回答。",
+            "她用巧妙的回答避免了一个尴尬的问题。"
+          ]
+        },
+        {
+          "chinese": "巧妙的比喻",
+          "pinyin": "qiǎomiào de bǐyù",
+          "english": "clever metaphor",
+          "sample_sentences": [
+            "老师用了一个巧妙的比喻来解释这个概念。",
+            "这个巧妙的比喻让复杂的问题变得容易理解。"
+          ]
+        },
+        {
+          "chinese": "巧妙的处理",
+          "pinyin": "qiǎomiào de chǔlǐ",
+          "english": "skillful handling",
+          "sample_sentences": [
+            "他对这个问题进行了巧妙的处理。",
+            "经理巧妙地处理了客户之间的矛盾。"
+          ]
+        },
+        {
+          "chinese": "巧妙的发明",
+          "pinyin": "qiǎomiào de fāmíng",
+          "english": "ingenious invention",
+          "sample_sentences": [
+            "这个巧妙的发明改变了人们的生活方式。",
+            "这是一项非常实用而又巧妙的发明。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "不断",
+      "pinyin": "búduàn",
+      "english": "continuously; constantly",
+      "words": [
+        {
+          "chinese": "不断发展",
+          "pinyin": "búduàn fāzhǎn",
+          "english": "develop continuously",
+          "sample_sentences": [
+            "随着科技不断发展，人们的生活越来越方便。",
+            "这个城市正在不断发展。"
+          ]
+        },
+        {
+          "chinese": "不断改善",
+          "pinyin": "búduàn gǎishàn",
+          "english": "continuously improve",
+          "sample_sentences": [
+            "公司正在不断改善服务质量。",
+            "我们应该不断改善自己的学习方法。"
+          ]
+        },
+        {
+          "chinese": "不断追求",
+          "pinyin": "búduàn zhuīqiú",
+          "english": "constantly pursue",
+          "sample_sentences": [
+            "企业应该不断追求创新。",
+            "他一直不断追求更高的目标。"
+          ]
+        },
+        {
+          "chinese": "不断调整",
+          "pinyin": "búduàn tiáozhěng",
+          "english": "continuously adjust",
+          "sample_sentences": [
+            "我们需要根据实际情况不断调整计划。",
+            "他不断调整自己的学习方法。"
+          ]
+        },
+        {
+          "chinese": "不断积累",
+          "pinyin": "búduàn jīlěi",
+          "english": "continuously accumulate",
+          "sample_sentences": [
+            "学习语言需要不断积累词汇。",
+            "工作经验是在实践中不断积累起来的。"
+          ]
+        },
+        {
+          "chinese": "不断投入",
+          "pinyin": "búduàn tóurù",
+          "english": "continuously invest or input",
+          "sample_sentences": [
+            "公司不断投入资金进行技术研发。",
+            "提高教育质量需要不断投入资源。"
+          ]
+        },
+        {
+          "chinese": "不断成熟",
+          "pinyin": "búduàn chéngshú",
+          "english": "become increasingly mature",
+          "sample_sentences": [
+            "随着经验增加，他的工作能力不断成熟。",
+            "这个行业经过多年发展，技术正在不断成熟。"
+          ]
+        },
+        {
+          "chinese": "不断丰富",
+          "pinyin": "búduàn fēngfù",
+          "english": "become increasingly rich; continuously enrich",
+          "sample_sentences": [
+            "随着学习的深入，他的知识不断丰富。",
+            "人们的生活方式正在不断丰富。"
+          ]
+        },
+        {
+          "chinese": "不断优化",
+          "pinyin": "búduàn yōuhuà",
+          "english": "continuously optimize",
+          "sample_sentences": [
+            "公司正在不断优化产品设计。",
+            "我们需要不断优化工作流程。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "无意中",
+      "pinyin": "wúyìzhōng",
+      "english": "unintentionally; by accident",
+      "words": [
+        {
+          "chinese": "无意中发现",
+          "pinyin": "wúyìzhōng fāxiàn",
+          "english": "discover by accident",
+          "sample_sentences": [
+            "我无意中发现了一家很不错的餐厅。",
+            "他整理文件时无意中发现了一个重要问题。"
+          ]
+        },
+        {
+          "chinese": "无意中看到",
+          "pinyin": "wúyìzhōng kàndào",
+          "english": "happen to see",
+          "sample_sentences": [
+            "我昨天无意中看到了一篇很有意思的文章。",
+            "她在网上无意中看到了一张老照片。"
+          ]
+        },
+        {
+          "chinese": "无意中知道",
+          "pinyin": "wúyìzhōng zhīdào",
+          "english": "learn by accident",
+          "sample_sentences": [
+            "我无意中知道了这件事情。",
+            "他无意中知道朋友正在准备一个惊喜。"
+          ]
+        },
+        {
+          "chinese": "无意中成为",
+          "pinyin": "wúyìzhōng chéngwéi",
+          "english": "become by chance",
+          "sample_sentences": [
+            "他无意中成为了这项活动的负责人。",
+            "一次偶然的机会让她无意中成为了一名老师。"
+          ]
+        },
+        {
+          "chinese": "无意中说出",
+          "pinyin": "wúyìzhōng shuōchū",
+          "english": "say accidentally",
+          "sample_sentences": [
+            "他无意中说出了事情的真相。",
+            "我不是故意的，只是无意中说出了这个秘密。"
+          ]
+        },
+        {
+          "chinese": "无意中听到",
+          "pinyin": "wúyìzhōng tīngdào",
+          "english": "overhear; happen to hear",
+          "sample_sentences": [
+            "我无意中听到了他们的谈话。",
+            "她在咖啡店里无意中听到了一个熟悉的名字。"
+          ]
+        },
+        {
+          "chinese": "无意中提起",
+          "pinyin": "wúyìzhōng tíqǐ",
+          "english": "mention accidentally",
+          "sample_sentences": [
+            "他无意中提起了以前工作的事情。",
+            "她聊天时无意中提起了那个计划。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "概念",
+      "pinyin": "gàiniàn",
+      "english": "concept",
+      "words": [
+        {
+          "chinese": "概念明确",
+          "pinyin": "gàiniàn míngquè",
+          "english": "have a clear concept",
+          "sample_sentences": [
+            "这篇文章概念明确，容易理解。",
+            "学习专业知识时，首先要做到概念明确。"
+          ]
+        },
+        {
+          "chinese": "概念模糊",
+          "pinyin": "gàiniàn móhu",
+          "english": "have a vague concept",
+          "sample_sentences": [
+            "如果概念模糊，就很难准确回答问题。",
+            "很多学生对这个概念还比较模糊。"
+          ]
+        },
+        {
+          "chinese": "概念错误",
+          "pinyin": "gàiniàn cuòwù",
+          "english": "wrong concept; conceptual error",
+          "sample_sentences": [
+            "如果一开始概念错误，后面的分析也会受到影响。",
+            "老师指出了文章中的几个概念错误。"
+          ]
+        },
+        {
+          "chinese": "概念复杂",
+          "pinyin": "gàiniàn fùzá",
+          "english": "concept is complex",
+          "sample_sentences": [
+            "这个专业的很多概念比较复杂。",
+            "由于概念复杂，老师用了很多例子来解释。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "设备",
+      "pinyin": "shèbèi",
+      "english": "equipment; facilities",
+      "words": [
+        {
+          "chinese": "设备落后",
+          "pinyin": "shèbèi luòhòu",
+          "english": "outdated equipment",
+          "sample_sentences": [
+            "这家工厂的设备比较落后，需要进行升级。",
+            "由于设备落后，生产效率一直不高。"
+          ]
+        },
+        {
+          "chinese": "设备齐全",
+          "pinyin": "shèbèi qíquán",
+          "english": "fully equipped",
+          "sample_sentences": [
+            "这家健身房设备齐全，环境也很好。",
+            "实验室设备齐全，可以进行各种实验。"
+          ]
+        },
+        {
+          "chinese": "设备完好",
+          "pinyin": "shèbèi wánhǎo",
+          "english": "equipment is in good condition",
+          "sample_sentences": [
+            "工作人员检查后确认所有设备完好。",
+            "使用设备以前，要确保设备完好。"
+          ]
+        },
+        {
+          "chinese": "设备笨重",
+          "pinyin": "shèbèi bènzhòng",
+          "english": "bulky and heavy equipment",
+          "sample_sentences": [
+            "以前的设备比较笨重，搬运起来很不方便。",
+            "新设备比以前轻很多，不再那么笨重。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "体会",
+      "pinyin": "tǐhuì",
+      "english": "understanding; experience",
+      "words": [
+        {
+          "chinese": "深刻的体会",
+          "pinyin": "shēnkè de tǐhuì",
+          "english": "deep understanding or experience",
+          "sample_sentences": [
+            "这次旅行让我对当地文化有了深刻的体会。",
+            "通过这次工作，我对团队合作有了深刻的体会。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "抽象",
+      "pinyin": "chōuxiàng",
+      "english": "abstract",
+      "words": [
+        {
+          "chinese": "抽象的概念",
+          "pinyin": "chōuxiàng de gàiniàn",
+          "english": "abstract concept",
+          "sample_sentences": [
+            "老师用具体的例子解释抽象的概念。",
+            "对于初学者来说，抽象的概念比较难理解。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "效率",
+      "pinyin": "xiàolǜ",
+      "english": "efficiency",
+      "words": [
+        {
+          "chinese": "惊人的效率",
+          "pinyin": "jīngrén de xiàolǜ",
+          "english": "astonishing efficiency",
+          "sample_sentences": [
+            "新系统大大提高了工作效率，效果非常惊人。",
+            "通过自动化处理，他们取得了惊人的效率。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "说话",
+      "pinyin": "shuōhuà",
+      "english": "to speak; talk",
+      "words": [
+        {
+          "chinese": "说话巧妙",
+          "pinyin": "shuōhuà qiǎomiào",
+          "english": "speak tactfully",
+          "sample_sentences": [
+            "他说话很巧妙，从来不会让别人感到尴尬。",
+            "她说话巧妙地避开了这个敏感问题。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "经济",
+      "pinyin": "jīngjì",
+      "english": "economy; economic",
+      "words": [
+        {
+          "chinese": "经济落后",
+          "pinyin": "jīngjì luòhòu",
+          "english": "economically underdeveloped",
+          "sample_sentences": [
+            "过去这个地区经济落后，交通也不方便。",
+            "当地正在努力改善基础设施，促进经济发展。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "方法",
+      "pinyin": "fāngfǎ",
+      "english": "method; way",
+      "words": [
+        {
+          "chinese": "方法实用",
+          "pinyin": "fāngfǎ shíyòng",
+          "english": "the method is practical",
+          "sample_sentences": [
+            "这个学习方法非常实用，适合初学者。",
+            "老师介绍的方法简单而且实用。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "世界",
+      "pinyin": "shìjiè",
+      "english": "world",
+      "words": [
+        {
+          "chinese": "和平的世界",
+          "pinyin": "hépíng de shìjiè",
+          "english": "a peaceful world",
+          "sample_sentences": [
+            "每个人都希望生活在一个和平的世界里。",
+            "我们应该共同努力，为下一代创造一个和平的世界。"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "title": "4",
+  "categories": [
+    {
+      "main_word": "决心",
+      "pinyin": "juéxīn",
+      "english": "determination; resolve",
+      "words": [
+        {
+          "chinese": "下决心",
+          "pinyin": "xià juéxīn",
+          "english": "make up one's mind",
+          "sample_sentences": [
+            "他下决心要提高自己的中文水平。",
+            "经过认真考虑，她终于下决心辞掉这份工作。"
+          ]
+        },
+        {
+          "chinese": "有决心",
+          "pinyin": "yǒu juéxīn",
+          "english": "be determined",
+          "sample_sentences": [
+            "只要有决心，就一定能够克服困难。",
+            "他有决心把这件事情做好。"
+          ]
+        },
+        {
+          "chinese": "表示决心",
+          "pinyin": "biǎoshì juéxīn",
+          "english": "express determination",
+          "sample_sentences": [
+            "他用实际行动表示决心。",
+            "她在会上表示决心，一定会完成任务。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "占",
+      "pinyin": "zhàn",
+      "english": "to occupy; account for; take advantage",
+      "words": [
+        {
+          "chinese": "占一半",
+          "pinyin": "zhàn yíbàn",
+          "english": "account for half",
+          "sample_sentences": [
+            "女性员工占公司员工总数的一半。",
+            "这个项目的成本占整个预算的一半。"
+          ]
+        },
+        {
+          "chinese": "占多数",
+          "pinyin": "zhàn duōshù",
+          "english": "make up the majority",
+          "sample_sentences": [
+            "年轻人在这个城市的居民中占多数。",
+            "支持这个方案的人占多数。"
+          ]
+        },
+        {
+          "chinese": "占总数的百分之八十",
+          "pinyin": "zhàn zǒngshù de bǎifēnzhī bāshí",
+          "english": "account for 80 percent of the total",
+          "sample_sentences": [
+            "女性员工占员工总数的百分之八十。",
+            "这些产品占销售总数的百分之八十。"
+          ]
+        },
+        {
+          "chinese": "占座位",
+          "pinyin": "zhàn zuòwèi",
+          "english": "occupy or reserve a seat",
+          "sample_sentences": [
+            "请不要用包占座位。",
+            "他提前到电影院帮朋友占座位。"
+          ]
+        },
+        {
+          "chinese": "占地方",
+          "pinyin": "zhàn dìfang",
+          "english": "take up space",
+          "sample_sentences": [
+            "这些旧家具太占地方了。",
+            "不用的东西最好及时处理掉，免得占地方。"
+          ]
+        },
+        {
+          "chinese": "占便宜",
+          "pinyin": "zhàn piányi",
+          "english": "take advantage of others",
+          "sample_sentences": [
+            "做人应该诚实，不应该总想着占便宜。",
+            "他从来不会利用别人的善良占便宜。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "食物",
+      "pinyin": "shíwù",
+      "english": "food",
+      "words": [
+        {
+          "chinese": "美味的食物",
+          "pinyin": "měiwèi de shíwù",
+          "english": "delicious food",
+          "sample_sentences": [
+            "这家餐厅提供各种美味的食物。",
+            "旅行中品尝当地的美味食物也是一种享受。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "菜肴",
+      "pinyin": "càiyáo",
+      "english": "dish; cuisine",
+      "words": [
+        {
+          "chinese": "精美的菜肴",
+          "pinyin": "jīngměi de càiyáo",
+          "english": "exquisite dishes",
+          "sample_sentences": [
+            "餐厅为客人准备了许多精美的菜肴。",
+            "这些精美的菜肴不仅味道好，而且摆盘也很漂亮。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "委屈",
+      "pinyin": "wěiqu",
+      "english": "aggrieved; hurt; feel unfairly treated",
+      "words": [
+        {
+          "chinese": "委屈地说",
+          "pinyin": "wěiqu de shuō",
+          "english": "say in a hurt or aggrieved tone",
+          "sample_sentences": [
+            "她委屈地说，自己并没有做错什么。",
+            "孩子委屈地说，他只是想帮助大家。"
+          ]
+        },
+        {
+          "chinese": "委屈地哭",
+          "pinyin": "wěiqu de kū",
+          "english": "cry in a hurt or aggrieved way",
+          "sample_sentences": [
+            "她受了委屈，躲在房间里委屈地哭。",
+            "孩子因为被误解而委屈地哭了起来。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "勤奋",
+      "pinyin": "qínfèn",
+      "english": "diligent; hardworking",
+      "words": [
+        {
+          "chinese": "勤奋地学习",
+          "pinyin": "qínfèn de xuéxí",
+          "english": "study diligently",
+          "sample_sentences": [
+            "他一直勤奋地学习中文。",
+            "只要勤奋地学习，就会不断取得进步。"
+          ]
+        },
+        {
+          "chinese": "勤奋地工作",
+          "pinyin": "qínfèn de gōngzuò",
+          "english": "work diligently",
+          "sample_sentences": [
+            "她每天都勤奋地工作。",
+            "他勤奋地工作，很快得到了领导的认可。"
+          ]
+        },
+        {
+          "chinese": "勤奋地干活儿",
+          "pinyin": "qínfèn de gànhuór",
+          "english": "work diligently",
+          "sample_sentences": [
+            "农民们每天勤奋地干活儿。",
+            "他从小就习惯勤奋地干活儿。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "背",
+      "pinyin": "bēi",
+      "english": "to carry on one's back",
+      "words": [
+        {
+          "chinese": "背起来",
+          "pinyin": "bēi qǐlái",
+          "english": "carry or lift onto one's back",
+          "sample_sentences": [
+            "这个箱子太重了，我背起来很困难。",
+            "他把孩子背起来，慢慢走回家。"
+          ]
+        },
+        {
+          "chinese": "背在肩上",
+          "pinyin": "bēi zài jiānshàng",
+          "english": "carry on one's shoulder",
+          "sample_sentences": [
+            "他把书包背在肩上。",
+            "她把背包背在肩上，准备出发。"
+          ]
+        },
+        {
+          "chinese": "背不动",
+          "pinyin": "bēi bù dòng",
+          "english": "be unable to carry",
+          "sample_sentences": [
+            "这个箱子太重了，我背不动。",
+            "他的东西太多，一个人根本背不动。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "流传",
+      "pinyin": "liúchuán",
+      "english": "to be passed down; to spread",
+      "words": [
+        {
+          "chinese": "流传至今",
+          "pinyin": "liúchuán zhìjīn",
+          "english": "be passed down to this day",
+          "sample_sentences": [
+            "这个故事流传至今已经有几百年了。",
+            "这种传统文化一直流传至今。"
+          ]
+        },
+        {
+          "chinese": "流传到",
+          "pinyin": "liúchuán dào",
+          "english": "spread or be passed down to",
+          "sample_sentences": [
+            "这个故事流传到了很多国家。",
+            "这种传统后来流传到了其他地区。"
+          ]
+        },
+        {
+          "chinese": "流传了一千年",
+          "pinyin": "liúchuán le yìqiān nián",
+          "english": "have been passed down for a thousand years",
+          "sample_sentences": [
+            "这个传说已经流传了一千年。",
+            "这种传统文化在当地流传了一千年。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "扶",
+      "pinyin": "fú",
+      "english": "to support; help someone up",
+      "words": [
+        {
+          "chinese": "扶一下",
+          "pinyin": "fú yíxià",
+          "english": "give someone brief support",
+          "sample_sentences": [
+            "你能扶一下我吗？",
+            "老人下楼的时候，请扶一下他。"
+          ]
+        },
+        {
+          "chinese": "扶一把",
+          "pinyin": "fú yì bǎ",
+          "english": "give someone a helping hand",
+          "sample_sentences": [
+            "他差点摔倒，我赶紧扶了他一把。",
+            "朋友遇到困难时，我们应该扶他一把。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "诚恳",
+      "pinyin": "chéngkěn",
+      "english": "sincere; earnest",
+      "words": [
+        {
+          "chinese": "诚恳的态度",
+          "pinyin": "chéngkěn de tàidu",
+          "english": "sincere attitude",
+          "sample_sentences": [
+            "他用诚恳的态度向大家道歉。",
+            "只要你有诚恳的态度，别人通常愿意听你的解释。"
+          ]
+        }
+      ]
+    }
+  ]
+}

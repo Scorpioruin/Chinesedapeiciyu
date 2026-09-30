@@ -1,0 +1,477 @@
+{
+  "title": "14",
+  "categories": [
+    {
+      "main_word": "功能",
+      "pinyin": "gōngnéng",
+      "english": "function; feature",
+      "words": [
+        {
+          "chinese": "有的功能",
+          "pinyin": "yǒu de gōngnéng",
+          "english": "some functions",
+          "sample_sentences": [
+            "这个软件有的功能非常实用。",
+            "不同版本的软件有的功能可能不一样。"
+          ]
+        },
+        {
+          "chinese": "具备功能",
+          "pinyin": "jùbèi gōngnéng",
+          "english": "have functions; possess functionality",
+          "sample_sentences": [
+            "这款手机具备多种实用功能。",
+            "这个系统具备自动分析数据的功能。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "创造",
+      "pinyin": "chuàngzào",
+      "english": "to create",
+      "words": [
+        {
+          "chinese": "创造文字",
+          "pinyin": "chuàngzào wénzì",
+          "english": "create a writing system or characters",
+          "sample_sentences": [
+            "人类很早以前就开始创造文字。",
+            "不同民族在历史上创造了各自的文字。"
+          ]
+        },
+        {
+          "chinese": "创造历史",
+          "pinyin": "chuàngzào lìshǐ",
+          "english": "make history",
+          "sample_sentences": [
+            "这支球队在比赛中创造了历史。",
+            "这项技术的发展可能创造新的历史。"
+          ]
+        },
+        {
+          "chinese": "创造机会",
+          "pinyin": "chuàngzào jīhuì",
+          "english": "create opportunities",
+          "sample_sentences": [
+            "我们应该主动为自己创造机会。",
+            "学校为学生创造了很多实践机会。"
+          ]
+        },
+        {
+          "chinese": "创造条件",
+          "pinyin": "chuàngzào tiáojiàn",
+          "english": "create conditions",
+          "sample_sentences": [
+            "公司正在为员工创造更好的工作条件。",
+            "我们应该努力创造条件，让项目顺利进行。"
+          ]
+        },
+        {
+          "chinese": "创造奇迹",
+          "pinyin": "chuàngzào qíjì",
+          "english": "create a miracle",
+          "sample_sentences": [
+            "只要坚持努力，就有可能创造奇迹。",
+            "这个年轻团队在比赛中创造了奇迹。"
+          ]
+        },
+        {
+          "chinese": "创造美好生活",
+          "pinyin": "chuàngzào měihǎo shēnghuó",
+          "english": "create a better life",
+          "sample_sentences": [
+            "我们努力工作是为了创造美好生活。",
+            "科技的发展为人们创造了更加美好的生活。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "矛盾",
+      "pinyin": "máodùn",
+      "english": "conflict; contradiction",
+      "words": [
+        {
+          "chinese": "产生矛盾",
+          "pinyin": "chǎnshēng máodùn",
+          "english": "develop conflicts",
+          "sample_sentences": [
+            "他们在合作过程中产生了矛盾。",
+            "意见不同很容易产生矛盾。"
+          ]
+        },
+        {
+          "chinese": "有矛盾",
+          "pinyin": "yǒu máodùn",
+          "english": "have a conflict",
+          "sample_sentences": [
+            "他们两个人之间好像有矛盾。",
+            "如果双方有矛盾，应该及时沟通。"
+          ]
+        },
+        {
+          "chinese": "闹矛盾",
+          "pinyin": "nào máodùn",
+          "english": "have a conflict; quarrel",
+          "sample_sentences": [
+            "他们最近因为一点小事闹矛盾了。",
+            "朋友之间难免会闹矛盾，但应该及时解决。"
+          ]
+        },
+        {
+          "chinese": "矛盾极了",
+          "pinyin": "máodùn jí le",
+          "english": "feel extremely conflicted",
+          "sample_sentences": [
+            "他现在的心情矛盾极了，不知道该选择哪一个。",
+            "面对这个决定，她心里矛盾极了。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "日常",
+      "pinyin": "rìcháng",
+      "english": "daily; everyday",
+      "words": [
+        {
+          "chinese": "日常生活",
+          "pinyin": "rìcháng shēnghuó",
+          "english": "daily life",
+          "sample_sentences": [
+            "手机已经成为我们日常生活的一部分。",
+            "运动对日常生活中的健康很重要。"
+          ]
+        },
+        {
+          "chinese": "日常工作",
+          "pinyin": "rìcháng gōngzuò",
+          "english": "daily work",
+          "sample_sentences": [
+            "这些事情都是我的日常工作。",
+            "他每天都会记录自己的日常工作。"
+          ]
+        },
+        {
+          "chinese": "日常用品",
+          "pinyin": "rìcháng yòngpǐn",
+          "english": "daily necessities",
+          "sample_sentences": [
+            "超市里可以买到各种日常用品。",
+            "搬家前，我先整理好了所有日常用品。"
+          ]
+        },
+        {
+          "chinese": "日常用语",
+          "pinyin": "rìcháng yòngyǔ",
+          "english": "everyday expressions",
+          "sample_sentences": [
+            "学习日常用语可以帮助外国人更快地融入生活。",
+            "这本书介绍了很多实用的日常用语。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "日子",
+      "pinyin": "rìzi",
+      "english": "days; life",
+      "words": [
+        {
+          "chinese": "重要的日子",
+          "pinyin": "zhòngyào de rìzi",
+          "english": "important day",
+          "sample_sentences": [
+            "生日是对我来说非常重要的日子。",
+            "结婚纪念日是他们每年都会庆祝的重要日子。"
+          ]
+        },
+        {
+          "chinese": "幸福的日子",
+          "pinyin": "xìngfú de rìzi",
+          "english": "happy days",
+          "sample_sentences": [
+            "他们一起度过了许多幸福的日子。",
+            "我希望以后能和家人过上幸福的日子。"
+          ]
+        },
+        {
+          "chinese": "困难的日子",
+          "pinyin": "kùnnan de rìzi",
+          "english": "difficult days",
+          "sample_sentences": [
+            "我们一起度过了最困难的日子。",
+            "困难的日子会让人变得更加坚强。"
+          ]
+        },
+        {
+          "chinese": "与世无争的日子",
+          "pinyin": "yǔ shì wú zhēng de rìzi",
+          "english": "peaceful days without worldly conflict",
+          "sample_sentences": [
+            "退休以后，他过着与世无争的日子。",
+            "她喜欢安静地生活，享受与世无争的日子。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "广泛",
+      "pinyin": "guǎngfàn",
+      "english": "wide; extensive; widespread",
+      "words": [
+        {
+          "chinese": "广泛调查",
+          "pinyin": "guǎngfàn diàochá",
+          "english": "conduct a wide-ranging survey or investigation",
+          "sample_sentences": [
+            "在制定计划之前，我们进行了广泛调查。",
+            "研究人员对当地居民进行了广泛调查。"
+          ]
+        },
+        {
+          "chinese": "广泛研究",
+          "pinyin": "guǎngfàn yánjiū",
+          "english": "conduct extensive research",
+          "sample_sentences": [
+            "科学家对这个问题进行了广泛研究。",
+            "在做出决定之前，他广泛研究了相关资料。"
+          ]
+        },
+        {
+          "chinese": "广泛应用",
+          "pinyin": "guǎngfàn yìngyòng",
+          "english": "be widely applied",
+          "sample_sentences": [
+            "人工智能已经在很多领域得到广泛应用。",
+            "这种技术正在医疗行业得到广泛应用。"
+          ]
+        },
+        {
+          "chinese": "广泛流行",
+          "pinyin": "guǎngfàn liúxíng",
+          "english": "become widely popular",
+          "sample_sentences": [
+            "这种生活方式近年来越来越广泛流行。",
+            "这种音乐曾经在年轻人中广泛流行。"
+          ]
+        },
+        {
+          "chinese": "广泛分布",
+          "pinyin": "guǎngfàn fēnbù",
+          "english": "be widely distributed",
+          "sample_sentences": [
+            "这种植物广泛分布在亚洲地区。",
+            "这种资源在世界各地广泛分布。"
+          ]
+        },
+        {
+          "chinese": "广泛关注",
+          "pinyin": "guǎngfàn guānzhù",
+          "english": "receive widespread attention",
+          "sample_sentences": [
+            "这个问题已经受到社会的广泛关注。",
+            "这项研究成果引起了广泛关注。"
+          ]
+        },
+        {
+          "chinese": "广泛的兴趣",
+          "pinyin": "guǎngfàn de xìngqù",
+          "english": "broad interests",
+          "sample_sentences": [
+            "他的广泛兴趣让他学到了很多东西。",
+            "拥有广泛的兴趣可以丰富我们的生活。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "组合",
+      "pinyin": "zǔhé",
+      "english": "to combine; combination",
+      "words": [
+        {
+          "chinese": "组合起来",
+          "pinyin": "zǔhé qǐlái",
+          "english": "combine together",
+          "sample_sentences": [
+            "把这些图片组合起来，就能形成一个完整的图案。",
+            "不同的颜色组合起来以后效果很好。"
+          ]
+        },
+        {
+          "chinese": "组合到一起",
+          "pinyin": "zǔhé dào yìqǐ",
+          "english": "combine together",
+          "sample_sentences": [
+            "把不同的部分组合到一起，就完成了整个系统。",
+            "这些零件可以组合到一起使用。"
+          ]
+        },
+        {
+          "chinese": "组合成",
+          "pinyin": "zǔhé chéng",
+          "english": "combine into; form",
+          "sample_sentences": [
+            "这些词可以组合成一个完整的句子。",
+            "不同的材料组合成了新的产品。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "兴趣",
+      "pinyin": "xìngqù",
+      "english": "interest",
+      "words": [
+        {
+          "chinese": "兴趣广泛",
+          "pinyin": "xìngqù guǎngfàn",
+          "english": "have broad interests",
+          "sample_sentences": [
+            "他兴趣广泛，喜欢音乐、运动和阅读。",
+            "她从小就兴趣广泛，什么都愿意尝试。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "爱好",
+      "pinyin": "àihào",
+      "english": "hobby; interest",
+      "words": [
+        {
+          "chinese": "爱好广泛",
+          "pinyin": "àihào guǎngfàn",
+          "english": "have a wide range of hobbies",
+          "sample_sentences": [
+            "他爱好广泛，喜欢摄影、旅行和画画。",
+            "她爱好广泛，周末经常参加不同的活动。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "知识",
+      "pinyin": "zhīshi",
+      "english": "knowledge",
+      "words": [
+        {
+          "chinese": "知识广泛",
+          "pinyin": "zhīshi guǎngfàn",
+          "english": "have broad knowledge",
+          "sample_sentences": [
+            "他知识广泛，对很多领域都有了解。",
+            "老师知识广泛，能够回答学生提出的各种问题。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "内容",
+      "pinyin": "nèiróng",
+      "english": "content",
+      "words": [
+        {
+          "chinese": "内容广泛",
+          "pinyin": "nèiróng guǎngfàn",
+          "english": "cover a wide range of content",
+          "sample_sentences": [
+            "这本书内容广泛，涉及很多不同的领域。",
+            "课程内容广泛，包括语言、文化和历史。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "准备",
+      "pinyin": "zhǔnbèi",
+      "english": "preparation; to prepare",
+      "words": [
+        {
+          "chinese": "准备充分",
+          "pinyin": "zhǔnbèi chōngfèn",
+          "english": "be fully prepared",
+          "sample_sentences": [
+            "因为准备充分，他顺利通过了考试。",
+            "只要准备充分，就不用太担心。"
+          ]
+        },
+        {
+          "chinese": "充分的准备",
+          "pinyin": "chōngfèn de zhǔnbèi",
+          "english": "adequate preparation",
+          "sample_sentences": [
+            "成功离不开充分的准备。",
+            "经过充分的准备，我们终于完成了这项任务。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "理由",
+      "pinyin": "lǐyóu",
+      "english": "reason",
+      "words": [
+        {
+          "chinese": "理由充分",
+          "pinyin": "lǐyóu chōngfèn",
+          "english": "have sufficient reasons",
+          "sample_sentences": [
+            "他的理由充分，大家都同意了他的决定。",
+            "如果你有充分的理由，可以向老师解释。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "接待",
+      "pinyin": "jiēdài",
+      "english": "to receive; welcome guests",
+      "words": [
+        {
+          "chinese": "接待客人",
+          "pinyin": "jiēdài kèrén",
+          "english": "receive guests",
+          "sample_sentences": [
+            "今天由我负责接待客人。",
+            "工作人员热情地接待了来自国外的客人。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "组成",
+      "pinyin": "zǔchéng",
+      "english": "to form; constitute",
+      "words": [
+        {
+          "chinese": "组成家庭",
+          "pinyin": "zǔchéng jiātíng",
+          "english": "form a family",
+          "sample_sentences": [
+            "两个人相爱以后，决定组成家庭。",
+            "他们结婚以后组成了一个幸福的家庭。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "固定",
+      "pinyin": "gùdìng",
+      "english": "fixed; regular",
+      "words": [
+        {
+          "chinese": "固定的样式",
+          "pinyin": "gùdìng de yàngshì",
+          "english": "fixed style or design",
+          "sample_sentences": [
+            "这种产品一直采用固定的样式。",
+            "如果不喜欢固定的样式，顾客也可以自己设计。"
+          ]
+        }
+      ]
+    }
+  ]
+}

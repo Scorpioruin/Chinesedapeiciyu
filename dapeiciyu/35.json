@@ -1,0 +1,418 @@
+{
+  "title": "35",
+  "categories": [
+    {
+      "main_word": "感觉",
+      "pinyin": "gǎnjué",
+      "english": "to feel",
+      "words": [
+        {
+          "chinese": "感觉疲劳",
+          "pinyin": "gǎnjué píláo",
+          "english": "feel tired",
+          "sample_sentences": [
+            "工作了一整天以后，我感觉很疲劳。",
+            "如果感觉疲劳，就应该休息一会儿。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "缓解",
+      "pinyin": "huǎnjiě",
+      "english": "to relieve; ease",
+      "words": [
+        {
+          "chinese": "缓解疲劳",
+          "pinyin": "huǎnjiě píláo",
+          "english": "relieve fatigue",
+          "sample_sentences": [
+            "适当运动可以帮助缓解疲劳。",
+            "听音乐是我缓解疲劳的一种方法。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "指挥",
+      "pinyin": "zhǐhuī",
+      "english": "to command; direct",
+      "words": [
+        {
+          "chinese": "指挥士兵",
+          "pinyin": "zhǐhuī shìbīng",
+          "english": "command soldiers",
+          "sample_sentences": [
+            "将军正在指挥士兵进行训练。",
+            "他负责指挥士兵完成这次任务。"
+          ]
+        },
+        {
+          "chinese": "指挥军队",
+          "pinyin": "zhǐhuī jūnduì",
+          "english": "command an army",
+          "sample_sentences": [
+            "将军负责指挥军队作战。",
+            "他曾经指挥军队完成过多次任务。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "补充",
+      "pinyin": "bǔchōng",
+      "english": "to supplement; replenish",
+      "words": [
+        {
+          "chinese": "补充信息",
+          "pinyin": "bǔchōng xìnxī",
+          "english": "supplement information",
+          "sample_sentences": [
+            "请补充信息，以便我们进一步了解情况。",
+            "如果有新的情况，请及时补充信息。"
+          ]
+        },
+        {
+          "chinese": "补充营养",
+          "pinyin": "bǔchōng yíngyǎng",
+          "english": "supplement nutrition",
+          "sample_sentences": [
+            "多吃水果和蔬菜可以帮助身体补充营养。",
+            "孩子成长过程中需要及时补充营养。"
+          ]
+        },
+        {
+          "chinese": "补充人员",
+          "pinyin": "bǔchōng rényuán",
+          "english": "add/replenish personnel",
+          "sample_sentences": [
+            "公司决定为这个部门补充人员。",
+            "由于工作量增加，我们需要及时补充人员。"
+          ]
+        },
+        {
+          "chinese": "补充资金",
+          "pinyin": "bǔchōng zījīn",
+          "english": "provide additional funds",
+          "sample_sentences": [
+            "这个项目还需要补充资金。",
+            "公司决定为新项目补充资金。"
+          ]
+        },
+        {
+          "chinese": "补充水分",
+          "pinyin": "bǔchōng shuǐfèn",
+          "english": "replenish fluids",
+          "sample_sentences": [
+            "运动以后要及时补充水分。",
+            "天气炎热时，要注意多喝水，及时补充水分。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "秩序",
+      "pinyin": "zhìxù",
+      "english": "order; public order",
+      "words": [
+        {
+          "chinese": "遵守秩序",
+          "pinyin": "zūnshǒu zhìxù",
+          "english": "observe public order",
+          "sample_sentences": [
+            "在公共场所，我们应该遵守秩序。",
+            "大家排队时要自觉遵守秩序。"
+          ]
+        },
+        {
+          "chinese": "破坏秩序",
+          "pinyin": "pòhuài zhìxù",
+          "english": "disrupt order",
+          "sample_sentences": [
+            "任何人都不能故意破坏公共秩序。",
+            "大声喧哗可能会影响别人，甚至破坏秩序。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "吸收",
+      "pinyin": "xīshōu",
+      "english": "to absorb",
+      "words": [
+        {
+          "chinese": "有效吸收",
+          "pinyin": "yǒuxiào xīshōu",
+          "english": "absorb effectively",
+          "sample_sentences": [
+            "这种方法可以帮助身体有效吸收营养。",
+            "适量运动有助于身体有效吸收营养物质。"
+          ]
+        },
+        {
+          "chinese": "直接吸收",
+          "pinyin": "zhíjiē xīshōu",
+          "english": "absorb directly",
+          "sample_sentences": [
+            "植物可以直接吸收土壤中的水分。",
+            "这种营养成分能够被人体直接吸收。"
+          ]
+        },
+        {
+          "chinese": "大量吸收",
+          "pinyin": "dàliàng xīshōu",
+          "english": "absorb a large amount",
+          "sample_sentences": [
+            "植物通过根部大量吸收水分。",
+            "海绵可以大量吸收水分。"
+          ]
+        },
+        {
+          "chinese": "完全吸收",
+          "pinyin": "wánquán xīshōu",
+          "english": "absorb completely",
+          "sample_sentences": [
+            "这些营养物质很容易被身体完全吸收。",
+            "土壤需要一定时间才能完全吸收这些水分。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "自动",
+      "pinyin": "zìdòng",
+      "english": "automatically",
+      "words": [
+        {
+          "chinese": "自动离开",
+          "pinyin": "zìdòng líkāi",
+          "english": "leave automatically",
+          "sample_sentences": [
+            "如果没有人在操作，机器会自动离开工作状态。",
+            "系统检测到异常后会自动离开当前页面。"
+          ]
+        },
+        {
+          "chinese": "自动辞职",
+          "pinyin": "zìdòng cízhí",
+          "english": "resign automatically",
+          "sample_sentences": [
+            "如果连续缺席，公司规定员工可能会被视为自动辞职。",
+            "按照规定，长期不参加工作的人可能被视为自动辞职。"
+          ]
+        },
+        {
+          "chinese": "自动打开",
+          "pinyin": "zìdòng dǎkāi",
+          "english": "open automatically",
+          "sample_sentences": [
+            "门靠近人时会自动打开。",
+            "这个软件启动以后会自动打开。"
+          ]
+        },
+        {
+          "chinese": "自动燃烧",
+          "pinyin": "zìdòng ránshāo",
+          "english": "ignite/burn automatically",
+          "sample_sentences": [
+            "这种材料在高温下可能自动燃烧。",
+            "实验人员正在研究这种物质为什么会自动燃烧。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "歇",
+      "pinyin": "xiē",
+      "english": "to rest",
+      "words": [
+        {
+          "chinese": "歇一会儿",
+          "pinyin": "xiē yíhuìr",
+          "english": "rest for a while",
+          "sample_sentences": [
+            "你已经工作很久了，歇一会儿吧。",
+            "我们走累了，找个地方歇一会儿。"
+          ]
+        },
+        {
+          "chinese": "歇两天",
+          "pinyin": "xiē liǎng tiān",
+          "english": "rest for two days",
+          "sample_sentences": [
+            "最近太累了，我想歇两天。",
+            "医生建议他歇两天再回去工作。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一片",
+      "pinyin": "yí piàn",
+      "english": "a piece/slice/area of",
+      "words": [
+        {
+          "chinese": "一片面包",
+          "pinyin": "yí piàn miànbāo",
+          "english": "a slice of bread",
+          "sample_sentences": [
+            "早餐我吃了一片面包。",
+            "请给我拿一片面包。"
+          ]
+        },
+        {
+          "chinese": "一片西瓜",
+          "pinyin": "yí piàn xīguā",
+          "english": "a slice of watermelon",
+          "sample_sentences": [
+            "天气很热，我吃了一片西瓜。",
+            "桌子上放着几片西瓜。"
+          ]
+        },
+        {
+          "chinese": "一片药",
+          "pinyin": "yí piàn yào",
+          "english": "one tablet of medicine",
+          "sample_sentences": [
+            "医生让我每天吃一片药。",
+            "吃药以前要先看清楚说明书。"
+          ]
+        },
+        {
+          "chinese": "一片草地",
+          "pinyin": "yí piàn cǎodì",
+          "english": "a stretch of grassland",
+          "sample_sentences": [
+            "公园里有一片草地。",
+            "孩子们正在一片草地上玩耍。"
+          ]
+        },
+        {
+          "chinese": "一片树林",
+          "pinyin": "yí piàn shùlín",
+          "english": "a stretch of woodland",
+          "sample_sentences": [
+            "村子旁边有一片树林。",
+            "他们穿过一片树林后到达了山脚。"
+          ]
+        },
+        {
+          "chinese": "一片天空",
+          "pinyin": "yí piàn tiānkōng",
+          "english": "a stretch of sky",
+          "sample_sentences": [
+            "抬头可以看到一片蓝蓝的天空。",
+            "夕阳把一片天空染成了红色。"
+          ]
+        },
+        {
+          "chinese": "一片欢笑声",
+          "pinyin": "yí piàn huānxiàoshēng",
+          "english": "a burst of laughter",
+          "sample_sentences": [
+            "教室里传来一片欢笑声。",
+            "孩子们玩得很开心，周围充满了一片欢笑声。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "管子",
+      "pinyin": "guǎnzi",
+      "english": "pipe; tube",
+      "words": [
+        {
+          "chinese": "一根管子",
+          "pinyin": "yì gēn guǎnzi",
+          "english": "a pipe/tube",
+          "sample_sentences": [
+            "工人正在安装一根管子。",
+            "这根管子负责输送水。"
+          ]
+        },
+        {
+          "chinese": "一支管子",
+          "pinyin": "yì zhī guǎnzi",
+          "english": "a tube/pipe",
+          "sample_sentences": [
+            "他手里拿着一支管子。",
+            "实验室里需要准备一支细管子。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "玻璃",
+      "pinyin": "bōli",
+      "english": "glass",
+      "words": [
+        {
+          "chinese": "一块玻璃",
+          "pinyin": "yí kuài bōli",
+          "english": "a piece of glass",
+          "sample_sentences": [
+            "地上有一块破碎的玻璃。",
+            "工人把一块玻璃安装在窗户上。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "开水",
+      "pinyin": "kāishuǐ",
+      "english": "boiling water",
+      "words": [
+        {
+          "chinese": "一壶开水",
+          "pinyin": "yì hú kāishuǐ",
+          "english": "a pot of boiling water",
+          "sample_sentences": [
+            "请帮我烧一壶开水。",
+            "桌上放着一壶开水。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "疲劳",
+      "pinyin": "píláo",
+      "english": "fatigue; tiredness",
+      "words": [
+        {
+          "chinese": "恢复疲劳",
+          "pinyin": "huīfù píláo",
+          "english": "recover from fatigue",
+          "sample_sentences": [
+            "充足的睡眠有助于恢复疲劳。",
+            "休息一会儿可以帮助身体恢复疲劳。"
+          ]
+        },
+        {
+          "chinese": "缓解疲劳",
+          "pinyin": "huǎnjiě píláo",
+          "english": "relieve fatigue",
+          "sample_sentences": [
+            "适当运动可以帮助缓解疲劳。",
+            "听音乐是我缓解疲劳的一种方法。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "状况",
+      "pinyin": "zhuàngkuàng",
+      "english": "condition; situation",
+      "words": [
+        {
+          "chinese": "了解状况",
+          "pinyin": "liǎojiě zhuàngkuàng",
+          "english": "understand the situation",
+          "sample_sentences": [
+            "我们需要先了解状况，再决定下一步怎么做。",
+            "医生正在详细了解病人的身体状况。"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "title": "20",
+  "categories": [
+    {
+      "main_word": "从事",
+      "pinyin": "cóngshì",
+      "english": "to engage in; to be engaged in",
+      "words": [
+        {
+          "chinese": "从事的工作",
+          "pinyin": "cóngshì de gōngzuò",
+          "english": "the work one is engaged in",
+          "sample_sentences": [
+            "你现在从事的工作是什么？",
+            "我很喜欢自己从事的工作。"
+          ]
+        },
+        {
+          "chinese": "从事的业务",
+          "pinyin": "cóngshì de yèwù",
+          "english": "the business one is engaged in",
+          "sample_sentences": [
+            "公司主要介绍自己从事的业务。",
+            "他对自己从事的业务非常熟悉。"
+          ]
+        },
+        {
+          "chinese": "从事的职业",
+          "pinyin": "cóngshì de zhíyè",
+          "english": "the profession one is engaged in",
+          "sample_sentences": [
+            "你对自己从事的职业满意吗？",
+            "他从事的职业需要很强的沟通能力。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "办理",
+      "pinyin": "bànlǐ",
+      "english": "to handle; process; apply for",
+      "words": [
+        {
+          "chinese": "办理手续",
+          "pinyin": "bànlǐ shǒuxù",
+          "english": "complete the formalities or procedures",
+          "sample_sentences": [
+            "办理手续需要准备一些材料。",
+            "请先到前台办理手续。"
+          ]
+        },
+        {
+          "chinese": "办理业务",
+          "pinyin": "bànlǐ yèwù",
+          "english": "handle business; conduct a transaction",
+          "sample_sentences": [
+            "您可以在这里办理业务。",
+            "办理业务之前，请准备好身份证。"
+          ]
+        },
+        {
+          "chinese": "办理信用卡",
+          "pinyin": "bànlǐ xìnyòngkǎ",
+          "english": "apply for a credit card",
+          "sample_sentences": [
+            "我想去银行办理信用卡。",
+            "办理信用卡需要提供有效的身份证件。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "粗糙",
+      "pinyin": "cūcāo",
+      "english": "rough; coarse",
+      "words": [
+        {
+          "chinese": "粗糙的皮肤",
+          "pinyin": "cūcāo de pífū",
+          "english": "rough skin",
+          "sample_sentences": [
+            "天气太干燥会让皮肤变得粗糙。",
+            "使用护肤品以后，她的粗糙的皮肤慢慢变好了。"
+          ]
+        },
+        {
+          "chinese": "粗糙的地面",
+          "pinyin": "cūcāo de dìmiàn",
+          "english": "rough ground; rough surface",
+          "sample_sentences": [
+            "粗糙的地面容易让人摔倒。",
+            "工人正在修理粗糙的地面。"
+          ]
+        },
+        {
+          "chinese": "粗糙的木板",
+          "pinyin": "cūcāo de mùbǎn",
+          "english": "rough wooden board",
+          "sample_sentences": [
+            "这块粗糙的木板需要打磨。",
+            "工人把粗糙的木板加工得很光滑。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "整齐",
+      "pinyin": "zhěngqí",
+      "english": "neat; orderly; uniform",
+      "words": [
+        {
+          "chinese": "整齐的房间",
+          "pinyin": "zhěngqí de fángjiān",
+          "english": "tidy room",
+          "sample_sentences": [
+            "她每天都保持整齐的房间。",
+            "一个整齐的房间会让人感觉很舒服。"
+          ]
+        },
+        {
+          "chinese": "整齐的队伍",
+          "pinyin": "zhěngqí de duìwu",
+          "english": "orderly formation; neat line",
+          "sample_sentences": [
+            "学生们排成整齐的队伍。",
+            "他们保持整齐的队伍走进会场。"
+          ]
+        },
+        {
+          "chinese": "整齐的声音",
+          "pinyin": "zhěngqí de shēngyīn",
+          "english": "uniform or synchronized voices",
+          "sample_sentences": [
+            "孩子们用整齐的声音朗读课文。",
+            "大家一起回答问题，声音非常整齐。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "登记",
+      "pinyin": "dēngjì",
+      "english": "to register; record",
+      "words": [
+        {
+          "chinese": "登记清楚",
+          "pinyin": "dēngjì qīngchu",
+          "english": "register or record clearly",
+          "sample_sentences": [
+            "请把个人信息登记清楚。",
+            "工作人员已经把客人的资料登记清楚了。"
+          ]
+        },
+        {
+          "chinese": "登记好",
+          "pinyin": "dēngjì hǎo",
+          "english": "complete the registration",
+          "sample_sentences": [
+            "请先登记好个人信息。",
+            "所有学生都登记好了以后，老师才开始上课。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "翻",
+      "pinyin": "fān",
+      "english": "to overturn; knock over",
+      "words": [
+        {
+          "chinese": "打翻",
+          "pinyin": "dǎfān",
+          "english": "knock over; spill",
+          "sample_sentences": [
+            "他不小心把桌上的水打翻了。",
+            "小孩子跑过来的时候，把杯子打翻了。"
+          ]
+        },
+        {
+          "chinese": "碰翻",
+          "pinyin": "pèngfān",
+          "english": "knock over accidentally",
+          "sample_sentences": [
+            "我不小心碰翻了桌上的咖啡。",
+            "他转身的时候碰翻了旁边的花瓶。"
+          ]
+        },
+        {
+          "chinese": "闹翻",
+          "pinyin": "nàofān",
+          "english": "fall out with someone; have a serious quarrel",
+          "sample_sentences": [
+            "他们因为钱的问题闹翻了。",
+            "我不想因为这件小事和朋友闹翻。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一册",
+      "pinyin": "yí cè",
+      "english": "a volume; a copy",
+      "words": [
+        {
+          "chinese": "一册书",
+          "pinyin": "yí cè shū",
+          "english": "a volume or copy of a book",
+          "sample_sentences": [
+            "图书馆里有一册珍贵的古书。",
+            "老师给每个学生发了一册书。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一笔",
+      "pinyin": "yì bǐ",
+      "english": "a sum; a sum of money",
+      "words": [
+        {
+          "chinese": "一笔押金",
+          "pinyin": "yì bǐ yājīn",
+          "english": "a deposit; a sum of deposit",
+          "sample_sentences": [
+            "租房的时候通常需要支付一笔押金。",
+            "退房以后，房东会把一笔押金退还给你。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "单调",
+      "pinyin": "dāndiào",
+      "english": "monotonous; dull",
+      "words": [
+        {
+          "chinese": "生活单调",
+          "pinyin": "shēnghuó dāndiào",
+          "english": "have a monotonous life",
+          "sample_sentences": [
+            "如果每天只工作和睡觉，生活会很单调。",
+            "他不喜欢生活单调，所以经常出去旅行。"
+          ]
+        },
+        {
+          "chinese": "色彩单调",
+          "pinyin": "sècǎi dāndiào",
+          "english": "dull or monotonous in color",
+          "sample_sentences": [
+            "这幅画的色彩单调，缺少变化。",
+            "设计师增加了一些颜色，让画面不再色彩单调。"
+          ]
+        },
+        {
+          "chinese": "形式单调",
+          "pinyin": "xíngshì dāndiào",
+          "english": "monotonous in form or format",
+          "sample_sentences": [
+            "如果教学形式单调，学生很容易失去兴趣。",
+            "这种活动形式单调，需要增加一些新的内容。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "身材",
+      "pinyin": "shēncái",
+      "english": "figure; build",
+      "words": [
+        {
+          "chinese": "身材好",
+          "pinyin": "shēncái hǎo",
+          "english": "have a good figure",
+          "sample_sentences": [
+            "她经常运动，所以身材很好。",
+            "保持健康的生活习惯有助于保持好身材。"
+          ]
+        },
+        {
+          "chinese": "身材高大",
+          "pinyin": "shēncái gāodà",
+          "english": "have a tall, large build",
+          "sample_sentences": [
+            "他身材高大，看起来很强壮。",
+            "那个身材高大的男子站在人群中非常显眼。"
+          ]
+        },
+        {
+          "chinese": "身材矮小",
+          "pinyin": "shēncái ǎixiǎo",
+          "english": "have a short, small build",
+          "sample_sentences": [
+            "虽然他身材矮小，但是非常有力量。",
+            "身材矮小并不影响他的运动能力。"
+          ]
+        },
+        {
+          "chinese": "身材苗条",
+          "pinyin": "shēncái miáotiáo",
+          "english": "have a slim figure",
+          "sample_sentences": [
+            "她通过运动保持了苗条的身材。",
+            "很多人认为健康比单纯追求身材苗条更重要。"
+          ]
+        }
+      ]
+    }
+  ]
+}

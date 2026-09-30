@@ -1,0 +1,133 @@
+{
+  "title": "19",
+  "categories": [
+    {
+      "main_word": "烫",
+      "pinyin": "tàng",
+      "english": "to scald; hot",
+      "words": [
+        {
+          "chinese": "烫手",
+          "pinyin": "tàng shǒu",
+          "english": "hot to the touch",
+          "sample_sentences": [
+            "这个杯子太烫手了，小心一点。",
+            "刚煮好的汤很烫手，不要马上拿。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "闻",
+      "pinyin": "wén",
+      "english": "to smell; to sniff",
+      "words": [
+        {
+          "chinese": "闻味道",
+          "pinyin": "wén wèidào",
+          "english": "smell the scent or odor",
+          "sample_sentences": [
+            "你先闻味道，看看牛奶是不是坏了。",
+            "打开盒子以后，我闻到了一股奇怪的味道。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "炒",
+      "pinyin": "chǎo",
+      "english": "to stir-fry",
+      "words": [
+        {
+          "chinese": "炒肉丝",
+          "pinyin": "chǎo ròusī",
+          "english": "stir-fried shredded pork",
+          "sample_sentences": [
+            "妈妈正在厨房里炒肉丝。",
+            "我喜欢吃青椒炒肉丝。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "煮",
+      "pinyin": "zhǔ",
+      "english": "to boil; cook",
+      "words": [
+        {
+          "chinese": "煮饺子",
+          "pinyin": "zhǔ jiǎozi",
+          "english": "boil dumplings",
+          "sample_sentences": [
+            "过年的时候，我们一家人一起煮饺子。",
+            "水开以后，把饺子放进去煮。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "口味",
+      "pinyin": "kǒuwèi",
+      "english": "taste; flavor preference",
+      "words": [
+        {
+          "chinese": "口味清淡",
+          "pinyin": "kǒuwèi qīngdàn",
+          "english": "have a light taste",
+          "sample_sentences": [
+            "我喜欢口味清淡的食物。",
+            "医生建议他最近吃得清淡一些。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "色彩",
+      "pinyin": "sècǎi",
+      "english": "color; coloring",
+      "words": [
+        {
+          "chinese": "色彩明显",
+          "pinyin": "sècǎi míngxiǎn",
+          "english": "have distinct colors",
+          "sample_sentences": [
+            "这两幅画的色彩明显不同。",
+            "这件衣服的色彩明显，很容易被看到。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "玻璃",
+      "pinyin": "bōli",
+      "english": "glass",
+      "words": [
+        {
+          "chinese": "玻璃透明",
+          "pinyin": "bōli tòumíng",
+          "english": "the glass is transparent",
+          "sample_sentences": [
+            "这个杯子的玻璃透明，可以看到里面的水。",
+            "这种玻璃透明度很高，看起来非常干净。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "特色",
+      "pinyin": "tèsè",
+      "english": "distinctive feature; characteristic",
+      "words": [
+        {
+          "chinese": "特色丰富",
+          "pinyin": "tèsè fēngfù",
+          "english": "rich in distinctive features",
+          "sample_sentences": [
+            "这个城市的文化特色丰富。",
+            "这家餐厅的菜品特色丰富，吸引了很多游客。"
+          ]
+        }
+      ]
+    }
+  ]
+}

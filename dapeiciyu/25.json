@@ -1,0 +1,580 @@
+{
+  "title": "25",
+  "categories": [
+    {
+      "main_word": "承受",
+      "pinyin": "chéngshòu",
+      "english": "to bear; endure; withstand",
+      "words": [
+        {
+          "chinese": "承受压力",
+          "pinyin": "chéngshòu yālì",
+          "english": "bear or withstand pressure",
+          "sample_sentences": [
+            "现在的年轻人也会承受很大的压力。",
+            "他每天都要承受很大的工作压力。"
+          ]
+        },
+        {
+          "chinese": "承受重量",
+          "pinyin": "chéngshòu zhòngliàng",
+          "english": "bear or support weight",
+          "sample_sentences": [
+            "这座桥可以承受很大的重量。",
+            "这个架子的承重能力有限，不能承受太大的重量。"
+          ]
+        },
+        {
+          "chinese": "承受痛苦",
+          "pinyin": "chéngshòu tòngkǔ",
+          "english": "endure suffering",
+          "sample_sentences": [
+            "他承受了很大的痛苦。",
+            "没有人应该长期承受这样的痛苦。"
+          ]
+        },
+        {
+          "chinese": "承受挑战",
+          "pinyin": "chéngshòu tiǎozhàn",
+          "english": "face or withstand a challenge",
+          "sample_sentences": [
+            "他有信心承受新的挑战。",
+            "面对巨大的变化，公司需要承受很多挑战。"
+          ]
+        },
+        {
+          "chinese": "承受",
+          "pinyin": "chéngshòu",
+          "english": "bear; endure; withstand",
+          "sample_sentences": [
+            "这个材料可以承受很高的温度。",
+            "他已经承受了太多压力。"
+          ]
+        },
+        {
+          "chinese": "承受住",
+          "pinyin": "chéngshòu zhù",
+          "english": "withstand; endure successfully",
+          "sample_sentences": [
+            "这个架子可以承受住很大的重量。",
+            "他终于承受住了巨大的压力。"
+          ]
+        },
+        {
+          "chinese": "承受不起",
+          "pinyin": "chéngshòu bù qǐ",
+          "english": "cannot bear; cannot afford",
+          "sample_sentences": [
+            "这么高的费用我承受不起。",
+            "这种压力太大了，我真的承受不起。"
+          ]
+        },
+        {
+          "chinese": "承受得了",
+          "pinyin": "chéngshòu de liǎo",
+          "english": "can bear; can withstand",
+          "sample_sentences": [
+            "这种程度的压力我还承受得了。",
+            "你确定自己承受得了这么大的工作量吗？"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "威胁",
+      "pinyin": "wēixié",
+      "english": "to threaten; pose a threat to",
+      "words": [
+        {
+          "chinese": "威胁人类",
+          "pinyin": "wēixié rénlèi",
+          "english": "threaten humanity",
+          "sample_sentences": [
+            "环境污染可能会威胁人类的健康。",
+            "一些全球性问题正在威胁人类的未来。"
+          ]
+        },
+        {
+          "chinese": "威胁安全",
+          "pinyin": "wēixié ānquán",
+          "english": "threaten safety or security",
+          "sample_sentences": [
+            "这种行为可能威胁公共安全。",
+            "使用质量不合格的产品可能威胁安全。"
+          ]
+        },
+        {
+          "chinese": "威胁健康",
+          "pinyin": "wēixié jiànkāng",
+          "english": "threaten health",
+          "sample_sentences": [
+            "长期吸烟会威胁健康。",
+            "空气污染可能威胁人们的健康。"
+          ]
+        },
+        {
+          "chinese": "威胁和平",
+          "pinyin": "wēixié hépíng",
+          "english": "threaten peace",
+          "sample_sentences": [
+            "战争会严重威胁和平。",
+            "任何冲突都可能威胁地区和平。"
+          ]
+        },
+        {
+          "chinese": "威胁生命",
+          "pinyin": "wēixié shēngmìng",
+          "english": "threaten life",
+          "sample_sentences": [
+            "这种疾病可能威胁生命。",
+            "严重的事故可能威胁人的生命。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "相似",
+      "pinyin": "xiāngsì",
+      "english": "similar; alike",
+      "words": [
+        {
+          "chinese": "相似的情况",
+          "pinyin": "xiāngsì de qíngkuàng",
+          "english": "similar situation",
+          "sample_sentences": [
+            "以前也发生过相似的情况。",
+            "如果遇到相似的情况，我们可以采用同样的方法。"
+          ]
+        },
+        {
+          "chinese": "相似的爱好",
+          "pinyin": "xiāngsì de àihào",
+          "english": "similar hobbies",
+          "sample_sentences": [
+            "他们有相似的爱好，所以很容易成为朋友。",
+            "我们发现彼此有很多相似的爱好。"
+          ]
+        },
+        {
+          "chinese": "相似的观点",
+          "pinyin": "xiāngsì de guāndiǎn",
+          "english": "similar views",
+          "sample_sentences": [
+            "他们对这个问题有相似的观点。",
+            "两位专家提出了相似的观点。"
+          ]
+        },
+        {
+          "chinese": "相似的看法",
+          "pinyin": "xiāngsì de kànfǎ",
+          "english": "similar opinions or views",
+          "sample_sentences": [
+            "我们对这个问题有相似的看法。",
+            "他们虽然来自不同国家，却有相似的看法。"
+          ]
+        },
+        {
+          "chinese": "形状相似",
+          "pinyin": "xíngzhuàng xiāngsì",
+          "english": "have a similar shape",
+          "sample_sentences": [
+            "这两个东西的形状相似。",
+            "虽然颜色不同，但是它们的形状相似。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "恶劣",
+      "pinyin": "èliè",
+      "english": "bad; severe; harsh",
+      "words": [
+        {
+          "chinese": "恶劣的天气",
+          "pinyin": "èliè de tiānqì",
+          "english": "bad or severe weather",
+          "sample_sentences": [
+            "由于恶劣的天气，航班被取消了。",
+            "司机在恶劣的天气下开车要特别小心。"
+          ]
+        },
+        {
+          "chinese": "恶劣的态度",
+          "pinyin": "èliè de tàidu",
+          "english": "bad or hostile attitude",
+          "sample_sentences": [
+            "他的恶劣的态度让大家很不舒服。",
+            "服务人员不应该用恶劣的态度对待顾客。"
+          ]
+        },
+        {
+          "chinese": "恶劣的关系",
+          "pinyin": "èliè de guānxi",
+          "english": "bad relationship",
+          "sample_sentences": [
+            "他们之间的关系非常恶劣。",
+            "长期的矛盾使双方形成了恶劣的关系。"
+          ]
+        },
+        {
+          "chinese": "恶劣的条件",
+          "pinyin": "èliè de tiáojiàn",
+          "english": "poor or harsh conditions",
+          "sample_sentences": [
+            "工人在恶劣的条件下完成了任务。",
+            "他们需要在非常恶劣的条件下工作。"
+          ]
+        },
+        {
+          "chinese": "恶劣的影响",
+          "pinyin": "èliè de yǐngxiǎng",
+          "english": "negative or harmful influence",
+          "sample_sentences": [
+            "这种行为可能产生恶劣的影响。",
+            "环境污染会对健康产生恶劣的影响。"
+          ]
+        },
+        {
+          "chinese": "恶劣的表现",
+          "pinyin": "èliè de biǎoxiàn",
+          "english": "bad or poor performance or behavior",
+          "sample_sentences": [
+            "他在比赛中的表现很恶劣。",
+            "这种行为是非常恶劣的表现。"
+          ]
+        },
+        {
+          "chinese": "气候恶劣",
+          "pinyin": "qìhòu èliè",
+          "english": "have a harsh climate",
+          "sample_sentences": [
+            "这个地区气候恶劣，不适合长期居住。",
+            "探险队需要在气候恶劣的环境中工作。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "谨慎",
+      "pinyin": "jǐnshèn",
+      "english": "cautious; careful",
+      "words": [
+        {
+          "chinese": "谨慎地对待",
+          "pinyin": "jǐnshèn de duìdài",
+          "english": "treat or approach cautiously",
+          "sample_sentences": [
+            "我们应该谨慎地对待这个问题。",
+            "对于重要的信息，要谨慎地对待。"
+          ]
+        },
+        {
+          "chinese": "谨慎地处理",
+          "pinyin": "jǐnshèn de chǔlǐ",
+          "english": "handle cautiously",
+          "sample_sentences": [
+            "这个问题比较复杂，需要谨慎地处理。",
+            "工作人员正在谨慎地处理这件事情。"
+          ]
+        },
+        {
+          "chinese": "谨慎地工作",
+          "pinyin": "jǐnshèn de gōngzuò",
+          "english": "work cautiously",
+          "sample_sentences": [
+            "在危险的环境中工作时，要谨慎地工作。",
+            "他做事认真，总是谨慎地工作。"
+          ]
+        },
+        {
+          "chinese": "谨慎地从事",
+          "pinyin": "jǐnshèn de cóngshì",
+          "english": "engage in cautiously",
+          "sample_sentences": [
+            "从事这项工作需要谨慎。",
+            "我们应该谨慎地从事相关活动。"
+          ]
+        },
+        {
+          "chinese": "谨慎地打开",
+          "pinyin": "jǐnshèn de dǎkāi",
+          "english": "open carefully",
+          "sample_sentences": [
+            "请谨慎地打开这个盒子。",
+            "他谨慎地打开文件，检查里面的内容。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "彻底",
+      "pinyin": "chèdǐ",
+      "english": "thoroughly; completely",
+      "words": [
+        {
+          "chinese": "彻底放弃",
+          "pinyin": "chèdǐ fàngqì",
+          "english": "give up completely",
+          "sample_sentences": [
+            "他决定彻底放弃这个计划。",
+            "即使遇到困难，也不要轻易彻底放弃。"
+          ]
+        },
+        {
+          "chinese": "彻底检查",
+          "pinyin": "chèdǐ jiǎnchá",
+          "english": "check thoroughly",
+          "sample_sentences": [
+            "医生给他做了彻底检查。",
+            "出发以前，我们应该彻底检查车辆。"
+          ]
+        },
+        {
+          "chinese": "彻底改正",
+          "pinyin": "chèdǐ gǎizhèng",
+          "english": "correct completely",
+          "sample_sentences": [
+            "我们应该彻底改正自己的错误。",
+            "这个问题必须彻底改正。"
+          ]
+        },
+        {
+          "chinese": "彻底改变",
+          "pinyin": "chèdǐ gǎibiàn",
+          "english": "change completely",
+          "sample_sentences": [
+            "这次经历彻底改变了他的生活。",
+            "新技术正在彻底改变我们的工作方式。"
+          ]
+        },
+        {
+          "chinese": "彻底解决",
+          "pinyin": "chèdǐ jiějué",
+          "english": "solve completely",
+          "sample_sentences": [
+            "我们必须彻底解决这个问题。",
+            "找到原因以后，才能彻底解决问题。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "摔",
+      "pinyin": "shuāi",
+      "english": "to fall; fall and injure; break by dropping",
+      "words": [
+        {
+          "chinese": "摔倒",
+          "pinyin": "shuāidǎo",
+          "english": "fall down",
+          "sample_sentences": [
+            "地面很滑，小心不要摔倒。",
+            "他跑得太快，不小心摔倒了。"
+          ]
+        },
+        {
+          "chinese": "摔伤",
+          "pinyin": "shuāishāng",
+          "english": "get injured from a fall",
+          "sample_sentences": [
+            "他骑自行车的时候摔伤了腿。",
+            "她不小心摔伤了手。"
+          ]
+        },
+        {
+          "chinese": "摔碎",
+          "pinyin": "shuāisuì",
+          "english": "break by dropping",
+          "sample_sentences": [
+            "他不小心把杯子摔碎了。",
+            "小心一点，不要把玻璃瓶摔碎。"
+          ]
+        },
+        {
+          "chinese": "摔下去",
+          "pinyin": "shuāi xiàqù",
+          "english": "fall down or fall off",
+          "sample_sentences": [
+            "他从楼梯上摔下去了。",
+            "自行车突然失去平衡，他摔下去了。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一吨",
+      "pinyin": "yì dūn",
+      "english": "one ton",
+      "words": [
+        {
+          "chinese": "一吨货物",
+          "pinyin": "yì dūn huòwù",
+          "english": "one ton of goods",
+          "sample_sentences": [
+            "这辆卡车可以运输一吨货物。",
+            "仓库里刚刚运进来一吨货物。"
+          ]
+        },
+        {
+          "chinese": "一吨钢铁",
+          "pinyin": "yì dūn gāngtiě",
+          "english": "one ton of steel",
+          "sample_sentences": [
+            "工厂每天需要使用一吨钢铁。",
+            "这座建筑需要大量钢材，至少要用一吨钢铁。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一起",
+      "pinyin": "yìqǐ",
+      "english": "a measure word for an incident or accident",
+      "words": [
+        {
+          "chinese": "一起意外",
+          "pinyin": "yìqǐ yìwài",
+          "english": "an accident; an unexpected incident",
+          "sample_sentences": [
+            "昨天发生了一起意外。",
+            "这起意外让大家非常担心。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "严肃",
+      "pinyin": "yánsù",
+      "english": "serious; solemn",
+      "words": [
+        {
+          "chinese": "表情严肃",
+          "pinyin": "biǎoqíng yánsù",
+          "english": "have a serious expression",
+          "sample_sentences": [
+            "老师的表情很严肃。",
+            "看到这个消息以后，他的表情变得严肃起来。"
+          ]
+        },
+        {
+          "chinese": "态度严肃",
+          "pinyin": "tàidu yánsù",
+          "english": "have a serious attitude",
+          "sample_sentences": [
+            "他对待工作态度严肃。",
+            "我们应该以严肃的态度对待这个问题。"
+          ]
+        },
+        {
+          "chinese": "气氛严肃",
+          "pinyin": "qìfēn yánsù",
+          "english": "have a serious atmosphere",
+          "sample_sentences": [
+            "会议开始以后，气氛变得严肃起来。",
+            "因为发生了重要的事情，现场气氛十分严肃。"
+          ]
+        },
+        {
+          "chinese": "内容严肃",
+          "pinyin": "nèiróng yánsù",
+          "english": "serious in content",
+          "sample_sentences": [
+            "这是一部内容严肃的纪录片。",
+            "虽然电影内容严肃，但是很值得观看。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "慌张",
+      "pinyin": "huāngzhāng",
+      "english": "panicked; flustered",
+      "words": [
+        {
+          "chinese": "神情慌张",
+          "pinyin": "shénqíng huāngzhāng",
+          "english": "have a panicked expression",
+          "sample_sentences": [
+            "他听到消息以后，神情慌张。",
+            "看到警察以后，他显得神情慌张。"
+          ]
+        },
+        {
+          "chinese": "表情慌张",
+          "pinyin": "biǎoqíng huāngzhāng",
+          "english": "have a panicked expression",
+          "sample_sentences": [
+            "他的表情慌张，好像发生了什么事情。",
+            "孩子突然找不到妈妈，表情慌张起来。"
+          ]
+        },
+        {
+          "chinese": "眼神慌张",
+          "pinyin": "yǎnshén huāngzhāng",
+          "english": "have a nervous or panicked look in one's eyes",
+          "sample_sentences": [
+            "他的眼神慌张，不敢看别人。",
+            "面对记者的问题，他的眼神显得有些慌张。"
+          ]
+        },
+        {
+          "chinese": "动作慌张",
+          "pinyin": "dòngzuò huāngzhāng",
+          "english": "move in a hurried or panicked way",
+          "sample_sentences": [
+            "他动作慌张，不小心把杯子碰倒了。",
+            "听到警报以后，人们的动作变得慌张起来。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "冒",
+      "pinyin": "mào",
+      "english": "to take or run a risk",
+      "words": [
+        {
+          "chinese": "冒风险",
+          "pinyin": "mào fēngxiǎn",
+          "english": "take a risk",
+          "sample_sentences": [
+            "为了赚钱，他不愿意冒风险。",
+            "我们不能为了赶时间而冒风险。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "浏览",
+      "pinyin": "liúlǎn",
+      "english": "to browse",
+      "words": [
+        {
+          "chinese": "浏览名胜",
+          "pinyin": "liúlǎn míngshèng",
+          "english": "browse information about famous scenic spots",
+          "sample_sentences": [
+            "游客可以在网上浏览名胜的介绍。",
+            "旅行期间，我们参观了很多名胜。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "营养",
+      "pinyin": "yíngyǎng",
+      "english": "nutrition",
+      "words": [
+        {
+          "chinese": "营养平衡",
+          "pinyin": "yíngyǎng pínghéng",
+          "english": "nutritional balance",
+          "sample_sentences": [
+            "保持营养平衡对身体健康很重要。",
+            "每天应该注意饮食，让营养保持平衡。"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "title": "26",
+  "categories": [
+    {
+      "main_word": "提倡",
+      "pinyin": "tíchàng",
+      "english": "to advocate; promote",
+      "words": [
+        {
+          "chinese": "提倡科学",
+          "pinyin": "tíchàng kēxué",
+          "english": "advocate science",
+          "sample_sentences": [
+            "我们应该提倡科学，反对迷信。",
+            "社会应该提倡科学精神。"
+          ]
+        },
+        {
+          "chinese": "提倡戒烟",
+          "pinyin": "tíchàng jièyān",
+          "english": "advocate quitting smoking",
+          "sample_sentences": [
+            "医生提倡戒烟，以保持身体健康。",
+            "学校和医院都应该提倡戒烟。"
+          ]
+        },
+        {
+          "chinese": "提倡对话",
+          "pinyin": "tíchàng duìhuà",
+          "english": "advocate dialogue",
+          "sample_sentences": [
+            "双方应该提倡对话，通过沟通解决问题。",
+            "在发生分歧时，我们应该提倡对话。"
+          ]
+        },
+        {
+          "chinese": "提倡节约",
+          "pinyin": "tíchàng jiéyuē",
+          "english": "advocate conservation or frugality",
+          "sample_sentences": [
+            "我们应该提倡节约用水。",
+            "学校正在提倡节约粮食。"
+          ]
+        },
+        {
+          "chinese": "提倡诚实",
+          "pinyin": "tíchàng chéngshí",
+          "english": "advocate honesty",
+          "sample_sentences": [
+            "教育应该提倡诚实。",
+            "我们应该提倡诚实守信的生活方式。"
+          ]
+        },
+        {
+          "chinese": "提倡平等",
+          "pinyin": "tíchàng píngděng",
+          "english": "advocate equality",
+          "sample_sentences": [
+            "社会应该提倡平等。",
+            "学校应该提倡平等对待每一位学生。"
+          ]
+        },
+        {
+          "chinese": "大力提倡",
+          "pinyin": "dàlì tíchàng",
+          "english": "strongly advocate; vigorously promote",
+          "sample_sentences": [
+            "学校大力提倡节约用水。",
+            "社会应该大力提倡健康的生活方式。"
+          ]
+        },
+        {
+          "chinese": "积极提倡",
+          "pinyin": "jījí tíchàng",
+          "english": "actively advocate",
+          "sample_sentences": [
+            "学校积极提倡环保。",
+            "公司积极提倡员工健康生活。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "耽误",
+      "pinyin": "dānwu",
+      "english": "to delay; hold up; interfere with",
+      "words": [
+        {
+          "chinese": "耽误工作",
+          "pinyin": "dānwu gōngzuò",
+          "english": "delay or interfere with work",
+          "sample_sentences": [
+            "生病可能会耽误工作。",
+            "不要因为一些小事耽误工作。"
+          ]
+        },
+        {
+          "chinese": "耽误时间",
+          "pinyin": "dānwu shíjiān",
+          "english": "waste or delay time",
+          "sample_sentences": [
+            "别在这种事情上耽误时间。",
+            "我们不能继续耽误时间了。"
+          ]
+        },
+        {
+          "chinese": "耽误孩子",
+          "pinyin": "dānwu háizi",
+          "english": "delay or negatively affect a child",
+          "sample_sentences": [
+            "不要因为家庭问题耽误孩子的学习。",
+            "生病太久可能会耽误孩子上学。"
+          ]
+        },
+        {
+          "chinese": "耽误生产",
+          "pinyin": "dānwu shēngchǎn",
+          "english": "delay production",
+          "sample_sentences": [
+            "设备出现问题可能会耽误生产。",
+            "我们必须及时修理机器，不能耽误生产。"
+          ]
+        },
+        {
+          "chinese": "耽误休息",
+          "pinyin": "dānwu xiūxi",
+          "english": "interfere with rest",
+          "sample_sentences": [
+            "工作太晚会耽误休息。",
+            "不要因为工作耽误正常休息。"
+          ]
+        },
+        {
+          "chinese": "耽误约会",
+          "pinyin": "dānwu yuēhuì",
+          "english": "delay a date or appointment",
+          "sample_sentences": [
+            "路上堵车，差点耽误约会。",
+            "我不想因为工作耽误约会。"
+          ]
+        },
+        {
+          "chinese": "耽误看病",
+          "pinyin": "dānwu kànbìng",
+          "english": "delay seeing a doctor",
+          "sample_sentences": [
+            "身体不舒服时不要耽误看病。",
+            "如果一直拖下去，可能会耽误看病。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "寂寞",
+      "pinyin": "jìmò",
+      "english": "lonely; loneliness",
+      "words": [
+        {
+          "chinese": "寂寞的朋友",
+          "pinyin": "jìmò de péngyou",
+          "english": "a lonely friend",
+          "sample_sentences": [
+            "我们应该多陪陪寂寞的朋友。",
+            "他常常帮助那些感到寂寞的朋友。"
+          ]
+        },
+        {
+          "chinese": "寂寞的年代",
+          "pinyin": "jìmò de niándài",
+          "english": "a lonely era",
+          "sample_sentences": [
+            "这本小说描写了一个寂寞的年代。",
+            "那是一个让很多人感到寂寞的年代。"
+          ]
+        },
+        {
+          "chinese": "寂寞的感觉",
+          "pinyin": "jìmò de gǎnjué",
+          "english": "a feeling of loneliness",
+          "sample_sentences": [
+            "一个人在陌生的城市生活，有时会有寂寞的感觉。",
+            "朋友不在身边时，他常常有寂寞的感觉。"
+          ]
+        },
+        {
+          "chinese": "寂寞的心情",
+          "pinyin": "jìmò de xīnqíng",
+          "english": "a lonely mood",
+          "sample_sentences": [
+            "音乐可以帮助他改变寂寞的心情。",
+            "她一个人在家，心里有一种寂寞的心情。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "出色",
+      "pinyin": "chūsè",
+      "english": "outstanding; excellent",
+      "words": [
+        {
+          "chinese": "出色的人物",
+          "pinyin": "chūsè de rénwù",
+          "english": "outstanding person or figure",
+          "sample_sentences": [
+            "他是一位非常出色的人物。",
+            "历史上出现过许多出色的人物。"
+          ]
+        },
+        {
+          "chinese": "出色的医生",
+          "pinyin": "chūsè de yīshēng",
+          "english": "an outstanding doctor",
+          "sample_sentences": [
+            "这家医院有很多出色的医生。",
+            "他是一名出色的医生，受到病人的信任。"
+          ]
+        },
+        {
+          "chinese": "出色的成绩",
+          "pinyin": "chūsè de chéngjì",
+          "english": "excellent results or achievements",
+          "sample_sentences": [
+            "她在考试中取得了出色的成绩。",
+            "经过长期努力，他终于取得了出色的成绩。"
+          ]
+        },
+        {
+          "chinese": "出色的表现",
+          "pinyin": "chūsè de biǎoxiàn",
+          "english": "excellent performance",
+          "sample_sentences": [
+            "他在比赛中有出色的表现。",
+            "她的出色表现得到了大家的认可。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "投资",
+      "pinyin": "tóuzī",
+      "english": "to invest; investment",
+      "words": [
+        {
+          "chinese": "长期投资",
+          "pinyin": "chángqī tóuzī",
+          "english": "long-term investment",
+          "sample_sentences": [
+            "一些公司选择长期投资新技术。",
+            "他计划长期投资这个项目。"
+          ]
+        },
+        {
+          "chinese": "纷纷投资",
+          "pinyin": "fēnfēn tóuzī",
+          "english": "invest one after another",
+          "sample_sentences": [
+            "看到市场的发展以后，很多公司纷纷投资。",
+            "投资机会出现以后，企业纷纷投资。"
+          ]
+        },
+        {
+          "chinese": "大胆投资",
+          "pinyin": "dàdǎn tóuzī",
+          "english": "invest boldly",
+          "sample_sentences": [
+            "他决定大胆投资新项目。",
+            "在充分了解风险以后，他们大胆投资。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "算",
+      "pinyin": "suàn",
+      "english": "to calculate; count; be considered",
+      "words": [
+        {
+          "chinese": "算不清",
+          "pinyin": "suàn bù qīng",
+          "english": "cannot calculate clearly",
+          "sample_sentences": [
+            "这些费用太多了，我已经算不清了。",
+            "事情太复杂，我一时算不清需要多少钱。"
+          ]
+        },
+        {
+          "chinese": "算不出",
+          "pinyin": "suàn bù chū",
+          "english": "cannot calculate or figure out",
+          "sample_sentences": [
+            "这个问题太复杂，我算不出答案。",
+            "没有足够的数据，我们算不出准确的结果。"
+          ]
+        },
+        {
+          "chinese": "算得上",
+          "pinyin": "suàn de shàng",
+          "english": "can be considered; qualify as",
+          "sample_sentences": [
+            "他算得上是这个领域的专家。",
+            "这家餐厅算得上是当地最受欢迎的餐厅之一。"
+          ]
+        },
+        {
+          "chinese": "算不了",
+          "pinyin": "suàn bù liǎo",
+          "english": "cannot calculate; cannot be counted as",
+          "sample_sentences": [
+            "没有这些数据，这笔费用算不了。",
+            "这点困难算不了什么。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "搞",
+      "pinyin": "gǎo",
+      "english": "to do; make; handle",
+      "words": [
+        {
+          "chinese": "搞错",
+          "pinyin": "gǎo cuò",
+          "english": "get wrong; make a mistake",
+          "sample_sentences": [
+            "不好意思，我把时间搞错了。",
+            "你是不是把他的名字搞错了？"
+          ]
+        },
+        {
+          "chinese": "搞成",
+          "pinyin": "gǎo chéng",
+          "english": "turn or make into",
+          "sample_sentences": [
+            "他们把这个房间搞成了一个小办公室。",
+            "不要把简单的问题搞成复杂的问题。"
+          ]
+        },
+        {
+          "chinese": "搞出来",
+          "pinyin": "gǎo chūlái",
+          "english": "produce; come up with; make",
+          "sample_sentences": [
+            "经过几个月的努力，他们终于把产品搞出来了。",
+            "你能不能把这个方案搞出来？"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "高度",
+      "pinyin": "gāodù",
+      "english": "highly; degree; height",
+      "words": [
+        {
+          "chinese": "高度准确",
+          "pinyin": "gāodù zhǔnquè",
+          "english": "highly accurate",
+          "sample_sentences": [
+            "这个仪器具有很高的准确度。",
+            "为了得到高度准确的结果，我们需要更多的数据。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一部",
+      "pinyin": "yí bù",
+      "english": "a measure word for films, books, etc.",
+      "words": [
+        {
+          "chinese": "一部纪录片",
+          "pinyin": "yí bù jìlùpiān",
+          "english": "a documentary",
+          "sample_sentences": [
+            "昨天晚上我看了一部纪录片。",
+            "这是一部关于环境保护的纪录片。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一批",
+      "pinyin": "yì pī",
+      "english": "a batch; a group",
+      "words": [
+        {
+          "chinese": "一批货",
+          "pinyin": "yì pī huò",
+          "english": "a batch or shipment of goods",
+          "sample_sentences": [
+            "今天下午会有一批货送到仓库。",
+            "这批货已经准备好了，可以发出去。"
+          ]
+        },
+        {
+          "chinese": "一批学生",
+          "pinyin": "yì pī xuéshēng",
+          "english": "a group or batch of students",
+          "sample_sentences": [
+            "学校今年招收了一批学生。",
+            "老师正在给一批学生上课。"
+          ]
+        }
+      ]
+    }
+  ]
+}

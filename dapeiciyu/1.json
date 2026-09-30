@@ -1,0 +1,363 @@
+{
+  "title": "1",
+  "categories": [
+    {
+      "main_word": "抱怨",
+      "pinyin": "bàoyuàn",
+      "english": "to complain",
+      "words": [
+        {
+          "chinese": "抱怨别人",
+          "pinyin": "bàoyuàn biérén",
+          "english": "complain about others",
+          "sample_sentences": [
+            "遇到问题时，与其抱怨别人，不如想办法解决。",
+            "他总是抱怨别人，却很少反省自己。"
+          ]
+        },
+        {
+          "chinese": "抱怨妻子",
+          "pinyin": "bàoyuàn qīzi",
+          "english": "complain about one's wife",
+          "sample_sentences": [
+            "他经常抱怨妻子不理解自己的工作。",
+            "与其一直抱怨妻子，不如坐下来好好沟通。"
+          ]
+        },
+        {
+          "chinese": "抱怨餐厅的菜不好吃",
+          "pinyin": "bàoyuàn cāntīng de cài bù hǎochī",
+          "english": "complain that the restaurant's food is not tasty",
+          "sample_sentences": [
+            "顾客抱怨餐厅的菜不好吃。",
+            "他吃完饭以后一直抱怨餐厅的菜不好吃。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "爱护",
+      "pinyin": "àihù",
+      "english": "to care for; protect",
+      "words": [
+        {
+          "chinese": "爱护环境",
+          "pinyin": "àihù huánjìng",
+          "english": "protect the environment",
+          "sample_sentences": [
+            "我们每个人都有责任爱护环境。",
+            "爱护环境应该从身边的小事做起。"
+          ]
+        },
+        {
+          "chinese": "爱护花草树木",
+          "pinyin": "àihù huācǎo shùmù",
+          "english": "take care of flowers, plants and trees",
+          "sample_sentences": [
+            "公园里到处都有提醒大家爱护花草树木的标志。",
+            "我们应该教育孩子从小爱护花草树木。"
+          ]
+        },
+        {
+          "chinese": "爱护公物",
+          "pinyin": "àihù gōngwù",
+          "english": "take care of public property",
+          "sample_sentences": [
+            "我们应该自觉爱护公物。",
+            "学校要求学生爱护公物，不要随意损坏桌椅。"
+          ]
+        },
+        {
+          "chinese": "爱护学生",
+          "pinyin": "àihù xuéshēng",
+          "english": "care for students",
+          "sample_sentences": [
+            "老师不仅要教育学生，也要爱护学生。",
+            "每一位老师都应该关心和爱护学生。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "细节",
+      "pinyin": "xìjié",
+      "english": "detail",
+      "words": [
+        {
+          "chinese": "电影的细节",
+          "pinyin": "diànyǐng de xìjié",
+          "english": "details of a movie",
+          "sample_sentences": [
+            "这部电影的细节处理得非常好。",
+            "如果仔细观察电影的细节，会发现很多有趣的地方。"
+          ]
+        },
+        {
+          "chinese": "小说的细节",
+          "pinyin": "xiǎoshuō de xìjié",
+          "english": "details of a novel",
+          "sample_sentences": [
+            "这部小说的细节描写非常生动。",
+            "作者通过小说的细节表现了人物的性格。"
+          ]
+        },
+        {
+          "chinese": "生活的细节",
+          "pinyin": "shēnghuó de xìjié",
+          "english": "details of daily life",
+          "sample_sentences": [
+            "幸福往往藏在生活的细节中。",
+            "我们可以从生活的细节看出一个人的习惯。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "电台",
+      "pinyin": "diàntái",
+      "english": "radio station",
+      "words": [
+        {
+          "chinese": "电台的记者",
+          "pinyin": "diàntái de jìzhě",
+          "english": "a radio station reporter",
+          "sample_sentences": [
+            "电台的记者正在现场进行采访。",
+            "电台的记者向听众介绍了最新情况。"
+          ]
+        },
+        {
+          "chinese": "电台的广播",
+          "pinyin": "diàntái de guǎngbō",
+          "english": "radio station broadcast",
+          "sample_sentences": [
+            "我每天早上都会听电台的广播。",
+            "电台的广播正在介绍今天的天气情况。"
+          ]
+        },
+        {
+          "chinese": "电台的新闻",
+          "pinyin": "diàntái de xīnwén",
+          "english": "radio news",
+          "sample_sentences": [
+            "他通过电台的新闻了解国内外发生的事情。",
+            "电台的新闻刚刚报道了这件事。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "对比",
+      "pinyin": "duìbǐ",
+      "english": "to compare; comparison",
+      "words": [
+        {
+          "chinese": "简单地对比",
+          "pinyin": "jiǎndān de duìbǐ",
+          "english": "make a simple comparison",
+          "sample_sentences": [
+            "我们先简单地对比一下这两种方法。",
+            "通过简单地对比，可以看出两者之间的区别。"
+          ]
+        },
+        {
+          "chinese": "详细地对比",
+          "pinyin": "xiángxì de duìbǐ",
+          "english": "make a detailed comparison",
+          "sample_sentences": [
+            "我们需要详细地对比这两个方案。",
+            "经过详细地对比以后，他选择了第二种方法。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "喊",
+      "pinyin": "hǎn",
+      "english": "to shout; call",
+      "words": [
+        {
+          "chinese": "大声地喊",
+          "pinyin": "dàshēng de hǎn",
+          "english": "shout loudly",
+          "sample_sentences": [
+            "他站在门口大声地喊我的名字。",
+            "不要在图书馆里大声地喊。"
+          ]
+        },
+        {
+          "chinese": "兴奋地喊",
+          "pinyin": "xīngfèn de hǎn",
+          "english": "shout excitedly",
+          "sample_sentences": [
+            "孩子们看到比赛结果后兴奋地喊了起来。",
+            "球迷们兴奋地喊着球队的名字。"
+          ]
+        },
+        {
+          "chinese": "对他喊",
+          "pinyin": "duì tā hǎn",
+          "english": "shout at him",
+          "sample_sentences": [
+            "你为什么要对他喊？",
+            "老师没有生气，只是提醒他不要对别人喊。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "伸",
+      "pinyin": "shēn",
+      "english": "to stretch; extend; reach",
+      "words": [
+        {
+          "chinese": "伸出来",
+          "pinyin": "shēn chūlái",
+          "english": "stretch out; extend outward",
+          "sample_sentences": [
+            "请把手伸出来，让我看看。",
+            "小猫把头从窗户里伸了出来。"
+          ]
+        },
+        {
+          "chinese": "伸进去",
+          "pinyin": "shēn jìnqù",
+          "english": "reach or stick into",
+          "sample_sentences": [
+            "不要把手伸进去，里面很危险。",
+            "他把手伸进去，试着拿出里面的东西。"
+          ]
+        },
+        {
+          "chinese": "伸开",
+          "pinyin": "shēn kāi",
+          "english": "stretch out; spread open",
+          "sample_sentences": [
+            "请把双手伸开。",
+            "他伸开双臂，迎接跑过来的孩子。"
+          ]
+        },
+        {
+          "chinese": "伸到",
+          "pinyin": "shēn dào",
+          "english": "reach or extend to",
+          "sample_sentences": [
+            "他把手伸到桌子下面去找钥匙。",
+            "树枝一直伸到窗户旁边。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "吵",
+      "pinyin": "chǎo",
+      "english": "to make noise; noisy",
+      "words": [
+        {
+          "chinese": "吵醒",
+          "pinyin": "chǎo xǐng",
+          "english": "wake someone up by making noise",
+          "sample_sentences": [
+            "昨天晚上邻居的声音把我吵醒了。",
+            "请小声一点，不要吵醒孩子。"
+          ]
+        },
+        {
+          "chinese": "吵死了",
+          "pinyin": "chǎo sǐ le",
+          "english": "so noisy; terribly noisy",
+          "sample_sentences": [
+            "外面的人太吵了，真是吵死了。",
+            "楼上的音乐太大声了，吵死了。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一项",
+      "pinyin": "yí xiàng",
+      "english": "a measure word for activities, tasks, projects, etc.",
+      "words": [
+        {
+          "chinese": "一项运动",
+          "pinyin": "yí xiàng yùndòng",
+          "english": "a sport; an athletic activity",
+          "sample_sentences": [
+            "跑步是一项很受欢迎的运动。",
+            "游泳不仅是一项运动，也是一种放松方式。"
+          ]
+        },
+        {
+          "chinese": "一项工作",
+          "pinyin": "yí xiàng gōngzuò",
+          "english": "a task; a piece of work",
+          "sample_sentences": [
+            "完成这项工作需要很多时间。",
+            "这是一项非常重要的工作。"
+          ]
+        },
+        {
+          "chinese": "一项任务",
+          "pinyin": "yí xiàng rènwu",
+          "english": "a task",
+          "sample_sentences": [
+            "我们必须按时完成这项任务。",
+            "领导给了他一项重要的任务。"
+          ]
+        },
+        {
+          "chinese": "一项计划",
+          "pinyin": "yí xiàng jìhuà",
+          "english": "a plan; a project",
+          "sample_sentences": [
+            "公司正在制定一项新的发展计划。",
+            "这项计划需要大家共同努力才能完成。"
+          ]
+        },
+        {
+          "chinese": "一项技术",
+          "pinyin": "yí xiàng jìshù",
+          "english": "a technology; a technique",
+          "sample_sentences": [
+            "他们正在研究一项新的技术。",
+            "这项技术可以提高生产效率。"
+          ]
+        },
+        {
+          "chinese": "一项研究",
+          "pinyin": "yí xiàng yánjiū",
+          "english": "a research study",
+          "sample_sentences": [
+            "这项研究花了两年的时间。",
+            "研究人员正在进行一项关于语言学习的研究。"
+          ]
+        },
+        {
+          "chinese": "一项调查",
+          "pinyin": "yí xiàng diàochá",
+          "english": "a survey; an investigation",
+          "sample_sentences": [
+            "我们最近进行了一项调查。",
+            "根据一项调查，大多数学生喜欢这种学习方式。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "奖项",
+      "pinyin": "jiǎngxiàng",
+      "english": "award; prize",
+      "words": [
+        {
+          "chinese": "一个奖项",
+          "pinyin": "yí ge jiǎngxiàng",
+          "english": "an award",
+          "sample_sentences": [
+            "这部电影获得了一个重要奖项。",
+            "他凭借出色的表现获得了一个奖项。"
+          ]
+        }
+      ]
+    }
+  ]
+}

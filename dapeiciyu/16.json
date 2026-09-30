@@ -1,0 +1,476 @@
+{
+  "title": "16",
+  "categories": [
+    {
+      "main_word": "形式",
+      "pinyin": "xíngshì",
+      "english": "form; format",
+      "words": [
+        {
+          "chinese": "形式多样",
+          "pinyin": "xíngshì duōyàng",
+          "english": "varied in form",
+          "sample_sentences": [
+            "现在的学习形式越来越多样。",
+            "这次活动形式多样，吸引了很多人参加。"
+          ]
+        },
+        {
+          "chinese": "形式简单",
+          "pinyin": "xíngshì jiǎndān",
+          "english": "simple in form",
+          "sample_sentences": [
+            "这个活动形式简单，但是很有意义。",
+            "这种表格形式简单，填写起来很方便。"
+          ]
+        },
+        {
+          "chinese": "形式复杂",
+          "pinyin": "xíngshì fùzá",
+          "english": "complex in form",
+          "sample_sentences": [
+            "这种艺术形式比较复杂。",
+            "这个问题的表现形式复杂，需要仔细分析。"
+          ]
+        },
+        {
+          "chinese": "形式新颖",
+          "pinyin": "xíngshì xīnyǐng",
+          "english": "novel in form",
+          "sample_sentences": [
+            "这次活动形式新颖，吸引了很多年轻人。",
+            "这部电影采用了形式新颖的表达方式。"
+          ]
+        },
+        {
+          "chinese": "形式灵活",
+          "pinyin": "xíngshì línghuó",
+          "english": "flexible in form",
+          "sample_sentences": [
+            "这门课程的学习形式比较灵活。",
+            "公司采用形式灵活的培训方式。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "分析",
+      "pinyin": "fēnxī",
+      "english": "to analyze",
+      "words": [
+        {
+          "chinese": "分析情况",
+          "pinyin": "fēnxī qíngkuàng",
+          "english": "analyze the situation",
+          "sample_sentences": [
+            "我们需要先分析情况，再决定下一步怎么做。",
+            "经理正在认真分析目前的情况。"
+          ]
+        },
+        {
+          "chinese": "分析问题",
+          "pinyin": "fēnxī wèntí",
+          "english": "analyze a problem",
+          "sample_sentences": [
+            "遇到问题时，我们应该冷静地分析问题。",
+            "分析问题的时候不能只看表面。"
+          ]
+        },
+        {
+          "chinese": "分析心理",
+          "pinyin": "fēnxī xīnlǐ",
+          "english": "analyze psychology",
+          "sample_sentences": [
+            "心理学家正在分析消费者的心理。",
+            "了解和分析客户心理有助于改进服务。"
+          ]
+        },
+        {
+          "chinese": "分析原因",
+          "pinyin": "fēnxī yuányīn",
+          "english": "analyze the cause",
+          "sample_sentences": [
+            "我们需要认真分析失败的原因。",
+            "医生正在分析导致这种现象的原因。"
+          ]
+        },
+        {
+          "chinese": "分析语法",
+          "pinyin": "fēnxī yǔfǎ",
+          "english": "analyze grammar",
+          "sample_sentences": [
+            "学习中文时，我们需要学会分析语法。",
+            "老师带着学生一起分析这个句子的语法。"
+          ]
+        },
+        {
+          "chinese": "分析病句",
+          "pinyin": "fēnxī bìngjù",
+          "english": "analyze an incorrect sentence",
+          "sample_sentences": [
+            "老师要求我们分析几个病句。",
+            "通过分析病句，可以提高中文写作能力。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "意外",
+      "pinyin": "yìwài",
+      "english": "unexpected; unexpected event",
+      "words": [
+        {
+          "chinese": "意外的礼物",
+          "pinyin": "yìwài de lǐwù",
+          "english": "unexpected gift",
+          "sample_sentences": [
+            "生日那天，我收到了一份意外的礼物。",
+            "这份意外的礼物让我非常感动。"
+          ]
+        },
+        {
+          "chinese": "意外的消息",
+          "pinyin": "yìwài de xiāoxi",
+          "english": "unexpected news",
+          "sample_sentences": [
+            "今天早上我收到了一条意外的消息。",
+            "这个意外的消息让所有人都很吃惊。"
+          ]
+        },
+        {
+          "chinese": "意外的机会",
+          "pinyin": "yìwài de jīhuì",
+          "english": "unexpected opportunity",
+          "sample_sentences": [
+            "这次旅行给了我一个意外的机会。",
+            "他通过一次偶然的经历获得了一个意外的机会。"
+          ]
+        },
+        {
+          "chinese": "意外的结果",
+          "pinyin": "yìwài de jiéguǒ",
+          "english": "unexpected result",
+          "sample_sentences": [
+            "考试结果让大家感到意外。",
+            "实验最后得到了一个意外的结果。"
+          ]
+        },
+        {
+          "chinese": "意外的发现",
+          "pinyin": "yìwài de fāxiàn",
+          "english": "unexpected discovery",
+          "sample_sentences": [
+            "科学家在研究过程中有了一个意外的发现。",
+            "这次旅行让我有了很多意外的发现。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "可靠",
+      "pinyin": "kěkào",
+      "english": "reliable; trustworthy",
+      "words": [
+        {
+          "chinese": "可靠的朋友",
+          "pinyin": "kěkào de péngyou",
+          "english": "reliable friend",
+          "sample_sentences": [
+            "他是一个值得信任的可靠的朋友。",
+            "遇到困难时，有一个可靠的朋友非常重要。"
+          ]
+        },
+        {
+          "chinese": "可靠的质量",
+          "pinyin": "kěkào de zhìliàng",
+          "english": "reliable quality",
+          "sample_sentences": [
+            "这家公司的产品质量可靠。",
+            "消费者希望购买价格合理、质量可靠的产品。"
+          ]
+        },
+        {
+          "chinese": "可靠的材料",
+          "pinyin": "kěkào de cáiliào",
+          "english": "reliable materials",
+          "sample_sentences": [
+            "这个项目需要使用质量可靠的材料。",
+            "工程师选择了更加可靠的材料。"
+          ]
+        },
+        {
+          "chinese": "可靠的报道",
+          "pinyin": "kěkào de bàodào",
+          "english": "reliable report",
+          "sample_sentences": [
+            "我们应该通过可靠的报道了解事情的真相。",
+            "记者需要提供准确、可靠的报道。"
+          ]
+        },
+        {
+          "chinese": "可靠的消息",
+          "pinyin": "kěkào de xiāoxi",
+          "english": "reliable information or news",
+          "sample_sentences": [
+            "目前我们还没有得到可靠的消息。",
+            "只有确认消息来源以后，才能判断它是否可靠。"
+          ]
+        },
+        {
+          "chinese": "可靠的结论",
+          "pinyin": "kěkào de jiélùn",
+          "english": "reliable conclusion",
+          "sample_sentences": [
+            "经过大量研究，科学家得出了可靠的结论。",
+            "没有足够的数据，很难得出可靠的结论。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "趋势",
+      "pinyin": "qūshì",
+      "english": "trend",
+      "words": [
+        {
+          "chinese": "战争的趋势",
+          "pinyin": "zhànzhēng de qūshì",
+          "english": "trend of the war",
+          "sample_sentences": [
+            "研究人员正在分析战争的发展趋势。",
+            "了解战争的趋势有助于分析未来的情况。"
+          ]
+        },
+        {
+          "chinese": "上升的趋势",
+          "pinyin": "shàngshēng de qūshì",
+          "english": "upward trend",
+          "sample_sentences": [
+            "近年来，房价呈现上升的趋势。",
+            "从数据来看，销售量有明显的上升趋势。"
+          ]
+        },
+        {
+          "chinese": "好的趋势",
+          "pinyin": "hǎo de qūshì",
+          "english": "positive trend",
+          "sample_sentences": [
+            "目前市场出现了一些好的趋势。",
+            "这种变化是一个好的趋势。"
+          ]
+        },
+        {
+          "chinese": "健康的趋势",
+          "pinyin": "jiànkāng de qūshì",
+          "english": "healthy trend",
+          "sample_sentences": [
+            "市场正在朝着健康的趋势发展。",
+            "这种变化反映了行业发展的健康趋势。"
+          ]
+        },
+        {
+          "chinese": "下降的趋势",
+          "pinyin": "xiàjiàng de qūshì",
+          "english": "downward trend",
+          "sample_sentences": [
+            "最近商品价格出现了下降的趋势。",
+            "数据显示，失业率呈现下降趋势。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "现象",
+      "pinyin": "xiànxiàng",
+      "english": "phenomenon",
+      "words": [
+        {
+          "chinese": "自然的现象",
+          "pinyin": "zìrán de xiànxiàng",
+          "english": "natural phenomenon",
+          "sample_sentences": [
+            "下雨是一种自然的现象。",
+            "这种自然现象在当地很常见。"
+          ]
+        },
+        {
+          "chinese": "表面的现象",
+          "pinyin": "biǎomiàn de xiànxiàng",
+          "english": "surface phenomenon",
+          "sample_sentences": [
+            "我们不能只看表面的现象。",
+            "通过分析表面的现象，我们可以进一步寻找真正的原因。"
+          ]
+        },
+        {
+          "chinese": "个别的现象",
+          "pinyin": "gèbié de xiànxiàng",
+          "english": "isolated phenomenon",
+          "sample_sentences": [
+            "这种情况只是个别的现象。",
+            "我们不能因为个别的现象就否定整个计划。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "表明",
+      "pinyin": "biǎomíng",
+      "english": "to indicate; demonstrate; state",
+      "words": [
+        {
+          "chinese": "主动表明",
+          "pinyin": "zhǔdòng biǎomíng",
+          "english": "proactively state or indicate",
+          "sample_sentences": [
+            "他主动表明了自己的态度。",
+            "她主动表明愿意参加这项活动。"
+          ]
+        },
+        {
+          "chinese": "充分表明",
+          "pinyin": "chōngfèn biǎomíng",
+          "english": "clearly demonstrate",
+          "sample_sentences": [
+            "这些数据充分表明问题已经得到改善。",
+            "这个结果充分表明我们的判断是正确的。"
+          ]
+        },
+        {
+          "chinese": "直接表明",
+          "pinyin": "zhíjiē biǎomíng",
+          "english": "directly state or indicate",
+          "sample_sentences": [
+            "他直接表明了自己的意见。",
+            "报告直接表明了目前存在的问题。"
+          ]
+        },
+        {
+          "chinese": "清楚地表明",
+          "pinyin": "qīngchu de biǎomíng",
+          "english": "clearly indicate",
+          "sample_sentences": [
+            "数据清楚地表明销售量正在下降。",
+            "他的回答清楚地表明了自己的态度。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "参与",
+      "pinyin": "cānyù",
+      "english": "to participate",
+      "words": [
+        {
+          "chinese": "部分参与",
+          "pinyin": "bùfen cānyù",
+          "english": "participate partially",
+          "sample_sentences": [
+            "由于时间有限，他只能部分参与这个项目。",
+            "一些成员只能部分参与会议。"
+          ]
+        },
+        {
+          "chinese": "共同参与",
+          "pinyin": "gòngtóng cānyù",
+          "english": "participate together",
+          "sample_sentences": [
+            "大家共同参与了这项活动。",
+            "家长和老师共同参与孩子的教育。"
+          ]
+        },
+        {
+          "chinese": "正式参与",
+          "pinyin": "zhèngshì cānyù",
+          "english": "formally participate",
+          "sample_sentences": [
+            "他下个月将正式参与这个项目。",
+            "公司决定正式参与这项合作。"
+          ]
+        },
+        {
+          "chinese": "积极参与",
+          "pinyin": "jījí cānyù",
+          "english": "actively participate",
+          "sample_sentences": [
+            "学生应该积极参与课堂活动。",
+            "员工积极参与公司的培训活动。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "达到",
+      "pinyin": "dádào",
+      "english": "to reach; achieve",
+      "words": [
+        {
+          "chinese": "达到目的",
+          "pinyin": "dádào mùdì",
+          "english": "achieve one's purpose",
+          "sample_sentences": [
+            "只要方法正确，就能够达到目的。",
+            "他努力学习是为了达到自己的目标。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "报道",
+      "pinyin": "bàodào",
+      "english": "to report; report",
+      "words": [
+        {
+          "chinese": "报道新闻",
+          "pinyin": "bàodào xīnwén",
+          "english": "report the news",
+          "sample_sentences": [
+            "记者正在现场报道新闻。",
+            "媒体应该及时、准确地报道新闻。"
+          ]
+        },
+        {
+          "chinese": "可靠的报道",
+          "pinyin": "kěkào de bàodào",
+          "english": "reliable report",
+          "sample_sentences": [
+            "我们应该选择可靠的报道作为参考。",
+            "这家媒体以提供可靠的报道而受到关注。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "采取",
+      "pinyin": "cǎiqǔ",
+      "english": "to take; adopt",
+      "words": [
+        {
+          "chinese": "采取措施",
+          "pinyin": "cǎiqǔ cuòshī",
+          "english": "take measures",
+          "sample_sentences": [
+            "政府已经采取措施解决这个问题。",
+            "我们必须及时采取措施，避免问题进一步扩大。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "成果",
+      "pinyin": "chéngguǒ",
+      "english": "achievement; result",
+      "words": [
+        {
+          "chinese": "重大的成果",
+          "pinyin": "zhòngdà de chéngguǒ",
+          "english": "major achievement",
+          "sample_sentences": [
+            "科学家在研究领域取得了重大的成果。",
+            "经过多年的努力，团队终于取得了重大的成果。"
+          ]
+        }
+      ]
+    }
+  ]
+}

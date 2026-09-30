@@ -1,0 +1,427 @@
+{
+  "title": "27",
+  "categories": [
+    {
+      "main_word": "优势",
+      "pinyin": "yōushì",
+      "english": "advantage; strength",
+      "words": [
+        {
+          "chinese": "有优势",
+          "pinyin": "yǒu yōushì",
+          "english": "have an advantage",
+          "sample_sentences": [
+            "这种产品在价格方面有优势。",
+            "与其他公司相比，我们的技术有一定的优势。"
+          ]
+        },
+        {
+          "chinese": "占优势",
+          "pinyin": "zhàn yōushì",
+          "english": "have the advantage; be in an advantageous position",
+          "sample_sentences": [
+            "在这场比赛中，我们的队伍一直占优势。",
+            "这个地区交通方便，在发展旅游业方面占优势。"
+          ]
+        },
+        {
+          "chinese": "突出优势",
+          "pinyin": "tūchū yōushì",
+          "english": "highlight advantages",
+          "sample_sentences": [
+            "这份报告重点突出公司的技术优势。",
+            "我们应该突出自己的优势，提高产品的竞争力。"
+          ]
+        },
+        {
+          "chinese": "失去优势",
+          "pinyin": "shīqù yōushì",
+          "english": "lose the advantage",
+          "sample_sentences": [
+            "如果不能提高质量，公司可能会逐渐失去优势。",
+            "由于准备不足，他们在比赛后半段失去了优势。"
+          ]
+        },
+        {
+          "chinese": "一种优势",
+          "pinyin": "yì zhǒng yōushì",
+          "english": "a kind or type of advantage",
+          "sample_sentences": [
+            "丰富的工作经验是一种优势。",
+            "能够熟练使用多种语言也是一种优势。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "体验",
+      "pinyin": "tǐyàn",
+      "english": "to experience; experience",
+      "words": [
+        {
+          "chinese": "体验生活",
+          "pinyin": "tǐyàn shēnghuó",
+          "english": "experience life",
+          "sample_sentences": [
+            "年轻人应该多出去旅行，体验不同的生活。",
+            "作家来到农村体验生活，为新作品寻找灵感。"
+          ]
+        },
+        {
+          "chinese": "体验快乐",
+          "pinyin": "tǐyàn kuàilè",
+          "english": "experience happiness",
+          "sample_sentences": [
+            "运动不仅能保持健康，还能让人体验快乐。",
+            "和朋友一起旅行，可以体验简单而真实的快乐。"
+          ]
+        },
+        {
+          "chinese": "体验新产品",
+          "pinyin": "tǐyàn xīn chǎnpǐn",
+          "english": "try or experience a new product",
+          "sample_sentences": [
+            "公司邀请消费者免费体验新产品。",
+            "用户可以提前体验新产品，并提出意见。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "范围",
+      "pinyin": "fànwéi",
+      "english": "scope; range",
+      "words": [
+        {
+          "chinese": "划范围",
+          "pinyin": "huá fànwéi",
+          "english": "define or mark out a range",
+          "sample_sentences": [
+            "老师先给我们划范围，再让我们开始复习。",
+            "工作人员根据规定划定了施工范围。"
+          ]
+        },
+        {
+          "chinese": "限制范围",
+          "pinyin": "xiànzhì fànwéi",
+          "english": "limit the scope",
+          "sample_sentences": [
+            "为了保证安全，我们需要限制活动的范围。",
+            "这项规定限制了车辆进入的范围。"
+          ]
+        },
+        {
+          "chinese": "扩大范围",
+          "pinyin": "kuòdà fànwéi",
+          "english": "expand the scope or range",
+          "sample_sentences": [
+            "公司计划扩大业务范围。",
+            "随着网络的发展，这项服务的使用范围不断扩大。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "制作",
+      "pinyin": "zhìzuò",
+      "english": "to make; produce",
+      "words": [
+        {
+          "chinese": "制作玩具",
+          "pinyin": "zhìzuò wánjù",
+          "english": "make toys",
+          "sample_sentences": [
+            "这家公司主要制作儿童玩具。",
+            "孩子们学习利用废旧材料制作玩具。"
+          ]
+        },
+        {
+          "chinese": "制作乐器",
+          "pinyin": "zhìzuò yuèqì",
+          "english": "make musical instruments",
+          "sample_sentences": [
+            "这个村子有很多人从事制作乐器的工作。",
+            "他从小学习制作传统乐器。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "缺乏",
+      "pinyin": "quēfá",
+      "english": "to lack; be short of",
+      "words": [
+        {
+          "chinese": "缺乏锻炼",
+          "pinyin": "quēfá duànliàn",
+          "english": "lack exercise",
+          "sample_sentences": [
+            "长期缺乏锻炼会影响身体健康。",
+            "由于工作太忙，他一直缺乏锻炼。"
+          ]
+        },
+        {
+          "chinese": "缺乏睡眠",
+          "pinyin": "quēfá shuìmián",
+          "english": "lack sleep",
+          "sample_sentences": [
+            "长期缺乏睡眠会影响工作效率。",
+            "最近因为准备考试，他严重缺乏睡眠。"
+          ]
+        },
+        {
+          "chinese": "缺乏信心",
+          "pinyin": "quēfá xìnxīn",
+          "english": "lack confidence",
+          "sample_sentences": [
+            "不要因为一次失败就缺乏信心。",
+            "他虽然经验不足，但是并不缺乏信心。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "陆续",
+      "pinyin": "lùxù",
+      "english": "one after another; successively",
+      "words": [
+        {
+          "chinese": "陆续进来",
+          "pinyin": "lùxù jìnlái",
+          "english": "come in one after another",
+          "sample_sentences": [
+            "学生们陆续进来，教室很快就坐满了。",
+            "客人陆续进来，工作人员开始安排座位。"
+          ]
+        },
+        {
+          "chinese": "陆续回去",
+          "pinyin": "lùxù huíqù",
+          "english": "return one after another",
+          "sample_sentences": [
+            "会议结束以后，大家陆续回去了。",
+            "天黑以后，游客们陆续回去休息。"
+          ]
+        },
+        {
+          "chinese": "陆续出来",
+          "pinyin": "lùxù chūlái",
+          "english": "come out one after another",
+          "sample_sentences": [
+            "电影结束后，观众陆续出来。",
+            "比赛结束以后，运动员们陆续从体育场出来。"
+          ]
+        },
+        {
+          "chinese": "陆续出去",
+          "pinyin": "lùxù chūqù",
+          "english": "go out one after another",
+          "sample_sentences": [
+            "下课以后，学生们陆续出去。",
+            "会议结束后，工作人员陆续出去。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "陆陆续续",
+      "pinyin": "lùlùxùxù",
+      "english": "one after another; gradually",
+      "words": [
+        {
+          "chinese": "陆陆续续进来",
+          "pinyin": "lùlùxùxù jìnlái",
+          "english": "come in gradually, one after another",
+          "sample_sentences": [
+            "客人陆陆续续进来，宴会马上就要开始了。",
+            "学生们陆陆续续进来，老师已经准备好了。"
+          ]
+        },
+        {
+          "chinese": "陆陆续续回去",
+          "pinyin": "lùlùxùxù huíqù",
+          "english": "return gradually, one after another",
+          "sample_sentences": [
+            "活动结束以后，大家陆陆续续回去了。",
+            "天快黑了，游客们陆陆续续回去。"
+          ]
+        },
+        {
+          "chinese": "陆陆续续出来",
+          "pinyin": "lùlùxùxù chūlái",
+          "english": "come out gradually, one after another",
+          "sample_sentences": [
+            "下课以后，学生们陆陆续续出来了。",
+            "演出结束后，演员们陆陆续续从后台出来。"
+          ]
+        },
+        {
+          "chinese": "陆陆续续出去",
+          "pinyin": "lùlùxùxù chūqù",
+          "english": "go out gradually, one after another",
+          "sample_sentences": [
+            "会议结束后，大家陆陆续续出去。",
+            "吃完饭以后，客人们陆陆续续出去散步。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "具体",
+      "pinyin": "jùtǐ",
+      "english": "specific; concrete; specifically",
+      "words": [
+        {
+          "chinese": "具体地说",
+          "pinyin": "jùtǐ de shuō",
+          "english": "specifically speaking",
+          "sample_sentences": [
+            "具体地说，我们需要在月底以前完成这项任务。",
+            "具体地说，这个计划包括三个主要部分。"
+          ]
+        },
+        {
+          "chinese": "具体分析",
+          "pinyin": "jùtǐ fēnxī",
+          "english": "analyze specifically or in detail",
+          "sample_sentences": [
+            "我们需要具体分析问题产生的原因。",
+            "老师要求我们具体分析这个案例。"
+          ]
+        },
+        {
+          "chinese": "具体来看",
+          "pinyin": "jùtǐ lái kàn",
+          "english": "look at or consider in detail",
+          "sample_sentences": [
+            "具体来看，这两个方案各有自己的优点。",
+            "这个问题不能只看表面，还要具体来看实际情况。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一届",
+      "pinyin": "yí jiè",
+      "english": "a cohort; a session",
+      "words": [
+        {
+          "chinese": "一届学生",
+          "pinyin": "yí jiè xuéshēng",
+          "english": "a graduating class; a cohort of students",
+          "sample_sentences": [
+            "这一届学生的学习成绩都非常好。",
+            "学校为新一届学生准备了欢迎活动。"
+          ]
+        },
+        {
+          "chinese": "一届会议",
+          "pinyin": "yí jiè huìyì",
+          "english": "a session of a conference or meeting",
+          "sample_sentences": [
+            "这一届会议吸引了来自不同国家的专家。",
+            "我们将在下个月举行新一届会议。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一份",
+      "pinyin": "yí fèn",
+      "english": "a measure word for documents, newspapers, answers, etc.",
+      "words": [
+        {
+          "chinese": "一份简历",
+          "pinyin": "yí fèn jiǎnlì",
+          "english": "a résumé or CV",
+          "sample_sentences": [
+            "申请工作时，你需要准备一份简历。",
+            "他把一份简历发给了那家公司。"
+          ]
+        },
+        {
+          "chinese": "一份报纸",
+          "pinyin": "yí fèn bàozhǐ",
+          "english": "a newspaper",
+          "sample_sentences": [
+            "爷爷每天早上都会看一份报纸。",
+            "桌子上放着一份今天的报纸。"
+          ]
+        },
+        {
+          "chinese": "一份答案",
+          "pinyin": "yí fèn dá'àn",
+          "english": "an answer; a set of answers",
+          "sample_sentences": [
+            "请在规定时间内写出一份答案。",
+            "老师检查了每位学生交上来的答案。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一堆",
+      "pinyin": "yì duī",
+      "english": "a pile of",
+      "words": [
+        {
+          "chinese": "一堆垃圾",
+          "pinyin": "yì duī lājī",
+          "english": "a pile of garbage",
+          "sample_sentences": [
+            "门口放着一堆垃圾，需要马上清理。",
+            "不要把一堆垃圾留在公共场所。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "失去",
+      "pinyin": "shīqù",
+      "english": "to lose",
+      "words": [
+        {
+          "chinese": "失去家庭",
+          "pinyin": "shīqù jiātíng",
+          "english": "lose one's family",
+          "sample_sentences": [
+            "战争让许多人失去家庭。",
+            "他从小失去家庭的照顾，因此很早就学会了独立。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "制定",
+      "pinyin": "zhìdìng",
+      "english": "to formulate; draw up",
+      "words": [
+        {
+          "chinese": "制定法律",
+          "pinyin": "zhìdìng fǎlǜ",
+          "english": "formulate laws",
+          "sample_sentences": [
+            "政府需要根据社会发展的需要制定法律。",
+            "制定法律时应该充分考虑公众的意见。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "成立",
+      "pinyin": "chénglì",
+      "english": "to establish; set up",
+      "words": [
+        {
+          "chinese": "成立公司",
+          "pinyin": "chénglì gōngsī",
+          "english": "establish a company",
+          "sample_sentences": [
+            "他大学毕业以后和朋友一起成立了一家公司。",
+            "成立公司之前，需要了解相关的法律规定。"
+          ]
+        }
+      ]
+    }
+  ]
+}

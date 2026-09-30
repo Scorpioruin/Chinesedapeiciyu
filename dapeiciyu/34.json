@@ -1,0 +1,440 @@
+{
+  "title": "34",
+  "categories": [
+    {
+      "main_word": "接触",
+      "pinyin": "jiēchù",
+      "english": "to come into contact with",
+      "words": [
+        {
+          "chinese": "接触动物",
+          "pinyin": "jiēchù dòngwù",
+          "english": "come into contact with animals",
+          "sample_sentences": [
+            "孩子从小接触动物，有助于培养爱心。",
+            "在野外不要随便接触野生动物。"
+          ]
+        },
+        {
+          "chinese": "接触孩子",
+          "pinyin": "jiēchù háizi",
+          "english": "come into contact with children",
+          "sample_sentences": [
+            "他平时经常接触孩子，所以很了解他们的想法。",
+            "医生需要经常接触孩子，因此要有耐心。"
+          ]
+        },
+        {
+          "chinese": "接触病人",
+          "pinyin": "jiēchù bìngrén",
+          "english": "come into contact with patients",
+          "sample_sentences": [
+            "医护人员每天都要接触病人。",
+            "接触病人时应该注意个人卫生。"
+          ]
+        },
+        {
+          "chinese": "接触大自然",
+          "pinyin": "jiēchù dàzìrán",
+          "english": "get in touch with nature",
+          "sample_sentences": [
+            "周末去郊外可以让我们更多地接触大自然。",
+            "孩子应该有机会接触大自然。"
+          ]
+        },
+        {
+          "chinese": "接触社会",
+          "pinyin": "jiēchù shèhuì",
+          "english": "come into contact with society",
+          "sample_sentences": [
+            "大学生应该多参加社会活动，接触社会。",
+            "通过实习，他开始真正接触社会。"
+          ]
+        },
+        {
+          "chinese": "接触新信息",
+          "pinyin": "jiēchù xīn xìnxī",
+          "english": "come into contact with new information",
+          "sample_sentences": [
+            "互联网让我们更容易接触新信息。",
+            "学生应该主动接触新信息，扩大自己的知识面。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "爱惜",
+      "pinyin": "àixī",
+      "english": "to cherish; take good care of",
+      "words": [
+        {
+          "chinese": "爱惜羽毛",
+          "pinyin": "àixī yǔmáo",
+          "english": "protect one's reputation; value one's reputation",
+          "sample_sentences": [
+            "他一向爱惜羽毛，不愿意做损害自己名誉的事情。",
+            "越是有名的人，越应该爱惜羽毛。"
+          ]
+        },
+        {
+          "chinese": "爱惜身体",
+          "pinyin": "àixī shēntǐ",
+          "english": "take good care of one's body",
+          "sample_sentences": [
+            "年轻的时候也要学会爱惜身体。",
+            "为了保持健康，我们应该爱惜身体。"
+          ]
+        },
+        {
+          "chinese": "爱惜生命",
+          "pinyin": "àixī shēngmìng",
+          "english": "cherish life",
+          "sample_sentences": [
+            "我们应该珍惜时间，也应该爱惜生命。",
+            "每个人都应该学会爱惜生命。"
+          ]
+        },
+        {
+          "chinese": "爱惜财物",
+          "pinyin": "àixī cáiwù",
+          "english": "take good care of property",
+          "sample_sentences": [
+            "我们应该爱惜公共财物。",
+            "学校教育学生要爱惜财物，不要随意损坏东西。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "特征",
+      "pinyin": "tèzhēng",
+      "english": "characteristic; feature",
+      "words": [
+        {
+          "chinese": "明显的特征",
+          "pinyin": "míngxiǎn de tèzhēng",
+          "english": "obvious characteristic",
+          "sample_sentences": [
+            "这种动物有一个非常明显的特征。",
+            "颜色变化是这种植物的明显特征之一。"
+          ]
+        },
+        {
+          "chinese": "突出的特征",
+          "pinyin": "tūchū de tèzhēng",
+          "english": "prominent characteristic",
+          "sample_sentences": [
+            "这座建筑最突出的特征是它的外形。",
+            "语言简洁是这篇文章的突出特征。"
+          ]
+        },
+        {
+          "chinese": "唯一的特征",
+          "pinyin": "wéiyī de tèzhēng",
+          "english": "unique characteristic",
+          "sample_sentences": [
+            "这种动物的颜色并不是它唯一的特征。",
+            "安静可能是这个地方最明显的特征，而不是唯一的特征。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "唯一",
+      "pinyin": "wéiyī",
+      "english": "only; unique",
+      "words": [
+        {
+          "chinese": "唯一的办法",
+          "pinyin": "wéiyī de bànfǎ",
+          "english": "the only way",
+          "sample_sentences": [
+            "这是解决问题的唯一办法。",
+            "如果想提高成绩，坚持练习是唯一的办法吗？"
+          ]
+        },
+        {
+          "chinese": "唯一的选择",
+          "pinyin": "wéiyī de xuǎnzé",
+          "english": "the only choice",
+          "sample_sentences": [
+            "在当时的情况下，这是我们唯一的选择。",
+            "如果没有其他办法，我们只能接受这个唯一的选择。"
+          ]
+        },
+        {
+          "chinese": "唯一的结果",
+          "pinyin": "wéiyī de jiéguǒ",
+          "english": "the only result",
+          "sample_sentences": [
+            "继续争论下去，唯一的结果就是浪费时间。",
+            "如果不改变方法，失败可能成为唯一的结果。"
+          ]
+        },
+        {
+          "chinese": "唯一的爱",
+          "pinyin": "wéiyī de ài",
+          "english": "one's only love",
+          "sample_sentences": [
+            "她一直把家人当作自己唯一的爱。",
+            "他认为真正的爱不一定只有唯一的形式。"
+          ]
+        },
+        {
+          "chinese": "唯一的角色",
+          "pinyin": "wéiyī de juésè",
+          "english": "the only role",
+          "sample_sentences": [
+            "他在这个项目中并不是唯一的角色。",
+            "父母不应该成为孩子成长过程中的唯一角色。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "光滑",
+      "pinyin": "guānghuá",
+      "english": "smooth",
+      "words": [
+        {
+          "chinese": "光滑的表面",
+          "pinyin": "guānghuá de biǎomiàn",
+          "english": "smooth surface",
+          "sample_sentences": [
+            "这种材料的表面非常光滑。",
+            "光滑的表面不容易留下灰尘。"
+          ]
+        },
+        {
+          "chinese": "光滑的皮肤",
+          "pinyin": "guānghuá de pífū",
+          "english": "smooth skin",
+          "sample_sentences": [
+            "这种护肤产品可以让皮肤变得更加光滑。",
+            "健康的生活方式有助于保持光滑的皮肤。"
+          ]
+        },
+        {
+          "chinese": "光滑的羽毛",
+          "pinyin": "guānghuá de yǔmáo",
+          "english": "smooth feathers",
+          "sample_sentences": [
+            "这只鸟有一身光滑的羽毛。",
+            "鸟的光滑的羽毛可以帮助它保持身体干燥。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "干燥",
+      "pinyin": "gānzào",
+      "english": "dry",
+      "words": [
+        {
+          "chinese": "干燥的表面",
+          "pinyin": "gānzào de biǎomiàn",
+          "english": "dry surface",
+          "sample_sentences": [
+            "请把胶水涂在干燥的表面上。",
+            "清洁后要让物品保持干燥的表面。"
+          ]
+        },
+        {
+          "chinese": "干燥的皮肤",
+          "pinyin": "gānzào de pífū",
+          "english": "dry skin",
+          "sample_sentences": [
+            "冬天天气寒冷，容易出现干燥的皮肤。",
+            "多喝水可以帮助改善皮肤干燥的问题。"
+          ]
+        },
+        {
+          "chinese": "干燥的环境",
+          "pinyin": "gānzào de huánjìng",
+          "english": "dry environment",
+          "sample_sentences": [
+            "这种植物适合生活在干燥的环境中。",
+            "长期处于干燥的环境会让皮肤不舒服。"
+          ]
+        },
+        {
+          "chinese": "干燥的空气",
+          "pinyin": "gānzào de kōngqì",
+          "english": "dry air",
+          "sample_sentences": [
+            "冬天室内的空气通常比较干燥。",
+            "干燥的空气容易让人的喉咙感到不舒服。"
+          ]
+        },
+        {
+          "chinese": "干燥的气候",
+          "pinyin": "gānzào de qìhòu",
+          "english": "dry climate",
+          "sample_sentences": [
+            "这里属于比较干燥的气候。",
+            "有些植物非常适应干燥的气候。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "痛快",
+      "pinyin": "tòngkuài",
+      "english": "heartily; to one's heart's content",
+      "words": [
+        {
+          "chinese": "痛快地哭",
+          "pinyin": "tòngkuài de kū",
+          "english": "cry one's heart out",
+          "sample_sentences": [
+            "压力太大的时候，她想找个地方痛快地哭一场。",
+            "把心里的委屈说出来，再痛快地哭一场，感觉会轻松很多。"
+          ]
+        },
+        {
+          "chinese": "痛快地笑",
+          "pinyin": "tòngkuài de xiào",
+          "english": "laugh heartily",
+          "sample_sentences": [
+            "听完这个故事，大家都痛快地笑了起来。",
+            "和朋友在一起时，他总是可以痛快地笑。"
+          ]
+        },
+        {
+          "chinese": "痛快地吃",
+          "pinyin": "tòngkuài de chī",
+          "english": "eat to one's heart's content",
+          "sample_sentences": [
+            "今天是他的生日，他想痛快地吃一顿。",
+            "忙了一整天以后，大家终于可以痛快地吃饭了。"
+          ]
+        },
+        {
+          "chinese": "痛快地喝",
+          "pinyin": "tòngkuài de hē",
+          "english": "drink to one's heart's content",
+          "sample_sentences": [
+            "运动以后，他痛快地喝了一大杯水。",
+            "天气很热，大家痛快地喝了几杯果汁。"
+          ]
+        },
+        {
+          "chinese": "痛快地骂",
+          "pinyin": "tòngkuài de mà",
+          "english": "curse angrily to one's heart's content",
+          "sample_sentences": [
+            "他生气的时候喜欢找朋友痛快地骂几句。",
+            "虽然很生气，也不能随便痛快地骂别人。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "迎接",
+      "pinyin": "yíngjiē",
+      "english": "to welcome; greet; face",
+      "words": [
+        {
+          "chinese": "热情地迎接",
+          "pinyin": "rèqíng de yíngjiē",
+          "english": "warmly welcome",
+          "sample_sentences": [
+            "我们热情地迎接来自国外的客人。",
+            "工作人员热情地迎接每一位顾客。"
+          ]
+        },
+        {
+          "chinese": "迎接挑战",
+          "pinyin": "yíngjiē tiǎozhàn",
+          "english": "face/welcome a challenge",
+          "sample_sentences": [
+            "面对新的工作，我们应该勇敢地迎接挑战。",
+            "只有不断学习，才能更好地迎接未来的挑战。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "翅膀",
+      "pinyin": "chìbǎng",
+      "english": "wing",
+      "words": [
+        {
+          "chinese": "一只翅膀",
+          "pinyin": "yì zhī chìbǎng",
+          "english": "one wing",
+          "sample_sentences": [
+            "这只鸟的一只翅膀受伤了。",
+            "如果只有一只翅膀，鸟就无法正常飞行。"
+          ]
+        },
+        {
+          "chinese": "一双翅膀",
+          "pinyin": "yì shuāng chìbǎng",
+          "english": "a pair of wings",
+          "sample_sentences": [
+            "鸟有一双翅膀，可以自由地飞翔。",
+            "这只蝴蝶有一双漂亮的翅膀。"
+          ]
+        },
+        {
+          "chinese": "一对翅膀",
+          "pinyin": "yí duì chìbǎng",
+          "english": "a pair of wings",
+          "sample_sentences": [
+            "它长着一对巨大的翅膀。",
+            "这对翅膀帮助它在空中保持平衡。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "梳子",
+      "pinyin": "shūzi",
+      "english": "comb",
+      "words": [
+        {
+          "chinese": "一把梳子",
+          "pinyin": "yì bǎ shūzi",
+          "english": "a comb",
+          "sample_sentences": [
+            "我需要买一把梳子。",
+            "她拿起一把梳子，慢慢地整理头发。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "肥皂",
+      "pinyin": "féizào",
+      "english": "soap",
+      "words": [
+        {
+          "chinese": "一块肥皂",
+          "pinyin": "yí kuài féizào",
+          "english": "a bar of soap",
+          "sample_sentences": [
+            "浴室里放着一块肥皂。",
+            "请给我拿一块肥皂，我想洗手。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "机会",
+      "pinyin": "jīhuì",
+      "english": "opportunity; chance",
+      "words": [
+        {
+          "chinese": "抓住机会",
+          "pinyin": "zhuāzhù jīhuì",
+          "english": "seize the opportunity",
+          "sample_sentences": [
+            "年轻人应该学会抓住机会。",
+            "只要抓住机会，你就有可能实现自己的目标。"
+          ]
+        }
+      ]
+    }
+  ]
+}

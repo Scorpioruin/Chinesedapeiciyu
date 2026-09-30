@@ -1,0 +1,300 @@
+{
+  "title": "10",
+  "categories": [
+    {
+      "main_word": "拍",
+      "pinyin": "pāi",
+      "english": "to clap; slap; take; film",
+      "words": [
+        {
+          "chinese": "拍手",
+          "pinyin": "pāi shǒu",
+          "english": "clap; applaud",
+          "sample_sentences": [
+            "演出结束以后，观众热烈地拍手。",
+            "大家拍手欢迎新来的老师。"
+          ]
+        },
+        {
+          "chinese": "拍桌子",
+          "pinyin": "pāi zhuōzi",
+          "english": "slap the table",
+          "sample_sentences": [
+            "他生气地拍桌子，大声说出了自己的意见。",
+            "遇到问题时，拍桌子并不能解决问题。"
+          ]
+        },
+        {
+          "chinese": "拍照片",
+          "pinyin": "pāi zhàopiàn",
+          "english": "take photos",
+          "sample_sentences": [
+            "游客们正在景点拍照片。",
+            "我们一起拍照片留作纪念吧。"
+          ]
+        },
+        {
+          "chinese": "拍电影",
+          "pinyin": "pāi diànyǐng",
+          "english": "make a film",
+          "sample_sentences": [
+            "导演正在北京拍电影。",
+            "他们计划明年拍一部新的电影。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "改进",
+      "pinyin": "gǎijìn",
+      "english": "to improve",
+      "words": [
+        {
+          "chinese": "改进工作",
+          "pinyin": "gǎijìn gōngzuò",
+          "english": "improve work",
+          "sample_sentences": [
+            "公司正在努力改进工作方式。",
+            "我们需要根据实际情况不断改进工作。"
+          ]
+        },
+        {
+          "chinese": "改进方法",
+          "pinyin": "gǎijìn fāngfǎ",
+          "english": "improve methods",
+          "sample_sentences": [
+            "我们应该不断改进学习方法。",
+            "通过实践，他逐渐改进了自己的工作方法。"
+          ]
+        },
+        {
+          "chinese": "改进态度",
+          "pinyin": "gǎijìn tàidu",
+          "english": "improve one's attitude",
+          "sample_sentences": [
+            "如果想和别人合作，就需要改进自己的态度。",
+            "他意识到自己的问题以后，决定改进工作态度。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "艰苦",
+      "pinyin": "jiānkǔ",
+      "english": "hard; difficult",
+      "words": [
+        {
+          "chinese": "艰苦的条件",
+          "pinyin": "jiānkǔ de tiáojiàn",
+          "english": "difficult conditions",
+          "sample_sentences": [
+            "他们在艰苦的条件下完成了任务。",
+            "尽管当时条件艰苦，他们仍然坚持工作。"
+          ]
+        },
+        {
+          "chinese": "艰苦的生活",
+          "pinyin": "jiānkǔ de shēnghuó",
+          "english": "hard life",
+          "sample_sentences": [
+            "他年轻时经历过一段艰苦的生活。",
+            "即使生活艰苦，他也没有放弃自己的目标。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "成熟",
+      "pinyin": "chéngshú",
+      "english": "mature; ripe; fully developed",
+      "words": [
+        {
+          "chinese": "成熟的瓜果",
+          "pinyin": "chéngshú de guāguǒ",
+          "english": "ripe fruits and melons",
+          "sample_sentences": [
+            "市场上摆满了各种成熟的瓜果。",
+            "成熟的瓜果味道通常更加甜美。"
+          ]
+        },
+        {
+          "chinese": "成熟的经验",
+          "pinyin": "chéngshú de jīngyàn",
+          "english": "mature experience",
+          "sample_sentences": [
+            "经过多年的工作，他积累了成熟的经验。",
+            "这些成熟的经验可以帮助我们避免很多错误。"
+          ]
+        },
+        {
+          "chinese": "成熟的人",
+          "pinyin": "chéngshú de rén",
+          "english": "mature person",
+          "sample_sentences": [
+            "一个成熟的人应该能够控制自己的情绪。",
+            "他虽然年轻，但已经是一个很成熟的人。"
+          ]
+        },
+        {
+          "chinese": "成熟的看法",
+          "pinyin": "chéngshú de kànfǎ",
+          "english": "mature viewpoint",
+          "sample_sentences": [
+            "经过多年的学习，他对这个问题有了更加成熟的看法。",
+            "她提出了一个比较成熟的看法。"
+          ]
+        },
+        {
+          "chinese": "成熟的条件",
+          "pinyin": "chéngshú de tiáojiàn",
+          "english": "mature or ready conditions",
+          "sample_sentences": [
+            "目前各方面的条件还不够成熟。",
+            "等条件成熟以后，我们再开始这个项目。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "围绕",
+      "pinyin": "wéirào",
+      "english": "to center around; revolve around",
+      "words": [
+        {
+          "chinese": "围绕着重点进行讨论",
+          "pinyin": "wéiràozhe zhòngdiǎn jìnxíng tǎolùn",
+          "english": "discuss around the key points",
+          "sample_sentences": [
+            "大家围绕着重点进行讨论，很快找到了问题所在。",
+            "会议主要围绕着重点进行讨论，没有浪费太多时间。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "始终",
+      "pinyin": "shǐzhōng",
+      "english": "always; throughout",
+      "words": [
+        {
+          "chinese": "始终坚持",
+          "pinyin": "shǐzhōng jiānchí",
+          "english": "persist throughout; always adhere to",
+          "sample_sentences": [
+            "他始终坚持自己的目标。",
+            "无论遇到什么困难，她都始终坚持学习中文。"
+          ]
+        },
+        {
+          "chinese": "始终保持",
+          "pinyin": "shǐzhōng bǎochí",
+          "english": "maintain consistently",
+          "sample_sentences": [
+            "我们应该始终保持积极的态度。",
+            "这家公司的产品质量始终保持稳定。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "插",
+      "pinyin": "chā",
+      "english": "to insert; put in",
+      "words": [
+        {
+          "chinese": "插进去",
+          "pinyin": "chā jìnqù",
+          "english": "insert; put into",
+          "sample_sentences": [
+            "请把钥匙插进去。",
+            "他把电源线插进去以后，机器就开始工作了。"
+          ]
+        },
+        {
+          "chinese": "插到",
+          "pinyin": "chā dào",
+          "english": "insert into; put into",
+          "sample_sentences": [
+            "把这张卡插到机器里。",
+            "他把手指插到水里试了试温度。"
+          ]
+        },
+        {
+          "chinese": "插在",
+          "pinyin": "chā zài",
+          "english": "be inserted or stuck in",
+          "sample_sentences": [
+            "钥匙还插在门上。",
+            "这支笔插在书包的侧袋里。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "拦",
+      "pinyin": "lán",
+      "english": "to stop; block",
+      "words": [
+        {
+          "chinese": "拦住",
+          "pinyin": "lán zhù",
+          "english": "stop; block",
+          "sample_sentences": [
+            "警察及时拦住了那辆车。",
+            "工作人员把想进入房间的人拦住了。"
+          ]
+        },
+        {
+          "chinese": "拦在",
+          "pinyin": "lán zài",
+          "english": "block; stand in the way of",
+          "sample_sentences": [
+            "一辆车拦在路中间，大家都过不去。",
+            "他拦在门口，不让别人进去。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一匹",
+      "pinyin": "yì pǐ",
+      "english": "classifier for horses",
+      "words": [
+        {
+          "chinese": "一匹马",
+          "pinyin": "yì pǐ mǎ",
+          "english": "a horse",
+          "sample_sentences": [
+            "草原上有一匹马正在吃草。",
+            "他骑着一匹马慢慢地走过草原。"
+          ]
+        }
+      ]
+    },
+    {
+      "main_word": "一场",
+      "pinyin": "yì chǎng",
+      "english": "classifier for events, matches, debates, etc.",
+      "words": [
+        {
+          "chinese": "一场争论",
+          "pinyin": "yì chǎng zhēnglùn",
+          "english": "an argument or debate",
+          "sample_sentences": [
+            "他们因为这个问题发生了一场争论。",
+            "经过一场争论以后，大家终于达成了一致。"
+          ]
+        },
+        {
+          "chinese": "一场辩论",
+          "pinyin": "yì chǎng biànlùn",
+          "english": "a debate",
+          "sample_sentences": [
+            "学校组织了一场辩论。",
+            "学生们围绕这个问题进行了一场精彩的辩论。"
+          ]
+        }
+      ]
+    }
+  ]
+}

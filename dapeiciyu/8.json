@@ -1,0 +1,329 @@
+{
+  "title": "8",
+  "words": [
+    {
+      "chinese": "限制数量",
+      "pinyin": "xiànzhì shùliàng",
+      "english": "limit the quantity",
+      "sample_sentences": [
+        "为了保证质量，商店决定限制购买数量。",
+        "活动期间，每个人只能购买一件，数量会受到限制。"
+      ]
+    },
+    {
+      "chinese": "限制年龄",
+      "pinyin": "xiànzhì niánlíng",
+      "english": "set an age limit",
+      "sample_sentences": [
+        "这个活动对参加者的年龄有限制。",
+        "电影院通常会根据电影内容限制年龄。"
+      ]
+    },
+    {
+      "chinese": "限制发展",
+      "pinyin": "xiànzhì fāzhǎn",
+      "english": "restrict development",
+      "sample_sentences": [
+        "资金不足可能会限制公司的发展。",
+        "过多的限制可能会影响行业的发展。"
+      ]
+    },
+    {
+      "chinese": "显得很健康",
+      "pinyin": "xiǎnde hěn jiànkāng",
+      "english": "look very healthy",
+      "sample_sentences": [
+        "经过一段时间的锻炼，他显得很健康。",
+        "她最近气色很好，显得很健康。"
+      ]
+    },
+    {
+      "chinese": "显得格外高兴",
+      "pinyin": "xiǎnde géwài gāoxìng",
+      "english": "look especially happy",
+      "sample_sentences": [
+        "听到孩子获奖的消息，妈妈显得格外高兴。",
+        "他今天显得格外高兴，好像有什么好消息。"
+      ]
+    },
+    {
+      "chinese": "显得更加美丽",
+      "pinyin": "xiǎnde gèngjiā měilì",
+      "english": "look even more beautiful",
+      "sample_sentences": [
+        "夜晚的灯光让这座城市显得更加美丽。",
+        "下过雨以后，花园显得更加美丽。"
+      ]
+    },
+    {
+      "chinese": "固定的结构",
+      "pinyin": "gùdìng de jiégòu",
+      "english": "fixed structure",
+      "sample_sentences": [
+        "这种句子有一个比较固定的结构。",
+        "学习语法时，掌握固定的结构非常重要。"
+      ]
+    },
+    {
+      "chinese": "固定的职业",
+      "pinyin": "gùdìng de zhíyè",
+      "english": "stable/fixed occupation",
+      "sample_sentences": [
+        "他希望毕业以后有一份固定的职业。",
+        "有固定的职业和收入可以让生活更加稳定。"
+      ]
+    },
+    {
+      "chinese": "固定的收入",
+      "pinyin": "gùdìng de shōurù",
+      "english": "fixed income",
+      "sample_sentences": [
+        "他目前没有固定的收入。",
+        "有固定的收入以后，生活压力会小一些。"
+      ]
+    },
+    {
+      "chinese": "固定的座位",
+      "pinyin": "gùdìng de zuòwèi",
+      "english": "assigned/fixed seat",
+      "sample_sentences": [
+        "每个学生都有固定的座位。",
+        "电影院的座位不是固定的，可以自由选择。"
+      ]
+    },
+    {
+      "chinese": "固定的消费群体",
+      "pinyin": "gùdìng de xiāofèi qúntǐ",
+      "english": "fixed target consumer group",
+      "sample_sentences": [
+        "这个品牌已经拥有固定的消费群体。",
+        "产品定位明确以后，更容易找到固定的消费群体。"
+      ]
+    },
+    {
+      "chinese": "固定的地点",
+      "pinyin": "gùdìng de dìdiǎn",
+      "english": "fixed location",
+      "sample_sentences": [
+        "我们每周在固定的地点见面。",
+        "会议将在固定的地点举行。"
+      ]
+    },
+    {
+      "chinese": "消费群体",
+      "pinyin": "xiāofèi qúntǐ",
+      "english": "consumer group",
+      "sample_sentences": [
+        "年轻人是这个产品的主要消费群体。",
+        "公司正在研究不同消费群体的需求。"
+      ]
+    },
+    {
+      "chinese": "消费量",
+      "pinyin": "xiāofèi liàng",
+      "english": "consumption volume",
+      "sample_sentences": [
+        "夏天饮料的消费量通常会增加。",
+        "我们应该减少不必要的能源消费量。"
+      ]
+    },
+    {
+      "chinese": "消费习惯",
+      "pinyin": "xiāofèi xíguàn",
+      "english": "consumption habits",
+      "sample_sentences": [
+        "互联网正在改变人们的消费习惯。",
+        "不同年龄的人有不同的消费习惯。"
+      ]
+    },
+    {
+      "chinese": "消费水平",
+      "pinyin": "xiāofèi shuǐpíng",
+      "english": "consumption level",
+      "sample_sentences": [
+        "随着收入增加，人们的消费水平也有所提高。",
+        "不同地区的消费水平存在一定差异。"
+      ]
+    },
+    {
+      "chinese": "消费标准",
+      "pinyin": "xiāofèi biāozhǔn",
+      "english": "consumption standard",
+      "sample_sentences": [
+        "不同餐厅的消费标准差别很大。",
+        "我们应该根据自己的收入确定合理的消费标准。"
+      ]
+    },
+    {
+      "chinese": "完整地取出来",
+      "pinyin": "wánzhěng de qǔ chūlái",
+      "english": "take out completely/intact",
+      "sample_sentences": [
+        "他小心地把里面的东西完整地取出来。",
+        "请不要损坏包装，要把文件完整地取出来。"
+      ]
+    },
+    {
+      "chinese": "完整地保留下来",
+      "pinyin": "wánzhěng de bǎoliú xiàlái",
+      "english": "preserve completely",
+      "sample_sentences": [
+        "这些历史资料被完整地保留下来。",
+        "我们应该把传统文化完整地保留下来。"
+      ]
+    },
+    {
+      "chinese": "跟朋友相处",
+      "pinyin": "gēn péngyou xiāngchǔ",
+      "english": "get along with friends",
+      "sample_sentences": [
+        "他很容易跟朋友相处。",
+        "跟朋友相处时，最重要的是互相尊重。"
+      ]
+    },
+    {
+      "chinese": "跟家人相处",
+      "pinyin": "gēn jiārén xiāngchǔ",
+      "english": "get along with family",
+      "sample_sentences": [
+        "我喜欢周末跟家人相处。",
+        "跟家人相处的时间越来越少，所以更应该珍惜。"
+      ]
+    },
+    {
+      "chinese": "固定一下",
+      "pinyin": "gùdìng yíxià",
+      "english": "fix/secure temporarily",
+      "sample_sentences": [
+        "这个架子有点松，请帮我固定一下。",
+        "先把这个零件固定一下，再继续工作。"
+      ]
+    },
+    {
+      "chinese": "固定下来",
+      "pinyin": "gùdìng xiàlái",
+      "english": "settle/fix permanently",
+      "sample_sentences": [
+        "会议时间已经固定下来了。",
+        "等大家讨论完以后，我们再把地点固定下来。"
+      ]
+    },
+    {
+      "chinese": "固定在",
+      "pinyin": "gùdìng zài",
+      "english": "fix/attach to",
+      "sample_sentences": [
+        "这个设备被固定在墙上。",
+        "请把摄像头固定在桌子上。"
+      ]
+    },
+    {
+      "chinese": "节省一点儿",
+      "pinyin": "jiéshěng yìdiǎnr",
+      "english": "save a little",
+      "sample_sentences": [
+        "我们应该节省一点儿水。",
+        "如果想买房，就要节省一点儿开支。"
+      ]
+    },
+    {
+      "chinese": "节省出来",
+      "pinyin": "jiéshěng chūlái",
+      "english": "save out/from elsewhere",
+      "sample_sentences": [
+        "我们可以从日常开支中节省出来一些钱。",
+        "他把每天节省出来的时间用来学习中文。"
+      ]
+    },
+    {
+      "chinese": "节省下来",
+      "pinyin": "jiéshěng xiàlái",
+      "english": "save up",
+      "sample_sentences": [
+        "这些钱是我平时一点一点节省下来的。",
+        "把节省下来的钱存起来，以备将来使用。"
+      ]
+    },
+    {
+      "chinese": "一群猴子",
+      "pinyin": "yì qún hóuzi",
+      "english": "a group of monkeys",
+      "sample_sentences": [
+        "我们在森林里看到了一群猴子。",
+        "一群猴子正在树上玩耍。"
+      ]
+    },
+    {
+      "chinese": "一群鸟",
+      "pinyin": "yì qún niǎo",
+      "english": "a flock of birds",
+      "sample_sentences": [
+        "天空中飞过一群鸟。",
+        "一群鸟停在树枝上。"
+      ]
+    },
+    {
+      "chinese": "一群牛",
+      "pinyin": "yì qún niú",
+      "english": "a herd of cattle",
+      "sample_sentences": [
+        "草地上有一群牛。",
+        "农民正在赶一群牛回农场。"
+      ]
+    },
+    {
+      "chinese": "一群羊",
+      "pinyin": "yì qún yáng",
+      "english": "a flock/herd of sheep",
+      "sample_sentences": [
+        "山坡上有一群羊。",
+        "牧羊人正在照看一群羊。"
+      ]
+    },
+    {
+      "chinese": "一群马",
+      "pinyin": "yì qún mǎ",
+      "english": "a herd of horses",
+      "sample_sentences": [
+        "草原上奔跑着一群马。",
+        "我们远远地看到了一群马。"
+      ]
+    },
+    {
+      "chinese": "一群人",
+      "pinyin": "yì qún rén",
+      "english": "a group of people",
+      "sample_sentences": [
+        "门口站着一群人。",
+        "一群人正在讨论刚刚发生的事情。"
+      ]
+    },
+    {
+      "chinese": "一群学生",
+      "pinyin": "yì qún xuéshēng",
+      "english": "a group of students",
+      "sample_sentences": [
+        "一群学生正在图书馆里学习。",
+        "老师带着一群学生参观博物馆。"
+      ]
+    },
+    {
+      "chinese": "一颗葡萄",
+      "pinyin": "yì kē pútao",
+      "english": "a grape",
+      "sample_sentences": [
+        "他从盘子里拿了一颗葡萄。",
+        "桌上还剩下一颗葡萄。"
+      ]
+    },
+    {
+      "chinese": "一颗牙齿",
+      "pinyin": "yì kē yáchǐ",
+      "english": "a tooth",
+      "sample_sentences": [
+        "他的牙齿很疼，可能需要看医生。",
+        "小时候她掉了一颗牙齿。"
+      ]
+    }
+  ]
+}

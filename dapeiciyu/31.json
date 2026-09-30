@@ -1,0 +1,482 @@
+{
+  "title": "CHAPTER_31",
+  "words": [
+    {
+      "chinese": "缩短长度",
+      "pinyin": "suō duǎn cháng dù",
+      "english": "shorten the length",
+      "sample_sentences": [
+        "这种设计可以缩短产品的长度。",
+        "为了方便携带，厂家决定缩短设备的长度。"
+      ]
+    },
+    {
+      "chinese": "缩短距离",
+      "pinyin": "suō duǎn jù lí",
+      "english": "shorten the distance",
+      "sample_sentences": [
+        "修建这条道路可以缩短两地之间的距离。",
+        "新建的桥梁大大缩短了城市之间的距离。"
+      ]
+    },
+    {
+      "chinese": "缩短时间",
+      "pinyin": "suō duǎn shí jiān",
+      "english": "shorten the time",
+      "sample_sentences": [
+        "使用这种方法可以缩短完成任务的时间。",
+        "为了缩短等待时间，公司增加了工作人员。"
+      ]
+    },
+    {
+      "chinese": "缩短路线",
+      "pinyin": "suō duǎn lù xiàn",
+      "english": "shorten the route",
+      "sample_sentences": [
+        "我们可以走这条小路来缩短路线。",
+        "新的道路建成以后，可以缩短前往机场的路线。"
+      ]
+    },
+    {
+      "chinese": "处理问题",
+      "pinyin": "chǔ lǐ wèn tí",
+      "english": "deal with a problem",
+      "sample_sentences": [
+        "遇到问题时，我们应该冷静地处理问题。",
+        "经理正在处理客户提出的问题。"
+      ]
+    },
+    {
+      "chinese": "处理矛盾",
+      "pinyin": "chǔ lǐ máo dùn",
+      "english": "resolve conflicts",
+      "sample_sentences": [
+        "我们应该通过沟通来处理矛盾。",
+        "处理矛盾时，需要保持冷静和客观。"
+      ]
+    },
+    {
+      "chinese": "处理关系",
+      "pinyin": "chǔ lǐ guān xì",
+      "english": "handle relationships",
+      "sample_sentences": [
+        "在工作中，我们需要学会处理人际关系。",
+        "他很擅长处理同事之间的关系。"
+      ]
+    },
+    {
+      "chinese": "处理工作",
+      "pinyin": "chǔ lǐ gōng zuò",
+      "english": "handle work/tasks",
+      "sample_sentences": [
+        "我每天早上先处理重要的工作。",
+        "经理需要处理大量日常工作。"
+      ]
+    },
+    {
+      "chinese": "处理信息",
+      "pinyin": "chǔ lǐ xìn xī",
+      "english": "process information",
+      "sample_sentences": [
+        "计算机可以快速处理大量信息。",
+        "我们需要认真处理收集到的信息。"
+      ]
+    },
+    {
+      "chinese": "处理文件",
+      "pinyin": "chǔ lǐ wén jiàn",
+      "english": "process documents",
+      "sample_sentences": [
+        "工作人员正在处理相关文件。",
+        "这些文件需要及时处理。"
+      ]
+    },
+    {
+      "chinese": "处理商品",
+      "pinyin": "chǔ lǐ shāng pǐn",
+      "english": "handle/process goods",
+      "sample_sentences": [
+        "工作人员负责处理仓库里的商品。",
+        "这些商品需要经过检查后才能处理。"
+      ]
+    },
+    {
+      "chinese": "狡猾的狐狸",
+      "pinyin": "jiǎo huá de hú li",
+      "english": "a cunning fox",
+      "sample_sentences": [
+        "故事中的狐狸是一只非常狡猾的狐狸。",
+        "这只狡猾的狐狸想办法逃出了陷阱。"
+      ]
+    },
+    {
+      "chinese": "狡猾的敌人",
+      "pinyin": "jiǎo huá de dí rén",
+      "english": "a cunning enemy",
+      "sample_sentences": [
+        "他们面对的是一个非常狡猾的敌人。",
+        "狡猾的敌人总是想办法隐藏自己的计划。"
+      ]
+    },
+    {
+      "chinese": "了不起的人物",
+      "pinyin": "liǎo bu qǐ de rén wù",
+      "english": "an extraordinary person/figure",
+      "sample_sentences": [
+        "他是一位非常了不起的人物。",
+        "这位科学家为社会的发展作出了重要贡献，是一个了不起的人物。"
+      ]
+    },
+    {
+      "chinese": "了不起的贡献",
+      "pinyin": "liǎo bu qǐ de gòng xiàn",
+      "english": "remarkable contribution",
+      "sample_sentences": [
+        "他为医学研究作出了了不起的贡献。",
+        "这些科学家为人类的发展作出了了不起的贡献。"
+      ]
+    },
+    {
+      "chinese": "了不起的成绩",
+      "pinyin": "liǎo bu qǐ de chéng jì",
+      "english": "remarkable achievement",
+      "sample_sentences": [
+        "她在比赛中取得了了不起的成绩。",
+        "经过多年的努力，他终于取得了了不起的成绩。"
+      ]
+    },
+    {
+      "chinese": "了不起的发明",
+      "pinyin": "liǎo bu qǐ de fā míng",
+      "english": "remarkable invention",
+      "sample_sentences": [
+        "这是一项改变人们生活的了不起的发明。",
+        "这项了不起的发明提高了生产效率。"
+      ]
+    },
+    {
+      "chinese": "了不起的创造",
+      "pinyin": "liǎo bu qǐ de chuàng zào",
+      "english": "remarkable creation",
+      "sample_sentences": [
+        "这件作品是艺术家了不起的创造。",
+        "人类历史上有许多了不起的创造。"
+      ]
+    },
+    {
+      "chinese": "了不起的民族",
+      "pinyin": "liǎo bu qǐ de mín zú",
+      "english": "a remarkable nation/people",
+      "sample_sentences": [
+        "这是一个有着悠久历史和丰富文化的民族。",
+        "每个民族都有自己的文化传统和了不起的成就。"
+      ]
+    },
+    {
+      "chinese": "了不起的母亲",
+      "pinyin": "liǎo bu qǐ de mǔ qīn",
+      "english": "an extraordinary mother",
+      "sample_sentences": [
+        "她是一位了不起的母亲，为孩子付出了很多。",
+        "在我心里，我的母亲永远是一位了不起的母亲。"
+      ]
+    },
+    {
+      "chinese": "迫切地要求",
+      "pinyin": "pò qiè de yāo qiú",
+      "english": "urgently demand/request",
+      "sample_sentences": [
+        "员工迫切地要求公司改善工作环境。",
+        "居民迫切地要求解决交通问题。"
+      ]
+    },
+    {
+      "chinese": "迫切地需要",
+      "pinyin": "pò qiè de xū yào",
+      "english": "urgently need",
+      "sample_sentences": [
+        "这个项目迫切地需要更多资金。",
+        "灾区目前迫切地需要食品和医疗用品。"
+      ]
+    },
+    {
+      "chinese": "迫切地希望",
+      "pinyin": "pò qiè de xī wàng",
+      "english": "urgently hope",
+      "sample_sentences": [
+        "他迫切地希望找到一份合适的工作。",
+        "我们迫切地希望问题能够尽快得到解决。"
+      ]
+    },
+    {
+      "chinese": "迫切地盼望",
+      "pinyin": "pò qiè de pàn wàng",
+      "english": "eagerly long for",
+      "sample_sentences": [
+        "孩子们迫切地盼望假期的到来。",
+        "他迫切地盼望能够早日回家。"
+      ]
+    },
+    {
+      "chinese": "迫切地寻找",
+      "pinyin": "pò qiè de xún zhǎo",
+      "english": "urgently search for",
+      "sample_sentences": [
+        "警方正在迫切地寻找失踪人员。",
+        "公司迫切地寻找解决这个问题的方法。"
+      ]
+    },
+    {
+      "chinese": "轻易地相信",
+      "pinyin": "qīng yì de xiāng xìn",
+      "english": "believe easily",
+      "sample_sentences": [
+        "我们不能轻易地相信网上的所有信息。",
+        "面对陌生人的话，不要轻易地相信。"
+      ]
+    },
+    {
+      "chinese": "轻易地放弃",
+      "pinyin": "qīng yì de fàng qì",
+      "english": "give up easily",
+      "sample_sentences": [
+        "遇到困难时，不要轻易地放弃。",
+        "他从来不会因为一次失败就轻易地放弃。"
+      ]
+    },
+    {
+      "chinese": "轻易地改变",
+      "pinyin": "qīng yì de gǎi biàn",
+      "english": "change easily",
+      "sample_sentences": [
+        "确定目标以后，不应该轻易地改变计划。",
+        "他不会轻易地改变自己的决定。"
+      ]
+    },
+    {
+      "chinese": "轻易地实现",
+      "pinyin": "qīng yì de shí xiàn",
+      "english": "achieve easily",
+      "sample_sentences": [
+        "成功不是一件可以轻易地实现的事情。",
+        "这个目标并不容易，需要长期努力才能实现。"
+      ]
+    },
+    {
+      "chinese": "轻易地答应",
+      "pinyin": "qīng yì de dā ying",
+      "english": "agree easily",
+      "sample_sentences": [
+        "面对重要的决定，我们不能轻易地答应别人。",
+        "他没有经过认真考虑，就轻易地答应了这个要求。"
+      ]
+    },
+    {
+      "chinese": "轻易地错过机会",
+      "pinyin": "qīng yì de cuò guò jī huì",
+      "english": "easily miss an opportunity",
+      "sample_sentences": [
+        "机会很难得，我们不能轻易地错过机会。",
+        "如果没有做好准备，就可能轻易地错过机会。"
+      ]
+    },
+    {
+      "chinese": "轻易地发表意见",
+      "pinyin": "qīng yì de fā biǎo yì jiàn",
+      "english": "give an opinion too readily",
+      "sample_sentences": [
+        "不了解情况以前，不要轻易地发表意见。",
+        "他习惯先认真调查，再发表意见，不会轻易地发表意见。"
+      ]
+    },
+    {
+      "chinese": "轻易地达到目标",
+      "pinyin": "qīng yì de dá dào mù biāo",
+      "english": "reach a goal easily",
+      "sample_sentences": [
+        "任何成功都不是可以轻易地达到的。",
+        "没有长期努力，很难轻易地达到目标。"
+      ]
+    },
+    {
+      "chinese": "视线模糊",
+      "pinyin": "shì xiàn mó hu",
+      "english": "blurred vision",
+      "sample_sentences": [
+        "长时间看电脑以后，我的视线有些模糊。",
+        "如果出现视线模糊的情况，应该及时休息。"
+      ]
+    },
+    {
+      "chinese": "记忆模糊",
+      "pinyin": "jì yì mó hu",
+      "english": "fuzzy memory",
+      "sample_sentences": [
+        "很多年前的事情，我已经记忆模糊了。",
+        "由于时间太久，他对那段经历的记忆比较模糊。"
+      ]
+    },
+    {
+      "chinese": "声音模糊",
+      "pinyin": "shēng yīn mó hu",
+      "english": "unclear/muffled sound",
+      "sample_sentences": [
+        "电话里的声音很模糊，我听不清他说什么。",
+        "由于信号不好，对方的声音听起来很模糊。"
+      ]
+    },
+    {
+      "chinese": "印象模糊",
+      "pinyin": "yìn xiàng mó hu",
+      "english": "vague impression",
+      "sample_sentences": [
+        "我对那家餐厅还有一点印象，但已经比较模糊了。",
+        "时间太久了，他对当时的情况只有一个模糊的印象。"
+      ]
+    },
+    {
+      "chinese": "意思模糊",
+      "pinyin": "yì si mó hu",
+      "english": "ambiguous meaning",
+      "sample_sentences": [
+        "这个句子的意思模糊，需要重新表达。",
+        "如果用词不准确，很容易让意思变得模糊。"
+      ]
+    },
+    {
+      "chinese": "光线模糊",
+      "pinyin": "guāng xiàn mó hu",
+      "english": "dim/unclear lighting",
+      "sample_sentences": [
+        "房间里的光线很模糊，看不清东西。",
+        "由于光线模糊，照片拍得不太清楚。"
+      ]
+    },
+    {
+      "chinese": "字迹模糊",
+      "pinyin": "zì jì mó hu",
+      "english": "illegible handwriting",
+      "sample_sentences": [
+        "这张纸放了很多年，上面的字迹已经模糊了。",
+        "因为字迹模糊，我看不清这个名字。"
+      ]
+    },
+    {
+      "chinese": "态度冷淡",
+      "pinyin": "tài dù lěng dàn",
+      "english": "indifferent/cold attitude",
+      "sample_sentences": [
+        "他对客人的态度非常冷淡。",
+        "如果服务人员态度冷淡，顾客可能会感到不满。"
+      ]
+    },
+    {
+      "chinese": "表情冷淡",
+      "pinyin": "biǎo qíng lěng dàn",
+      "english": "cold expression",
+      "sample_sentences": [
+        "她一直保持着冷淡的表情。",
+        "虽然他表情冷淡，但实际上非常关心朋友。"
+      ]
+    },
+    {
+      "chinese": "关系冷淡",
+      "pinyin": "guān xì lěng dàn",
+      "english": "have a distant relationship",
+      "sample_sentences": [
+        "他们以前关系很好，现在却变得比较冷淡。",
+        "长时间缺少沟通可能会使双方的关系变得冷淡。"
+      ]
+    },
+    {
+      "chinese": "生意冷淡",
+      "pinyin": "shēng yi lěng dàn",
+      "english": "sluggish business",
+      "sample_sentences": [
+        "最近天气不好，店里的生意比较冷淡。",
+        "旅游淡季的时候，很多商店的生意都会比较冷淡。"
+      ]
+    },
+    {
+      "chinese": "反应冷淡",
+      "pinyin": "fǎn yìng lěng dàn",
+      "english": "have a lukewarm/cold reaction",
+      "sample_sentences": [
+        "消费者对这款新产品的反应比较冷淡。",
+        "他的建议没有得到大家积极的回应，反应显得很冷淡。"
+      ]
+    },
+    {
+      "chinese": "出示证件",
+      "pinyin": "chū shì zhèng jiàn",
+      "english": "show identification/documents",
+      "sample_sentences": [
+        "进入大楼以前，请出示证件。",
+        "办理手续时需要出示有效证件。"
+      ]
+    },
+    {
+      "chinese": "赞成意见",
+      "pinyin": "zàn chéng yì jiàn",
+      "english": "agree with an opinion",
+      "sample_sentences": [
+        "我赞成你的意见。",
+        "大多数成员都赞成这个意见。"
+      ]
+    },
+    {
+      "chinese": "编辑资料",
+      "pinyin": "biān jí zī liào",
+      "english": "edit materials/information",
+      "sample_sentences": [
+        "工作人员正在编辑会议资料。",
+        "他负责编辑和整理相关资料。"
+      ]
+    },
+    {
+      "chinese": "报告消息",
+      "pinyin": "bào gào xiāo xī",
+      "english": "report news/information",
+      "sample_sentences": [
+        "工作人员及时报告了最新消息。",
+        "发现问题以后，他马上向负责人报告了消息。"
+      ]
+    },
+    {
+      "chinese": "待人谦虚",
+      "pinyin": "dài rén qiān xū",
+      "english": "be humble toward others",
+      "sample_sentences": [
+        "他待人谦虚，很受同事欢迎。",
+        "无论取得多大的成绩，他始终待人谦虚。"
+      ]
+    },
+    {
+      "chinese": "图像模糊",
+      "pinyin": "tú xiàng mó hu",
+      "english": "blurry image",
+      "sample_sentences": [
+        "这张照片的图像太模糊了。",
+        "由于网络信号不好，视频中的图像比较模糊。"
+      ]
+    },
+    {
+      "chinese": "迫切的愿望",
+      "pinyin": "pò qiè de yuàn wàng",
+      "english": "urgent/strong desire",
+      "sample_sentences": [
+        "出国留学是他一直以来的迫切愿望。",
+        "改善生活条件是当地居民的迫切愿望。"
+      ]
+    },
+    {
+      "chinese": "犹豫的动作",
+      "pinyin": "yóu yù de dòng zuò",
+      "english": "hesitant movement/action",
+      "sample_sentences": [
+        "他做了一个犹豫的动作，然后还是决定离开。",
+        "从她犹豫的动作可以看出，她还没有做出决定。"
+      ]
+    }
+  ]
+}

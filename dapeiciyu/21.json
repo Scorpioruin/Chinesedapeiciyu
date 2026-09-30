@@ -1,0 +1,518 @@
+{
+  "title": "21",
+  "words": [
+    {
+      "chinese": "收集资料",
+      "pinyin": "shōu jí zī liào",
+      "english": "collect information / materials",
+      "sample_sentences": [
+        "做研究以前，我们需要收集资料。",
+        "他花了很多时间收集资料。"
+      ]
+    },
+    {
+      "chinese": "收集例子",
+      "pinyin": "shōu jí lì zi",
+      "english": "collect examples",
+      "sample_sentences": [
+        "老师让我们收集一些例子来说明这个问题。",
+        "写文章以前，可以先收集例子。"
+      ]
+    },
+    {
+      "chinese": "收集情况",
+      "pinyin": "shōu jí qíng kuàng",
+      "english": "collect information about a situation",
+      "sample_sentences": [
+        "工作人员正在收集当地的情况。",
+        "我们需要收集更多情况以后再做决定。"
+      ]
+    },
+    {
+      "chinese": "收集意见",
+      "pinyin": "shōu jí yì jiàn",
+      "english": "collect opinions",
+      "sample_sentences": [
+        "公司正在收集员工的意见。",
+        "在制定计划以前，我们应该收集大家的意见。"
+      ]
+    },
+    {
+      "chinese": "收集证据",
+      "pinyin": "shōu jí zhèng jù",
+      "english": "collect evidence",
+      "sample_sentences": [
+        "警方正在收集证据。",
+        "我们需要收集足够的证据。"
+      ]
+    },
+    {
+      "chinese": "收集零件",
+      "pinyin": "shōu jí líng jiàn",
+      "english": "collect parts / components",
+      "sample_sentences": [
+        "工厂需要提前收集各种零件。",
+        "他花了很长时间收集这些机器的零件。"
+      ]
+    },
+    {
+      "chinese": "收集邮票",
+      "pinyin": "shōu jí yóu piào",
+      "english": "collect stamps",
+      "sample_sentences": [
+        "我小时候喜欢收集邮票。",
+        "他收集了很多不同国家的邮票。"
+      ]
+    },
+    {
+      "chinese": "克服缺点",
+      "pinyin": "kè fú quē diǎn",
+      "english": "overcome shortcomings",
+      "sample_sentences": [
+        "我们应该努力克服自己的缺点。",
+        "认识到自己的缺点以后，才能想办法克服它。"
+      ]
+    },
+    {
+      "chinese": "克服弱点",
+      "pinyin": "kè fú ruò diǎn",
+      "english": "overcome weaknesses",
+      "sample_sentences": [
+        "只有不断练习，才能克服自己的弱点。",
+        "他正在努力克服自己的语言弱点。"
+      ]
+    },
+    {
+      "chinese": "克服消极思想",
+      "pinyin": "kè fú xiāo jí sī xiǎng",
+      "english": "overcome negative thoughts",
+      "sample_sentences": [
+        "我们应该学会克服消极思想。",
+        "积极面对困难有助于克服消极思想。"
+      ]
+    },
+    {
+      "chinese": "克服不利条件",
+      "pinyin": "kè fú bù lì tiáo jiàn",
+      "english": "overcome unfavorable conditions",
+      "sample_sentences": [
+        "他们克服了各种不利条件，完成了任务。",
+        "我们必须想办法克服目前的不利条件。"
+      ]
+    },
+    {
+      "chinese": "追求理想",
+      "pinyin": "zhuī qiú lǐ xiǎng",
+      "english": "pursue one's ideals",
+      "sample_sentences": [
+        "年轻人应该勇敢地追求自己的理想。",
+        "他为了追求理想，离开了家乡。"
+      ]
+    },
+    {
+      "chinese": "追求爱情",
+      "pinyin": "zhuī qiú ài qíng",
+      "english": "pursue love",
+      "sample_sentences": [
+        "每个人都有追求爱情的权利。",
+        "这部电影讲述了一个年轻人追求爱情的故事。"
+      ]
+    },
+    {
+      "chinese": "追求科学",
+      "pinyin": "zhuī qiú kē xué",
+      "english": "pursue science",
+      "sample_sentences": [
+        "科学家一生都在追求科学真理。",
+        "他选择这条道路，是因为他热爱科学、追求科学。"
+      ]
+    },
+    {
+      "chinese": "追求知识",
+      "pinyin": "zhuī qiú zhī shi",
+      "english": "pursue knowledge",
+      "sample_sentences": [
+        "学习的过程就是不断追求知识的过程。",
+        "他一直保持着追求知识的热情。"
+      ]
+    },
+    {
+      "chinese": "追求健康",
+      "pinyin": "zhuī qiú jiàn kāng",
+      "english": "pursue health",
+      "sample_sentences": [
+        "越来越多的人开始追求健康的生活方式。",
+        "追求健康不能只依靠运动，还要注意饮食。"
+      ]
+    },
+    {
+      "chinese": "追求外表",
+      "pinyin": "zhuī qiú wài biǎo",
+      "english": "pursue physical appearance",
+      "sample_sentences": [
+        "有些人过分追求外表。",
+        "我们不应该只追求外表，而忽视内在品质。"
+      ]
+    },
+    {
+      "chinese": "追求权力",
+      "pinyin": "zhuī qiú quán lì",
+      "english": "pursue power",
+      "sample_sentences": [
+        "他一生都在追求权力。",
+        "过分追求权力可能会带来很多问题。"
+      ]
+    },
+    {
+      "chinese": "追求速度",
+      "pinyin": "zhuī qiú sù dù",
+      "english": "pursue speed",
+      "sample_sentences": [
+        "工作中不能只追求速度，还要保证质量。",
+        "有些公司过分追求速度，忽视了安全。"
+      ]
+    },
+    {
+      "chinese": "追求质量",
+      "pinyin": "zhuī qiú zhì liàng",
+      "english": "pursue quality",
+      "sample_sentences": [
+        "这家公司一直追求产品质量。",
+        "生产过程中应该同时追求速度和质量。"
+      ]
+    },
+    {
+      "chinese": "追求享受",
+      "pinyin": "zhuī qiú xiǎng shòu",
+      "english": "pursue pleasure / comfort",
+      "sample_sentences": [
+        "生活不应该只是追求享受。",
+        "有些人喜欢追求享受，却忽视了长期的发展。"
+      ]
+    },
+    {
+      "chinese": "追求时髦",
+      "pinyin": "zhuī qiú shí máo",
+      "english": "pursue fashion / follow trends",
+      "sample_sentences": [
+        "年轻人比较喜欢追求时髦。",
+        "她喜欢追求时髦，经常购买最新款的衣服。"
+      ]
+    },
+    {
+      "chinese": "追求独立",
+      "pinyin": "zhuī qiú dú lì",
+      "english": "pursue independence",
+      "sample_sentences": [
+        "很多年轻人希望追求独立的生活。",
+        "经济独立是追求独立生活的重要一步。"
+      ]
+    },
+    {
+      "chinese": "追求进步",
+      "pinyin": "zhuī qiú jìn bù",
+      "english": "pursue progress / strive for improvement",
+      "sample_sentences": [
+        "我们应该不断学习，追求进步。",
+        "一个优秀的团队应该始终追求进步。"
+      ]
+    },
+    {
+      "chinese": "完善的制度",
+      "pinyin": "wán shàn de zhì dù",
+      "english": "a well-developed system",
+      "sample_sentences": [
+        "公司需要建立完善的制度。",
+        "完善的制度可以提高工作效率。"
+      ]
+    },
+    {
+      "chinese": "完善的办法",
+      "pinyin": "wán shàn de bàn fǎ",
+      "english": "a well-developed method / solution",
+      "sample_sentences": [
+        "我们需要找到一个完善的办法来解决这个问题。",
+        "经过讨论，大家提出了一个更加完善的办法。"
+      ]
+    },
+    {
+      "chinese": "完善的设计",
+      "pinyin": "wán shàn de shè jì",
+      "english": "a well-developed design",
+      "sample_sentences": [
+        "一个完善的设计可以减少很多问题。",
+        "这个产品经过多次修改，已经有了完善的设计。"
+      ]
+    },
+    {
+      "chinese": "完善的方案",
+      "pinyin": "wán shàn de fāng àn",
+      "english": "a well-developed plan / proposal",
+      "sample_sentences": [
+        "我们需要制定一个完善的方案。",
+        "经过大家的讨论，这个方案变得更加完善。"
+      ]
+    },
+    {
+      "chinese": "完善的法律",
+      "pinyin": "wán shàn de fǎ lǜ",
+      "english": "a well-developed legal system / comprehensive laws",
+      "sample_sentences": [
+        "社会的发展需要完善的法律。",
+        "完善的法律制度可以保护人们的合法权益。"
+      ]
+    },
+    {
+      "chinese": "公开的文件",
+      "pinyin": "gōng kāi de wén jiàn",
+      "english": "public / publicly available documents",
+      "sample_sentences": [
+        "这些都是可以查到的公开文件。",
+        "公司公布了相关的公开文件。"
+      ]
+    },
+    {
+      "chinese": "公开的身份",
+      "pinyin": "gōng kāi de shēn fèn",
+      "english": "publicly disclosed identity",
+      "sample_sentences": [
+        "他一直没有公开自己的真实身份。",
+        "活动结束以后，他公开了自己的身份。"
+      ]
+    },
+    {
+      "chinese": "公开的秘密",
+      "pinyin": "gōng kāi de mì mì",
+      "english": "an open secret",
+      "sample_sentences": [
+        "这已经是一个公开的秘密了。",
+        "他们之间的关系早已成为公开的秘密。"
+      ]
+    },
+    {
+      "chinese": "公开的活动",
+      "pinyin": "gōng kāi de huó dòng",
+      "english": "public event / open activity",
+      "sample_sentences": [
+        "学校经常举办一些公开的活动。",
+        "这个公开的活动欢迎所有人参加。"
+      ]
+    },
+    {
+      "chinese": "公开的行动",
+      "pinyin": "gōng kāi de xíng dòng",
+      "english": "public / open action",
+      "sample_sentences": [
+        "他们决定采取公开的行动。",
+        "这次不是秘密行动，而是公开的行动。"
+      ]
+    },
+    {
+      "chinese": "暗暗地佩服",
+      "pinyin": "àn àn de pèi fu",
+      "english": "secretly admire",
+      "sample_sentences": [
+        "虽然他没有说出来，但他暗暗地佩服对方。",
+        "看到她的努力，我在心里暗暗地佩服她。"
+      ]
+    },
+    {
+      "chinese": "深深地佩服",
+      "pinyin": "shēn shēn de pèi fu",
+      "english": "deeply admire",
+      "sample_sentences": [
+        "我深深地佩服他的勇气。",
+        "我们都深深地佩服这位老师。"
+      ]
+    },
+    {
+      "chinese": "打心里佩服",
+      "pinyin": "dǎ xīn li pèi fu",
+      "english": "genuinely admire from the heart",
+      "sample_sentences": [
+        "我打心里佩服那些坚持努力的人。",
+        "他的能力很强，我打心里佩服他。"
+      ]
+    },
+    {
+      "chinese": "认真思考",
+      "pinyin": "rèn zhēn sī kǎo",
+      "english": "think carefully / consider seriously",
+      "sample_sentences": [
+        "这个问题值得我们认真思考。",
+        "请认真思考以后再回答。"
+      ]
+    },
+    {
+      "chinese": "反复思考",
+      "pinyin": "fǎn fù sī kǎo",
+      "english": "think over repeatedly",
+      "sample_sentences": [
+        "我反复思考了这个问题，最后决定接受这份工作。",
+        "他反复思考以后，终于找到了答案。"
+      ]
+    },
+    {
+      "chinese": "紧张地思考",
+      "pinyin": "jǐn zhāng de sī kǎo",
+      "english": "think nervously",
+      "sample_sentences": [
+        "面对这个突然的问题，他紧张地思考着答案。",
+        "考试时间快到了，学生们紧张地思考问题。"
+      ]
+    },
+    {
+      "chinese": "耐心地思考",
+      "pinyin": "nài xīn de sī kǎo",
+      "english": "think patiently",
+      "sample_sentences": [
+        "遇到困难时，我们应该耐心地思考。",
+        "老师让学生耐心地思考这个问题。"
+      ]
+    },
+    {
+      "chinese": "专心地思考",
+      "pinyin": "zhuān xīn de sī kǎo",
+      "english": "think attentively / concentrate on thinking",
+      "sample_sentences": [
+        "他正在专心地思考一个重要的问题。",
+        "请不要打扰他，他正在专心地思考。"
+      ]
+    },
+    {
+      "chinese": "慢慢地思考",
+      "pinyin": "màn màn de sī kǎo",
+      "english": "think slowly / take time to think",
+      "sample_sentences": [
+        "这个问题比较复杂，你可以慢慢地思考。",
+        "不要着急，先坐下来慢慢地思考。"
+      ]
+    },
+    {
+      "chinese": "日程确定",
+      "pinyin": "rì chéng què dìng",
+      "english": "the schedule is confirmed",
+      "sample_sentences": [
+        "会议的日程已经确定了。",
+        "等日程确定以后，我再通知大家。"
+      ]
+    },
+    {
+      "chinese": "日程紧",
+      "pinyin": "rì chéng jǐn",
+      "english": "have a tight schedule",
+      "sample_sentences": [
+        "我最近日程很紧，可能没有时间见面。",
+        "这次旅行的日程很紧，每天都有很多活动。"
+      ]
+    },
+    {
+      "chinese": "日程满",
+      "pinyin": "rì chéng mǎn",
+      "english": "have a full schedule",
+      "sample_sentences": [
+        "我今天日程很满，晚上才能回家。",
+        "他的日程安排得很满。"
+      ]
+    },
+    {
+      "chinese": "日程松",
+      "pinyin": "rì chéng sōng",
+      "english": "have a relaxed schedule",
+      "sample_sentences": [
+        "下周我的日程比较松，可以陪你去。",
+        "假期的日程比较松，我们不用每天安排活动。"
+      ]
+    },
+    {
+      "chinese": "梦想实现",
+      "pinyin": "mèng xiǎng shí xiàn",
+      "english": "a dream comes true",
+      "sample_sentences": [
+        "经过多年的努力，他终于实现了自己的梦想。",
+        "我希望有一天能够实现自己的梦想。"
+      ]
+    },
+    {
+      "chinese": "梦想被打破",
+      "pinyin": "mèng xiǎng bèi dǎ pò",
+      "english": "a dream is shattered",
+      "sample_sentences": [
+        "因为这次失败，他的梦想被打破了。",
+        "虽然梦想被打破了，但他没有放弃。"
+      ]
+    },
+    {
+      "chinese": "追求梦想",
+      "pinyin": "zhuī qiú mèng xiǎng",
+      "english": "pursue one's dreams",
+      "sample_sentences": [
+        "年轻人应该勇敢地追求自己的梦想。",
+        "为了追求梦想，他决定到国外学习。"
+      ]
+    },
+    {
+      "chinese": "收集雨水",
+      "pinyin": "shōu jí yǔ shuǐ",
+      "english": "collect rainwater",
+      "sample_sentences": [
+        "这个系统可以收集雨水。",
+        "人们可以利用收集的雨水浇花。"
+      ]
+    },
+    {
+      "chinese": "完善制度",
+      "pinyin": "wán shàn zhì dù",
+      "english": "improve / perfect the system",
+      "sample_sentences": [
+        "公司需要不断完善制度。",
+        "我们应该通过实践来完善制度。"
+      ]
+    },
+    {
+      "chinese": "公开秘密",
+      "pinyin": "gōng kāi mì mì",
+      "english": "make a secret public / disclose a secret",
+      "sample_sentences": [
+        "他决定公开这个秘密。",
+        "这个消息一旦公开，很多人都会知道这个秘密。"
+      ]
+    },
+    {
+      "chinese": "符合逻辑",
+      "pinyin": "fú hé luó jí",
+      "english": "be logical / conform to logic",
+      "sample_sentences": [
+        "你的解释听起来很符合逻辑。",
+        "这个推论不符合逻辑。"
+      ]
+    },
+    {
+      "chinese": "提上日程",
+      "pinyin": "tí shàng rì chéng",
+      "english": "put on the agenda / put on the schedule",
+      "sample_sentences": [
+        "这个项目已经被提上日程。",
+        "改善工作环境的问题应该尽快提上日程。"
+      ]
+    },
+    {
+      "chinese": "受到称赞",
+      "pinyin": "shòu dào chēng zàn",
+      "english": "receive praise / be praised",
+      "sample_sentences": [
+        "他的工作受到了大家的称赞。",
+        "这位老师因为认真负责而受到学生的称赞。"
+      ]
+    },
+    {
+      "chinese": "下载资料",
+      "pinyin": "xià zǎi zī liào",
+      "english": "download materials / information",
+      "sample_sentences": [
+        "你可以从网站上下载资料。",
+        "学生可以登录系统下载学习资料。"
+      ]
+    }
+  ]
+}

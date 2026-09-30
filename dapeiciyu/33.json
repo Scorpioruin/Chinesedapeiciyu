@@ -1,0 +1,563 @@
+{
+  "title": "CHAPTER_33",
+  "words": [
+    {
+      "chinese": "缓解压力",
+      "pinyin": "huǎn jiě yā lì",
+      "english": "relieve pressure/stress",
+      "sample_sentences": [
+        "运动可以帮助我们缓解压力。",
+        "听音乐是缓解工作压力的一种方法。"
+      ]
+    },
+    {
+      "chinese": "缓解病情",
+      "pinyin": "huǎn jiě bìng qíng",
+      "english": "alleviate the condition",
+      "sample_sentences": [
+        "及时治疗可以有效缓解病情。",
+        "医生给他开了药，希望能够缓解病情。"
+      ]
+    },
+    {
+      "chinese": "缓解疼痛",
+      "pinyin": "huǎn jiě téng tòng",
+      "english": "relieve pain",
+      "sample_sentences": [
+        "这种药可以帮助缓解疼痛。",
+        "适当休息有时可以缓解肌肉疼痛。"
+      ]
+    },
+    {
+      "chinese": "缓解紧张情绪",
+      "pinyin": "huǎn jiě jǐn zhāng qíng xù",
+      "english": "relieve nervousness/tension",
+      "sample_sentences": [
+        "深呼吸可以帮助缓解紧张情绪。",
+        "考试前听音乐可以缓解紧张情绪。"
+      ]
+    },
+    {
+      "chinese": "缓解交通压力",
+      "pinyin": "huǎn jiě jiāo tōng yā lì",
+      "english": "ease traffic pressure",
+      "sample_sentences": [
+        "修建地铁可以有效缓解交通压力。",
+        "增加公共交通工具有助于缓解交通压力。"
+      ]
+    },
+    {
+      "chinese": "缓解气氛",
+      "pinyin": "huǎn jiě qì fēn",
+      "english": "ease the atmosphere/tension",
+      "sample_sentences": [
+        "他讲了一个笑话来缓解紧张的气氛。",
+        "音乐可以帮助缓解会议现场紧张的气氛。"
+      ]
+    },
+    {
+      "chinese": "取消资格",
+      "pinyin": "qǔ xiāo zī gé",
+      "english": "disqualify; cancel eligibility",
+      "sample_sentences": [
+        "如果违反规定，参赛者可能会被取消资格。",
+        "由于没有按时提交材料，他被取消了申请资格。"
+      ]
+    },
+    {
+      "chinese": "取消会议",
+      "pinyin": "qǔ xiāo huì yì",
+      "english": "cancel a meeting",
+      "sample_sentences": [
+        "由于天气原因，会议被取消了。",
+        "经理临时有事，所以决定取消会议。"
+      ]
+    },
+    {
+      "chinese": "取消计划",
+      "pinyin": "qǔ xiāo jì huà",
+      "english": "cancel a plan",
+      "sample_sentences": [
+        "因为下雨，我们不得不取消计划。",
+        "如果没有特殊情况，我们不会轻易取消计划。"
+      ]
+    },
+    {
+      "chinese": "取消比赛",
+      "pinyin": "qǔ xiāo bǐ sài",
+      "english": "cancel a competition/match",
+      "sample_sentences": [
+        "由于天气恶劣，主办方决定取消比赛。",
+        "比赛因为场地问题被临时取消了。"
+      ]
+    },
+    {
+      "chinese": "取消活动",
+      "pinyin": "qǔ xiāo huó dòng",
+      "english": "cancel an event/activity",
+      "sample_sentences": [
+        "由于人数不足，学校决定取消活动。",
+        "如果天气继续恶化，户外活动可能会被取消。"
+      ]
+    },
+    {
+      "chinese": "取消成绩",
+      "pinyin": "qǔ xiāo chéng jì",
+      "english": "invalidate a result/score",
+      "sample_sentences": [
+        "如果发现作弊，学校可以取消学生的考试成绩。",
+        "由于违反比赛规则，运动员的成绩被取消了。"
+      ]
+    },
+    {
+      "chinese": "取消限制",
+      "pinyin": "qǔ xiāo xiàn zhì",
+      "english": "remove restrictions",
+      "sample_sentences": [
+        "政府决定逐步取消相关限制。",
+        "取消不必要的限制可以提高工作效率。"
+      ]
+    },
+    {
+      "chinese": "取消约会",
+      "pinyin": "qǔ xiāo yuē huì",
+      "english": "cancel a date/appointment",
+      "sample_sentences": [
+        "因为突然有事，她不得不取消约会。",
+        "如果不能按时到达，请提前告诉对方并取消约会。"
+      ]
+    },
+    {
+      "chinese": "主观的愿望",
+      "pinyin": "zhǔ guān de yuàn wàng",
+      "english": "subjective desire",
+      "sample_sentences": [
+        "个人的主观愿望不能代替实际行动。",
+        "我们需要区分主观愿望和客观条件。"
+      ]
+    },
+    {
+      "chinese": "主观的意见",
+      "pinyin": "zhǔ guān de yì jiàn",
+      "english": "subjective opinion",
+      "sample_sentences": [
+        "我们应该尽量避免只根据主观意见做决定。",
+        "他的判断可能受到个人主观意见的影响。"
+      ]
+    },
+    {
+      "chinese": "主观的方法",
+      "pinyin": "zhǔ guān de fāng fǎ",
+      "english": "subjective method/approach",
+      "sample_sentences": [
+        "分析问题时不能只采用主观的方法。",
+        "这种主观的方法很容易受到个人经验的影响。"
+      ]
+    },
+    {
+      "chinese": "主观的因素",
+      "pinyin": "zhǔ guān de yīn sù",
+      "english": "subjective factor",
+      "sample_sentences": [
+        "除了客观因素以外，主观因素也会影响结果。",
+        "个人经验是影响判断的一个主观因素。"
+      ]
+    },
+    {
+      "chinese": "主观的态度",
+      "pinyin": "zhǔ guān de tài dù",
+      "english": "subjective attitude",
+      "sample_sentences": [
+        "我们应该尽量避免用主观的态度评价别人。",
+        "处理问题时，不能只采取主观的态度。"
+      ]
+    },
+    {
+      "chinese": "主观的判断",
+      "pinyin": "zhǔ guān de pàn duàn",
+      "english": "subjective judgment",
+      "sample_sentences": [
+        "我们不能只凭主观的判断得出结论。",
+        "这个决定不应该建立在个人的主观判断上。"
+      ]
+    },
+    {
+      "chinese": "主观的喜好",
+      "pinyin": "zhǔ guān de xǐ hào",
+      "english": "personal preference",
+      "sample_sentences": [
+        "选择产品时，每个人都有自己的主观喜好。",
+        "设计不能只考虑设计师个人的主观喜好。"
+      ]
+    },
+    {
+      "chinese": "主观的想象",
+      "pinyin": "zhǔ guān de xiǎng xiàng",
+      "english": "subjective imagination",
+      "sample_sentences": [
+        "我们不能只根据主观的想象判断事情。",
+        "他的描述加入了很多主观的想象。"
+      ]
+    },
+    {
+      "chinese": "繁荣的国家",
+      "pinyin": "fán róng de guó jiā",
+      "english": "prosperous country",
+      "sample_sentences": [
+        "一个繁荣的国家需要稳定的经济基础。",
+        "教育对建设繁荣的国家具有重要作用。"
+      ]
+    },
+    {
+      "chinese": "繁荣的地区",
+      "pinyin": "fán róng de dì qū",
+      "english": "prosperous region",
+      "sample_sentences": [
+        "这个地区曾经是全国最繁荣的地区之一。",
+        "交通的发展使这个地区逐渐变得繁荣。"
+      ]
+    },
+    {
+      "chinese": "繁荣的城市",
+      "pinyin": "fán róng de chéng shì",
+      "english": "prosperous city",
+      "sample_sentences": [
+        "这座城市曾经是重要的商业中心，非常繁荣。",
+        "一个繁荣的城市需要完善的公共设施。"
+      ]
+    },
+    {
+      "chinese": "繁荣的经济",
+      "pinyin": "fán róng de jīng jì",
+      "english": "prosperous economy",
+      "sample_sentences": [
+        "稳定的环境有利于发展繁荣的经济。",
+        "一个繁荣的经济能够创造更多就业机会。"
+      ]
+    },
+    {
+      "chinese": "繁荣的时代",
+      "pinyin": "fán róng de shí dài",
+      "english": "prosperous era",
+      "sample_sentences": [
+        "这个城市在那个繁荣的时代迅速发展。",
+        "艺术往往在社会相对稳定、经济繁荣的时代得到发展。"
+      ]
+    },
+    {
+      "chinese": "繁荣的文化",
+      "pinyin": "fán róng de wén huà",
+      "english": "flourishing culture",
+      "sample_sentences": [
+        "一个开放的社会有利于形成繁荣的文化。",
+        "不同文化之间的交流促进了文化的繁荣。"
+      ]
+    },
+    {
+      "chinese": "繁荣的景象",
+      "pinyin": "fán róng de jǐng xiàng",
+      "english": "prosperous scene",
+      "sample_sentences": [
+        "夜晚的商业街呈现出一片繁荣的景象。",
+        "从市场的繁荣景象可以看出当地经济正在发展。"
+      ]
+    },
+    {
+      "chinese": "繁荣的市场",
+      "pinyin": "fán róng de shì chǎng",
+      "english": "thriving market",
+      "sample_sentences": [
+        "互联网的发展创造了一个繁荣的市场。",
+        "企业希望在繁荣的市场中获得更多机会。"
+      ]
+    },
+    {
+      "chinese": "繁荣的社会",
+      "pinyin": "fán róng de shè huì",
+      "english": "prosperous society",
+      "sample_sentences": [
+        "教育和科技是建设繁荣社会的重要力量。",
+        "人们希望生活在一个稳定、繁荣的社会中。"
+      ]
+    },
+    {
+      "chinese": "自愿地参加",
+      "pinyin": "zì yuàn de cān jiā",
+      "english": "participate voluntarily",
+      "sample_sentences": [
+        "学生可以自愿地参加课外活动。",
+        "很多人自愿地参加了这次公益活动。"
+      ]
+    },
+    {
+      "chinese": "自愿地报名",
+      "pinyin": "zì yuàn de bào míng",
+      "english": "sign up voluntarily",
+      "sample_sentences": [
+        "有兴趣的学生可以自愿地报名。",
+        "工作人员鼓励大家自愿报名参加培训。"
+      ]
+    },
+    {
+      "chinese": "自愿地退学",
+      "pinyin": "zì yuàn de tuì xué",
+      "english": "voluntarily withdraw from school",
+      "sample_sentences": [
+        "由于个人原因，他决定自愿退学。",
+        "学生如果决定退学，需要按照学校规定办理手续。"
+      ]
+    },
+    {
+      "chinese": "自愿地担任",
+      "pinyin": "zì yuàn de dān rèn",
+      "english": "voluntarily take on a position",
+      "sample_sentences": [
+        "他自愿担任这次活动的负责人。",
+        "没有人愿意担任时，她主动自愿地担任了组长。"
+      ]
+    },
+    {
+      "chinese": "自愿地放弃",
+      "pinyin": "zì yuàn de fàng qì",
+      "english": "voluntarily give up",
+      "sample_sentences": [
+        "经过考虑，他决定自愿放弃这个机会。",
+        "她为了团队的利益，自愿放弃了个人的利益。"
+      ]
+    },
+    {
+      "chinese": "自愿地从事",
+      "pinyin": "zì yuàn de cóng shì",
+      "english": "voluntarily engage in",
+      "sample_sentences": [
+        "很多年轻人自愿从事志愿服务。",
+        "他毕业以后自愿从事教育工作。"
+      ]
+    },
+    {
+      "chinese": "虚心地请教",
+      "pinyin": "xū xīn de qǐng jiào",
+      "english": "humbly ask for advice",
+      "sample_sentences": [
+        "遇到不懂的问题，他总是虚心地请教老师。",
+        "年轻员工应该虚心地向有经验的同事请教。"
+      ]
+    },
+    {
+      "chinese": "虚心地学习",
+      "pinyin": "xū xīn de xué xí",
+      "english": "learn humbly/open-mindedly",
+      "sample_sentences": [
+        "我们应该虚心地学习别人的优点。",
+        "他一直虚心地学习新的知识和技能。"
+      ]
+    },
+    {
+      "chinese": "虚心地咨询",
+      "pinyin": "xū xīn de zī xún",
+      "english": "humbly seek advice",
+      "sample_sentences": [
+        "遇到专业问题时，他会虚心地咨询专家。",
+        "她虚心地向有经验的人咨询相关问题。"
+      ]
+    },
+    {
+      "chinese": "虚心地接受批评",
+      "pinyin": "xū xīn de jiē shòu pī píng",
+      "english": "humbly accept criticism",
+      "sample_sentences": [
+        "我们应该虚心地接受别人的批评。",
+        "他能够虚心地接受批评，并认真改正错误。"
+      ]
+    },
+    {
+      "chinese": "虚心地吸取教训",
+      "pinyin": "xū xīn de xī qǔ jiào xùn",
+      "english": "humbly learn from lessons",
+      "sample_sentences": [
+        "失败以后，我们应该虚心地吸取教训。",
+        "他虚心地吸取过去的教训，避免再次犯错。"
+      ]
+    },
+    {
+      "chinese": "社会改革",
+      "pinyin": "shè huì gǎi gé",
+      "english": "social reform",
+      "sample_sentences": [
+        "社会改革需要考虑不同群体的需求。",
+        "历史上的社会改革对人们的生活产生了重要影响。"
+      ]
+    },
+    {
+      "chinese": "制度改革",
+      "pinyin": "zhì dù gǎi gé",
+      "english": "institutional reform",
+      "sample_sentences": [
+        "制度改革需要充分考虑实际情况。",
+        "这项制度改革提高了管理效率。"
+      ]
+    },
+    {
+      "chinese": "政治改革",
+      "pinyin": "zhèng zhì gǎi gé",
+      "english": "political reform",
+      "sample_sentences": [
+        "政治改革通常会涉及多个方面。",
+        "不同国家的政治改革有不同的历史背景。"
+      ]
+    },
+    {
+      "chinese": "经济改革",
+      "pinyin": "jīng jì gǎi gé",
+      "english": "economic reform",
+      "sample_sentences": [
+        "经济改革对社会发展产生了重要影响。",
+        "政府正在讨论进一步推进经济改革的方法。"
+      ]
+    },
+    {
+      "chinese": "技术改革",
+      "pinyin": "jì shù gǎi gé",
+      "english": "technological reform",
+      "sample_sentences": [
+        "技术改革提高了生产效率。",
+        "企业需要根据市场变化进行技术改革。"
+      ]
+    },
+    {
+      "chinese": "课程改革",
+      "pinyin": "kè chéng gǎi gé",
+      "english": "curriculum reform",
+      "sample_sentences": [
+        "课程改革的目标是提高学生的综合能力。",
+        "学校正在讨论新的课程改革方案。"
+      ]
+    },
+    {
+      "chinese": "工资改革",
+      "pinyin": "gōng zī gǎi gé",
+      "english": "wage reform",
+      "sample_sentences": [
+        "公司正在研究工资改革方案。",
+        "工资改革需要考虑员工的工作表现和市场情况。"
+      ]
+    },
+    {
+      "chinese": "交通拥挤",
+      "pinyin": "jiāo tōng yōng jǐ",
+      "english": "heavy/crowded traffic",
+      "sample_sentences": [
+        "早上上班时间交通非常拥挤。",
+        "为了避免交通拥挤，我每天提前出门。"
+      ]
+    },
+    {
+      "chinese": "道路拥挤",
+      "pinyin": "dào lù yōng jǐ",
+      "english": "crowded/congested roads",
+      "sample_sentences": [
+        "节假日期间，道路非常拥挤。",
+        "由于道路拥挤，我们迟到了半个小时。"
+      ]
+    },
+    {
+      "chinese": "车厢拥挤",
+      "pinyin": "chē xiāng yōng jǐ",
+      "english": "crowded carriage",
+      "sample_sentences": [
+        "早高峰时地铁车厢非常拥挤。",
+        "车厢拥挤时要特别注意自己的随身物品。"
+      ]
+    },
+    {
+      "chinese": "住房拥挤",
+      "pinyin": "zhù fáng yōng jǐ",
+      "english": "crowded housing conditions",
+      "sample_sentences": [
+        "一些大城市仍然存在住房拥挤的问题。",
+        "改善住房条件可以解决部分住房拥挤问题。"
+      ]
+    },
+    {
+      "chinese": "城市拥挤",
+      "pinyin": "chéng shì yōng jǐ",
+      "english": "crowded city",
+      "sample_sentences": [
+        "人口增长使一些城市变得越来越拥挤。",
+        "交通拥堵和住房问题使城市生活更加拥挤。"
+      ]
+    },
+    {
+      "chinese": "车站拥挤",
+      "pinyin": "chē zhàn yōng jǐ",
+      "english": "crowded station",
+      "sample_sentences": [
+        "节假日期间，火车站非常拥挤。",
+        "由于车站拥挤，工作人员加强了安全管理。"
+      ]
+    },
+    {
+      "chinese": "扩大影响",
+      "pinyin": "kuò dà yǐng xiǎng",
+      "english": "expand influence/impact",
+      "sample_sentences": [
+        "公司希望通过网络扩大品牌的影响。",
+        "这次活动有助于扩大项目的社会影响。"
+      ]
+    },
+    {
+      "chinese": "归纳观点",
+      "pinyin": "guī nà guān diǎn",
+      "english": "summarize viewpoints",
+      "sample_sentences": [
+        "最后，请归纳一下文章的主要观点。",
+        "老师要求学生阅读材料后归纳自己的观点。"
+      ]
+    },
+    {
+      "chinese": "批准方案",
+      "pinyin": "pī zhǔn fāng àn",
+      "english": "approve a plan/proposal",
+      "sample_sentences": [
+        "领导已经批准了这个方案。",
+        "方案经过讨论以后，最终获得批准。"
+      ]
+    },
+    {
+      "chinese": "缓解矛盾",
+      "pinyin": "huǎn jiě máo dùn",
+      "english": "ease/resolve conflicts",
+      "sample_sentences": [
+        "及时沟通有助于缓解双方的矛盾。",
+        "双方都愿意退一步，可以有效缓解矛盾。"
+      ]
+    },
+    {
+      "chinese": "赔偿损失",
+      "pinyin": "péi cháng sǔn shī",
+      "english": "compensate for losses",
+      "sample_sentences": [
+        "公司同意赔偿客户的经济损失。",
+        "如果造成损失，责任方需要依法赔偿损失。"
+      ]
+    },
+    {
+      "chinese": "期待胜利",
+      "pinyin": "qī dài shèng lì",
+      "english": "look forward to victory",
+      "sample_sentences": [
+        "球迷们都期待球队取得胜利。",
+        "运动员们努力训练，期待比赛中的胜利。"
+      ]
+    },
+    {
+      "chinese": "展开辩论",
+      "pinyin": "zhǎn kāi biàn lùn",
+      "english": "hold/conduct a debate",
+      "sample_sentences": [
+        "学生们围绕这个问题展开了辩论。",
+        "双方就这个话题展开了激烈的辩论。"
+      ]
+    }
+  ]
+}

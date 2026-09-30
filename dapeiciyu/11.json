@@ -1,0 +1,410 @@
+{
+  "title": "11",
+  "words": [
+    {
+      "chinese": "享受自由",
+      "pinyin": "xiǎngshòu zìyóu",
+      "english": "enjoy freedom",
+      "sample_sentences": [
+        "每个人都希望享受自由的生活。",
+        "孩子们在假期里可以享受自由。"
+      ]
+    },
+    {
+      "chinese": "享受艺术",
+      "pinyin": "xiǎngshòu yìshù",
+      "english": "enjoy art",
+      "sample_sentences": [
+        "很多人喜欢在博物馆里享受艺术。",
+        "音乐让我们有机会享受艺术带来的快乐。"
+      ]
+    },
+    {
+      "chinese": "享受人生",
+      "pinyin": "xiǎngshòu rénshēng",
+      "english": "enjoy life",
+      "sample_sentences": [
+        "我们应该学会享受人生中的美好时光。",
+        "努力工作也是为了将来更好地享受人生。"
+      ]
+    },
+    {
+      "chinese": "享受美酒",
+      "pinyin": "xiǎngshòu měijiǔ",
+      "english": "enjoy fine wine",
+      "sample_sentences": [
+        "他们坐在一起，一边聊天一边享受美酒。",
+        "晚上，他喜欢一个人安静地享受美酒。"
+      ]
+    },
+    {
+      "chinese": "享受幸福",
+      "pinyin": "xiǎngshòu xìngfú",
+      "english": "enjoy happiness",
+      "sample_sentences": [
+        "一家人在一起就是享受幸福的时刻。",
+        "努力工作是为了让家人享受幸福的生活。"
+      ]
+    },
+    {
+      "chinese": "享受快乐",
+      "pinyin": "xiǎngshòu kuàilè",
+      "english": "enjoy happiness/joy",
+      "sample_sentences": [
+        "孩子们在游戏中享受快乐。",
+        "旅行让我们暂时忘记压力，享受快乐。"
+      ]
+    },
+    {
+      "chinese": "导致错误",
+      "pinyin": "dǎozhì cuòwù",
+      "english": "lead to errors",
+      "sample_sentences": [
+        "粗心大意很容易导致错误。",
+        "信息不准确可能会导致错误的判断。"
+      ]
+    },
+    {
+      "chinese": "导致失败",
+      "pinyin": "dǎozhì shībài",
+      "english": "lead to failure",
+      "sample_sentences": [
+        "准备不足可能导致失败。",
+        "错误的决定最终导致了项目失败。"
+      ]
+    },
+    {
+      "chinese": "导致失眠",
+      "pinyin": "dǎozhì shīmián",
+      "english": "cause insomnia",
+      "sample_sentences": [
+        "压力太大可能导致失眠。",
+        "睡前喝太多咖啡容易导致失眠。"
+      ]
+    },
+    {
+      "chinese": "导致危险",
+      "pinyin": "dǎozhì wēixiǎn",
+      "english": "lead to danger",
+      "sample_sentences": [
+        "在大雾中高速驾驶可能导致危险。",
+        "不遵守安全规定可能导致危险。"
+      ]
+    },
+    {
+      "chinese": "稳定的情绪",
+      "pinyin": "wěndìng de qíngxù",
+      "english": "stable emotions",
+      "sample_sentences": [
+        "保持稳定的情绪有助于解决问题。",
+        "面对困难时，我们应该保持稳定的情绪。"
+      ]
+    },
+    {
+      "chinese": "不满的情绪",
+      "pinyin": "bùmǎn de qíngxù",
+      "english": "feelings of dissatisfaction",
+      "sample_sentences": [
+        "员工对公司的决定产生了不满的情绪。",
+        "他没有把心里的不满情绪表达出来。"
+      ]
+    },
+    {
+      "chinese": "紧张的情绪",
+      "pinyin": "jǐnzhāng de qíngxù",
+      "english": "nervous/anxious feelings",
+      "sample_sentences": [
+        "考试前，很多学生都会有紧张的情绪。",
+        "深呼吸可以帮助你缓解紧张的情绪。"
+      ]
+    },
+    {
+      "chinese": "关于家的记忆",
+      "pinyin": "guānyú jiā de jìyì",
+      "english": "memories of home",
+      "sample_sentences": [
+        "这首歌让我想起了许多关于家的记忆。",
+        "小时候的经历给我留下了很多关于家的记忆。"
+      ]
+    },
+    {
+      "chinese": "难忘的记忆",
+      "pinyin": "nánwàng de jìyì",
+      "english": "unforgettable memory",
+      "sample_sentences": [
+        "这次旅行给我留下了难忘的记忆。",
+        "大学生活是我人生中一段难忘的记忆。"
+      ]
+    },
+    {
+      "chinese": "努力避免",
+      "pinyin": "nǔlì bìmiǎn",
+      "english": "make an effort to avoid",
+      "sample_sentences": [
+        "我们应该努力避免发生类似的问题。",
+        "为了保护环境，人们正在努力避免浪费资源。"
+      ]
+    },
+    {
+      "chinese": "尽量避免",
+      "pinyin": "jǐnliàng bìmiǎn",
+      "english": "try to avoid",
+      "sample_sentences": [
+        "开车时应该尽量避免使用手机。",
+        "我们应该尽量避免不必要的争论。"
+      ]
+    },
+    {
+      "chinese": "主动避免",
+      "pinyin": "zhǔdòng bìmiǎn",
+      "english": "proactively avoid",
+      "sample_sentences": [
+        "我们应该主动避免不必要的冲突。",
+        "为了减少风险，公司主动避免了一些危险的投资。"
+      ]
+    },
+    {
+      "chinese": "故意避免",
+      "pinyin": "gùyì bìmiǎn",
+      "english": "deliberately avoid",
+      "sample_sentences": [
+        "他故意避免谈论这个敏感的问题。",
+        "她故意避免和那个人见面。"
+      ]
+    },
+    {
+      "chinese": "完全避免",
+      "pinyin": "wánquán bìmiǎn",
+      "english": "completely avoid",
+      "sample_sentences": [
+        "生活中的风险不可能完全避免。",
+        "我们很难完全避免发生意外。"
+      ]
+    },
+    {
+      "chinese": "有效避免",
+      "pinyin": "yǒuxiào bìmiǎn",
+      "english": "effectively avoid",
+      "sample_sentences": [
+        "提前做好准备可以有效避免很多问题。",
+        "遵守交通规则可以有效避免交通事故。"
+      ]
+    },
+    {
+      "chinese": "准确地模仿",
+      "pinyin": "zhǔnquè de mófǎng",
+      "english": "imitate accurately",
+      "sample_sentences": [
+        "学生能够准确地模仿老师的发音。",
+        "他可以准确地模仿不同人的声音。"
+      ]
+    },
+    {
+      "chinese": "成功地模仿",
+      "pinyin": "chénggōng de mófǎng",
+      "english": "successfully imitate",
+      "sample_sentences": [
+        "他成功地模仿了演员的声音。",
+        "这个孩子成功地模仿了老师的动作。"
+      ]
+    },
+    {
+      "chinese": "专门模仿",
+      "pinyin": "zhuānmén mófǎng",
+      "english": "specifically imitate",
+      "sample_sentences": [
+        "他专门模仿著名演员的说话方式。",
+        "这个节目专门模仿各种不同的声音。"
+      ]
+    },
+    {
+      "chinese": "故意模仿",
+      "pinyin": "gùyì mófǎng",
+      "english": "deliberately imitate",
+      "sample_sentences": [
+        "他故意模仿老师的动作，引得大家大笑。",
+        "孩子喜欢故意模仿父母说话。"
+      ]
+    },
+    {
+      "chinese": "计算出",
+      "pinyin": "jìsuàn chū",
+      "english": "calculate; work out",
+      "sample_sentences": [
+        "科学家很快计算出了结果。",
+        "我们已经计算出完成这项工作需要多少时间。"
+      ]
+    },
+    {
+      "chinese": "计算出来",
+      "pinyin": "jìsuàn chūlái",
+      "english": "calculate and obtain the result",
+      "sample_sentences": [
+        "这个数字是通过电脑计算出来的。",
+        "经过几个小时的计算，他终于把答案计算出来了。"
+      ]
+    },
+    {
+      "chinese": "改过来",
+      "pinyin": "gǎi guòlái",
+      "english": "change/correct back",
+      "sample_sentences": [
+        "这个错误不难，把它改过来就可以了。",
+        "请把错误的地方改过来。"
+      ]
+    },
+    {
+      "chinese": "救过来",
+      "pinyin": "jiù guòlái",
+      "english": "save; bring back to life",
+      "sample_sentences": [
+        "经过几个小时的抢救，医生终于把他救过来了。",
+        "幸好送医院及时，病人被医生救过来了。"
+      ]
+    },
+    {
+      "chinese": "清醒过来",
+      "pinyin": "qīngxǐng guòlái",
+      "english": "regain consciousness",
+      "sample_sentences": [
+        "他昏迷了几个小时以后终于清醒过来。",
+        "听到家人的声音后，她慢慢清醒过来。"
+      ]
+    },
+    {
+      "chinese": "明白过来",
+      "pinyin": "míngbai guòlái",
+      "english": "come to understand",
+      "sample_sentences": [
+        "听完他的解释，我终于明白过来了。",
+        "过了一会儿，他才明白过来自己被骗了。"
+      ]
+    },
+    {
+      "chinese": "反应过来",
+      "pinyin": "fǎnyìng guòlái",
+      "english": "realize; react in time",
+      "sample_sentences": [
+        "等我反应过来的时候，他已经走远了。",
+        "她过了几秒钟才反应过来发生了什么。"
+      ]
+    },
+    {
+      "chinese": "精神愉快",
+      "pinyin": "jīngshén yúkuài",
+      "english": "be cheerful in spirit",
+      "sample_sentences": [
+        "保持精神愉快对生活很重要。",
+        "周末和朋友出去以后，他感到精神愉快。"
+      ]
+    },
+    {
+      "chinese": "精神放松",
+      "pinyin": "jīngshén fàngsōng",
+      "english": "feel mentally relaxed",
+      "sample_sentences": [
+        "听音乐可以让人精神放松。",
+        "旅行结束以后，我觉得精神放松了很多。"
+      ]
+    },
+    {
+      "chinese": "精神饱满",
+      "pinyin": "jīngshén bǎomǎn",
+      "english": "full of energy",
+      "sample_sentences": [
+        "经过充分休息，他第二天精神饱满地去上班。",
+        "运动以后，她看起来精神饱满。"
+      ]
+    },
+    {
+      "chinese": "光线昏暗",
+      "pinyin": "guāngxiàn hūn'àn",
+      "english": "dim lighting",
+      "sample_sentences": [
+        "房间里的光线昏暗，看书很不方便。",
+        "由于光线昏暗，他没有看清楚前面的路。"
+      ]
+    },
+    {
+      "chinese": "光线明亮",
+      "pinyin": "guāngxiàn míngliàng",
+      "english": "bright lighting",
+      "sample_sentences": [
+        "这个房间光线明亮，非常适合学习。",
+        "教室里的光线明亮，学生看书不会觉得累。"
+      ]
+    },
+    {
+      "chinese": "享受音乐",
+      "pinyin": "xiǎngshòu yīnyuè",
+      "english": "enjoy music",
+      "sample_sentences": [
+        "晚上我喜欢一个人安静地享受音乐。",
+        "人们可以在音乐会上享受音乐带来的快乐。"
+      ]
+    },
+    {
+      "chinese": "导致灾害",
+      "pinyin": "dǎozhì zāihài",
+      "english": "cause a disaster",
+      "sample_sentences": [
+        "严重的自然灾害可能导致巨大的损失。",
+        "环境破坏可能导致严重的自然灾害。"
+      ]
+    },
+    {
+      "chinese": "危害社会",
+      "pinyin": "wēihài shèhuì",
+      "english": "harm society",
+      "sample_sentences": [
+        "这种行为不仅违法，而且会危害社会。",
+        "我们应该共同防止危害社会的行为。"
+      ]
+    },
+    {
+      "chinese": "避免麻烦",
+      "pinyin": "bìmiǎn máfan",
+      "english": "avoid trouble",
+      "sample_sentences": [
+        "为了避免麻烦，我们最好提前做好准备。",
+        "出门前检查好所有东西，可以避免很多麻烦。"
+      ]
+    },
+    {
+      "chinese": "满足愿望",
+      "pinyin": "mǎnzú yuànwàng",
+      "english": "fulfill a wish",
+      "sample_sentences": [
+        "父母希望尽量满足孩子的合理愿望。",
+        "这次旅行满足了我多年的愿望。"
+      ]
+    },
+    {
+      "chinese": "稳定情绪",
+      "pinyin": "wěndìng qíngxù",
+      "english": "stabilize emotions",
+      "sample_sentences": [
+        "遇到紧急情况时，首先要稳定情绪。",
+        "深呼吸可以帮助我们稳定情绪。"
+      ]
+    },
+    {
+      "chinese": "集中精神",
+      "pinyin": "jízhōng jīngshén",
+      "english": "concentrate; focus",
+      "sample_sentences": [
+        "考试的时候一定要集中精神。",
+        "请集中精神听老师讲课。"
+      ]
+    },
+    {
+      "chinese": "重视传统",
+      "pinyin": "zhòngshì chuántǒng",
+      "english": "value traditions",
+      "sample_sentences": [
+        "我们应该重视传统文化。",
+        "这个国家非常重视传统和历史。"
+      ]
+    }
+  ]
+}

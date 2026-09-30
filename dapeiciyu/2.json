@@ -1,0 +1,302 @@
+{
+  "title": "2",
+  "words": [
+    {
+      "chinese": "断水",
+      "pinyin": "duàn shuǐ",
+      "english": "water supply is cut off",
+      "sample_sentences": [
+        "小区今天上午突然断水了。",
+        "如果明天断水，请提前准备一些饮用水。"
+      ]
+    },
+    {
+      "chinese": "断电",
+      "pinyin": "duàn diàn",
+      "english": "power is cut off",
+      "sample_sentences": [
+        "昨晚因为暴雨，整个地区都断电了。",
+        "如果突然断电，电脑里的资料可能会丢失。"
+      ]
+    },
+    {
+      "chinese": "断联系",
+      "pinyin": "duàn liánxì",
+      "english": "lose contact; cut off contact",
+      "sample_sentences": [
+        "搬到国外以后，他和以前的朋友渐渐断了联系。",
+        "因为手机坏了，我和他暂时断了联系。"
+      ]
+    },
+    {
+      "chinese": "晒被子",
+      "pinyin": "shài bèizi",
+      "english": "air/dry bedding in the sun",
+      "sample_sentences": [
+        "天气好的时候，我喜欢把被子拿出去晒一晒。",
+        "妈妈正在阳台上晒被子。"
+      ]
+    },
+    {
+      "chinese": "晒衣服",
+      "pinyin": "shài yīfu",
+      "english": "dry clothes in the sun",
+      "sample_sentences": [
+        "洗完衣服以后，要及时拿出去晒衣服。",
+        "今天太阳很好，很适合晒衣服。"
+      ]
+    },
+    {
+      "chinese": "晒太阳",
+      "pinyin": "shài tàiyáng",
+      "english": "sunbathe; bask in the sun",
+      "sample_sentences": [
+        "天气好的时候，老人喜欢坐在公园里晒太阳。",
+        "适当地晒太阳对身体有一定的好处。"
+      ]
+    },
+    {
+      "chinese": "强烈的目光",
+      "pinyin": "qiángliè de mùguāng",
+      "english": "intense gaze",
+      "sample_sentences": [
+        "他用强烈的目光看着对方。",
+        "面对大家强烈的目光，她有些紧张。"
+      ]
+    },
+    {
+      "chinese": "强烈的感情",
+      "pinyin": "qiángliè de gǎnqíng",
+      "english": "strong emotions",
+      "sample_sentences": [
+        "这部电影表达了人物强烈的感情。",
+        "他对家乡有着非常强烈的感情。"
+      ]
+    },
+    {
+      "chinese": "强烈的对比",
+      "pinyin": "qiángliè de duìbǐ",
+      "english": "strong contrast",
+      "sample_sentences": [
+        "黑白两种颜色形成了强烈的对比。",
+        "这两张照片放在一起，形成了强烈的对比。"
+      ]
+    },
+    {
+      "chinese": "长途旅行",
+      "pinyin": "chángtú lǚxíng",
+      "english": "long-distance trip",
+      "sample_sentences": [
+        "长途旅行之前，我们应该做好充分的准备。",
+        "经过几天的长途旅行，他感到非常疲劳。"
+      ]
+    },
+    {
+      "chinese": "长途汽车",
+      "pinyin": "chángtú qìchē",
+      "english": "long-distance bus",
+      "sample_sentences": [
+        "我们坐长途汽车去了另一个城市。",
+        "长途汽车通常需要几个小时才能到达目的地。"
+      ]
+    },
+    {
+      "chinese": "长途电话",
+      "pinyin": "chángtú diànhuà",
+      "english": "long-distance call",
+      "sample_sentences": [
+        "以前打长途电话的费用比较高。",
+        "他给住在国外的父母打了一个长途电话。"
+      ]
+    },
+    {
+      "chinese": "一辈子住在农村",
+      "pinyin": "yí bèizi zhù zài nóngcūn",
+      "english": "live in the countryside all one's life",
+      "sample_sentences": [
+        "我的爷爷一辈子住在农村。",
+        "他希望一辈子住在农村，过安静的生活。"
+      ]
+    },
+    {
+      "chinese": "一辈子没出国",
+      "pinyin": "yí bèizi méi chūguó",
+      "english": "never go abroad in one's lifetime",
+      "sample_sentences": [
+        "他一辈子没出国，对国外的生活很好奇。",
+        "虽然一辈子没出国，但他通过书籍了解了很多国家。"
+      ]
+    },
+    {
+      "chinese": "坚决反对",
+      "pinyin": "jiānjué fǎnduì",
+      "english": "firmly oppose",
+      "sample_sentences": [
+        "很多人坚决反对这种做法。",
+        "他坚决反对浪费公共资源。"
+      ]
+    },
+    {
+      "chinese": "坚决改正",
+      "pinyin": "jiānjué gǎizhèng",
+      "english": "firmly correct",
+      "sample_sentences": [
+        "发现错误以后，我们应该坚决改正。",
+        "他表示以后一定会坚决改正自己的缺点。"
+      ]
+    },
+    {
+      "chinese": "打断",
+      "pinyin": "dǎduàn",
+      "english": "interrupt; break",
+      "sample_sentences": [
+        "请不要打断别人说话。",
+        "突然响起的电话打断了我们的谈话。"
+      ]
+    },
+    {
+      "chinese": "挣断",
+      "pinyin": "zhèngduàn",
+      "english": "break free by struggling",
+      "sample_sentences": [
+        "这匹马用力挣断了绳子。",
+        "动物拼命挣扎，最后终于挣断了绳子。"
+      ]
+    },
+    {
+      "chinese": "摔断",
+      "pinyin": "shuāiduàn",
+      "english": "break by falling",
+      "sample_sentences": [
+        "他从楼梯上摔下来，摔断了腿。",
+        "小心别摔倒，否则可能会摔断骨头。"
+      ]
+    },
+    {
+      "chinese": "热得不得了",
+      "pinyin": "rè de bùdéliǎo",
+      "english": "extremely hot",
+      "sample_sentences": [
+        "今天热得不得了，最好不要长时间待在外面。",
+        "夏天的天气热得不得了。"
+      ]
+    },
+    {
+      "chinese": "累得不得了",
+      "pinyin": "lèi de bùdéliǎo",
+      "english": "extremely tired",
+      "sample_sentences": [
+        "工作了一整天，我累得不得了。",
+        "走了几个小时以后，大家都累得不得了。"
+      ]
+    },
+    {
+      "chinese": "急得不得了",
+      "pinyin": "jí de bùdéliǎo",
+      "english": "extremely anxious",
+      "sample_sentences": [
+        "孩子还没有回来，妈妈急得不得了。",
+        "眼看考试时间快到了，他急得不得了。"
+      ]
+    },
+    {
+      "chinese": "兴奋得不得了",
+      "pinyin": "xīngfèn de bùdéliǎo",
+      "english": "extremely excited",
+      "sample_sentences": [
+        "听到自己获奖的消息，她兴奋得不得了。",
+        "孩子们看到偶像以后，兴奋得不得了。"
+      ]
+    },
+    {
+      "chinese": "热闹得不得了",
+      "pinyin": "rènao de bùdéliǎo",
+      "english": "extremely lively",
+      "sample_sentences": [
+        "春节期间，街上热闹得不得了。",
+        "周末的夜市热闹得不得了。"
+      ]
+    },
+    {
+      "chinese": "一套房子",
+      "pinyin": "yí tào fángzi",
+      "english": "a house/apartment",
+      "sample_sentences": [
+        "他们终于买了一套房子。",
+        "想在市中心买一套房子并不容易。"
+      ]
+    },
+    {
+      "chinese": "一套家具",
+      "pinyin": "yí tào jiājù",
+      "english": "a set of furniture",
+      "sample_sentences": [
+        "他们给新家买了一套家具。",
+        "这套家具的设计非常现代。"
+      ]
+    },
+    {
+      "chinese": "一套餐具",
+      "pinyin": "yí tào cānjù",
+      "english": "a set of tableware",
+      "sample_sentences": [
+        "妈妈买了一套餐具。",
+        "这套餐具非常漂亮，适合正式场合使用。"
+      ]
+    },
+    {
+      "chinese": "一套邮票",
+      "pinyin": "yí tào yóupiào",
+      "english": "a set of stamps",
+      "sample_sentences": [
+        "他收藏了一套邮票。",
+        "这套邮票是为了纪念一个特殊的节日发行的。"
+      ]
+    },
+    {
+      "chinese": "一套西服",
+      "pinyin": "yí tào xīfú",
+      "english": "a suit",
+      "sample_sentences": [
+        "他买了一套新的西服参加面试。",
+        "这套西服很适合正式场合。"
+      ]
+    },
+    {
+      "chinese": "一阵风",
+      "pinyin": "yí zhèn fēng",
+      "english": "a gust of wind",
+      "sample_sentences": [
+        "突然刮来一阵风，把桌上的纸吹走了。",
+        "一阵风吹过，树叶纷纷落下来。"
+      ]
+    },
+    {
+      "chinese": "一阵雨",
+      "pinyin": "yí zhèn yǔ",
+      "english": "a spell of rain",
+      "sample_sentences": [
+        "下午突然下了一阵雨。",
+        "一阵雨过后，天气凉快了很多。"
+      ]
+    },
+    {
+      "chinese": "一阵歌声",
+      "pinyin": "yí zhèn gēshēng",
+      "english": "a burst of singing",
+      "sample_sentences": [
+        "远处传来一阵歌声。",
+        "夜晚的校园里不时传来一阵歌声。"
+      ]
+    },
+    {
+      "chinese": "一阵香味",
+      "pinyin": "yí zhèn xiāngwèi",
+      "english": "a wave of fragrance",
+      "sample_sentences": [
+        "厨房里飘来一阵香味。",
+        "打开门，一阵香味扑面而来。"
+      ]
+    }
+  ]
+}

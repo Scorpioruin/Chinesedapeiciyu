@@ -1,0 +1,212 @@
+{
+  "title": "9",
+  "words": [
+    {
+      "chinese": "讲究吃",
+      "pinyin": "jiǎngjiu chī",
+      "english": "be particular about food",
+      "sample_sentences": [
+        "他很讲究吃，对食物的质量要求很高。",
+        "现在越来越多的人开始讲究吃，关注食品的健康和营养。"
+      ]
+    },
+    {
+      "chinese": "讲究卫生",
+      "pinyin": "jiǎngjiu wèishēng",
+      "english": "pay attention to hygiene",
+      "sample_sentences": [
+        "我们平时要讲究卫生，养成良好的生活习惯。",
+        "餐厅应该特别讲究卫生。"
+      ]
+    },
+    {
+      "chinese": "讲究方法",
+      "pinyin": "jiǎngjiu fāngfǎ",
+      "english": "pay attention to methods",
+      "sample_sentences": [
+        "学习中文不仅要努力，还要讲究方法。",
+        "解决问题时要讲究方法，不能只靠力气。"
+      ]
+    },
+    {
+      "chinese": "戒烟",
+      "pinyin": "jiè yān",
+      "english": "quit smoking",
+      "sample_sentences": [
+        "医生建议他尽快戒烟。",
+        "戒烟以后，他的身体状况有所改善。"
+      ]
+    },
+    {
+      "chinese": "戒酒",
+      "pinyin": "jiè jiǔ",
+      "english": "quit drinking alcohol",
+      "sample_sentences": [
+        "为了身体健康，他决定戒酒。",
+        "医生建议他戒酒一段时间。"
+      ]
+    },
+    {
+      "chinese": "地道的普通话",
+      "pinyin": "dìdao de pǔtōnghuà",
+      "english": "authentic Mandarin",
+      "sample_sentences": [
+        "他的普通话说得非常地道。",
+        "如果想学地道的普通话，可以多听标准的中文节目。"
+      ]
+    },
+    {
+      "chinese": "地道的北京小吃",
+      "pinyin": "dìdao de Běijīng xiǎochī",
+      "english": "authentic Beijing snacks",
+      "sample_sentences": [
+        "来到北京，一定要尝尝地道的北京小吃。",
+        "这家店可以吃到很多地道的北京小吃。"
+      ]
+    },
+    {
+      "chinese": "高档的礼品",
+      "pinyin": "gāodàng de lǐpǐn",
+      "english": "high-end gifts",
+      "sample_sentences": [
+        "这家商店主要出售高档的礼品。",
+        "他买了一件高档的礼品送给客户。"
+      ]
+    },
+    {
+      "chinese": "高档的家具",
+      "pinyin": "gāodàng de jiājù",
+      "english": "high-end furniture",
+      "sample_sentences": [
+        "这家店出售各种高档的家具。",
+        "他们的新家里摆放着一些高档的家具。"
+      ]
+    },
+    {
+      "chinese": "高档的服装",
+      "pinyin": "gāodàng de fúzhuāng",
+      "english": "high-end clothing",
+      "sample_sentences": [
+        "这家商店主要销售高档的服装。",
+        "她喜欢购买设计独特的高档服装。"
+      ]
+    },
+    {
+      "chinese": "算得上",
+      "pinyin": "suàn de shàng",
+      "english": "can be considered; qualify as",
+      "sample_sentences": [
+        "他算得上是这个领域的专家。",
+        "这家餐厅算得上是当地最有名的餐厅之一。"
+      ]
+    },
+    {
+      "chinese": "算不上",
+      "pinyin": "suàn bu shàng",
+      "english": "cannot really be considered",
+      "sample_sentences": [
+        "这次成绩还算不错，但算不上优秀。",
+        "他只能算是一个普通员工，算不上专家。"
+      ]
+    },
+    {
+      "chinese": "保存几百年",
+      "pinyin": "bǎocún jǐ bǎi nián",
+      "english": "preserve for hundreds of years",
+      "sample_sentences": [
+        "这座建筑已经保存了几百年。",
+        "这种传统手工艺已经保存了几百年。"
+      ]
+    },
+    {
+      "chinese": "保存完好",
+      "pinyin": "bǎocún wánhǎo",
+      "english": "be well preserved",
+      "sample_sentences": [
+        "这座古建筑虽然历史悠久，但保存完好。",
+        "博物馆里有一批保存完好的历史文物。"
+      ]
+    },
+    {
+      "chinese": "保存至今",
+      "pinyin": "bǎocún zhìjīn",
+      "english": "be preserved to this day",
+      "sample_sentences": [
+        "这座古老的建筑一直保存至今。",
+        "这本书已经保存至今超过三百年了。"
+      ]
+    },
+    {
+      "chinese": "一条胡同",
+      "pinyin": "yì tiáo hútòng",
+      "english": "an alley",
+      "sample_sentences": [
+        "这条胡同有着悠久的历史。",
+        "我们在北京的一条胡同里发现了一家小餐馆。"
+      ]
+    },
+    {
+      "chinese": "一个胡同",
+      "pinyin": "yí ge hútòng",
+      "english": "an alley",
+      "sample_sentences": [
+        "前面有一个胡同，我们可以从那里走过去。",
+        "他住在北京一个安静的胡同里。"
+      ]
+    },
+    {
+      "chinese": "一首歌",
+      "pinyin": "yì shǒu gē",
+      "english": "a song",
+      "sample_sentences": [
+        "这是一首非常好听的歌。",
+        "她为朋友唱了一首歌。"
+      ]
+    },
+    {
+      "chinese": "一首诗",
+      "pinyin": "yì shǒu shī",
+      "english": "a poem",
+      "sample_sentences": [
+        "老师让我们背诵一首诗。",
+        "他写了一首诗来表达自己的心情。"
+      ]
+    },
+    {
+      "chinese": "表现很好",
+      "pinyin": "biǎoxiàn hěn hǎo",
+      "english": "perform very well",
+      "sample_sentences": [
+        "他在这次考试中表现很好。",
+        "她在比赛中的表现很好，得到了大家的肯定。"
+      ]
+    },
+    {
+      "chinese": "表现突出",
+      "pinyin": "biǎoxiàn tūchū",
+      "english": "perform exceptionally well",
+      "sample_sentences": [
+        "他在比赛中表现突出，获得了第一名。",
+        "这位员工工作认真，表现突出。"
+      ]
+    },
+    {
+      "chinese": "表现稳定",
+      "pinyin": "biǎoxiàn wěndìng",
+      "english": "perform consistently",
+      "sample_sentences": [
+        "这位运动员最近的表现很稳定。",
+        "虽然比赛压力很大，但他的表现一直很稳定。"
+      ]
+    },
+    {
+      "chinese": "描写很形象",
+      "pinyin": "miáoxiě hěn xíngxiàng",
+      "english": "describe vividly",
+      "sample_sentences": [
+        "这篇文章对人物的描写很形象。",
+        "作者对农村生活的描写很形象，让人感觉身临其境。"
+      ]
+    }
+  ]
+}

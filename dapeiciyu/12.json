@@ -1,0 +1,248 @@
+{
+  "title": "12",
+  "words": [
+    {
+      "chinese": "推广汉语普通话",
+      "pinyin": "tuīguǎng Hànyǔ Pǔtōnghuà",
+      "english": "promote Standard Chinese (Mandarin)",
+      "sample_sentences": [
+        "学校正在积极推广汉语普通话。",
+        "推广汉语普通话有助于不同地区的人交流。"
+      ]
+    },
+    {
+      "chinese": "推广新技术",
+      "pinyin": "tuīguǎng xīn jìshù",
+      "english": "promote new technology",
+      "sample_sentences": [
+        "公司正在推广新技术，提高生产效率。",
+        "政府鼓励企业推广新技术。"
+      ]
+    },
+    {
+      "chinese": "推广产品",
+      "pinyin": "tuīguǎng chǎnpǐn",
+      "english": "promote products",
+      "sample_sentences": [
+        "公司通过网络推广新产品。",
+        "为了推广产品，他们举办了很多宣传活动。"
+      ]
+    },
+    {
+      "chinese": "推广经验",
+      "pinyin": "tuīguǎng jīngyàn",
+      "english": "promote/share experience",
+      "sample_sentences": [
+        "我们应该总结成功经验，并在其他地区推广。",
+        "这些成功经验值得在全国推广。"
+      ]
+    },
+    {
+      "chinese": "注册公司",
+      "pinyin": "zhùcè gōngsī",
+      "english": "register a company",
+      "sample_sentences": [
+        "他们准备注册一家公司。",
+        "注册公司需要准备相关材料。"
+      ]
+    },
+    {
+      "chinese": "注册邮箱",
+      "pinyin": "zhùcè yóuxiāng",
+      "english": "register an email account",
+      "sample_sentences": [
+        "请先注册一个邮箱。",
+        "注册邮箱以后，你就可以收到系统通知了。"
+      ]
+    },
+    {
+      "chinese": "注册会员",
+      "pinyin": "zhùcè huìyuán",
+      "english": "register as a member",
+      "sample_sentences": [
+        "新用户可以免费注册会员。",
+        "注册会员以后可以享受更多服务。"
+      ]
+    },
+    {
+      "chinese": "合作伙伴",
+      "pinyin": "hézuò huǒbàn",
+      "english": "business partner; cooperation partner",
+      "sample_sentences": [
+        "我们正在寻找新的合作伙伴。",
+        "双方已经成为长期合作伙伴。"
+      ]
+    },
+    {
+      "chinese": "合作公司",
+      "pinyin": "hézuò gōngsī",
+      "english": "partner company",
+      "sample_sentences": [
+        "我们需要和合作公司保持密切联系。",
+        "合作公司为这个项目提供了技术支持。"
+      ]
+    },
+    {
+      "chinese": "合作精神",
+      "pinyin": "hézuò jīngshén",
+      "english": "spirit of cooperation",
+      "sample_sentences": [
+        "团队成员应该具有合作精神。",
+        "这种活动培养了学生的合作精神。"
+      ]
+    },
+    {
+      "chinese": "城市中心",
+      "pinyin": "chéngshì zhōngxīn",
+      "english": "city center",
+      "sample_sentences": [
+        "这家酒店位于城市中心。",
+        "城市中心的交通通常比较拥挤。"
+      ]
+    },
+    {
+      "chinese": "政治中心",
+      "pinyin": "zhèngzhì zhōngxīn",
+      "english": "political center",
+      "sample_sentences": [
+        "这个城市曾经是全国的政治中心。",
+        "首都通常是一个国家的重要政治中心。"
+      ]
+    },
+    {
+      "chinese": "经济中心",
+      "pinyin": "jīngjì zhōngxīn",
+      "english": "economic center",
+      "sample_sentences": [
+        "这座城市是当地重要的经济中心。",
+        "这个地区正在逐渐发展成为新的经济中心。"
+      ]
+    },
+    {
+      "chinese": "工作中心",
+      "pinyin": "gōngzuò zhōngxīn",
+      "english": "work center; work hub",
+      "sample_sentences": [
+        "这个部门是公司的工作中心之一。",
+        "项目开始以后，团队的工作中心发生了变化。"
+      ]
+    },
+    {
+      "chinese": "研发中心",
+      "pinyin": "yánfā zhōngxīn",
+      "english": "research and development center",
+      "sample_sentences": [
+        "公司计划在这里建立新的研发中心。",
+        "研发中心主要负责新产品的开发。"
+      ]
+    },
+    {
+      "chinese": "按时召开",
+      "pinyin": "ànshí zhàokāi",
+      "english": "hold as scheduled",
+      "sample_sentences": [
+        "会议将按照原定时间按时召开。",
+        "即使遇到困难，会议还是按时召开了。"
+      ]
+    },
+    {
+      "chinese": "顺利召开",
+      "pinyin": "shùnlì zhàokāi",
+      "english": "be held successfully/smoothly",
+      "sample_sentences": [
+        "这次会议在北京顺利召开。",
+        "经过充分准备，会议顺利召开。"
+      ]
+    },
+    {
+      "chinese": "成功召开",
+      "pinyin": "chénggōng zhàokāi",
+      "english": "successfully hold",
+      "sample_sentences": [
+        "本次国际会议在上海成功召开。",
+        "经过各方面的努力，活动成功召开。"
+      ]
+    },
+    {
+      "chinese": "普遍应用",
+      "pinyin": "pǔbiàn yìngyòng",
+      "english": "be widely applied",
+      "sample_sentences": [
+        "这种技术已经在很多行业得到普遍应用。",
+        "人工智能正在被普遍应用于各个领域。"
+      ]
+    },
+    {
+      "chinese": "大量应用",
+      "pinyin": "dàliàng yìngyòng",
+      "english": "be widely used; be applied in large quantities",
+      "sample_sentences": [
+        "这种新技术已经被大量应用。",
+        "新材料在建筑行业得到了大量应用。"
+      ]
+    },
+    {
+      "chinese": "开发出来",
+      "pinyin": "kāifā chūlái",
+      "english": "develop; develop and bring out",
+      "sample_sentences": [
+        "这家公司开发出了一种新的软件。",
+        "经过两年的研究，他们终于开发出了新产品。"
+      ]
+    },
+    {
+      "chinese": "开发成功",
+      "pinyin": "kāifā chénggōng",
+      "english": "develop successfully",
+      "sample_sentences": [
+        "经过多年的研究，这种新药终于开发成功了。",
+        "新系统已经开发成功，并正式投入使用。"
+      ]
+    },
+    {
+      "chinese": "销售得很好",
+      "pinyin": "xiāoshòu de hěn hǎo",
+      "english": "sell very well",
+      "sample_sentences": [
+        "这款手机上市以后销售得很好。",
+        "这家店的蛋糕一直销售得很好。"
+      ]
+    },
+    {
+      "chinese": "销售到",
+      "pinyin": "xiāoshòu dào",
+      "english": "sell to; sell in/to a place",
+      "sample_sentences": [
+        "这种产品已经销售到全国各地。",
+        "公司的产品已经销售到多个国家。"
+      ]
+    },
+    {
+      "chinese": "一家企业",
+      "pinyin": "yì jiā qǐyè",
+      "english": "a company; an enterprise",
+      "sample_sentences": [
+        "他在一家企业工作了五年。",
+        "这是一家发展很快的企业。"
+      ]
+    },
+    {
+      "chinese": "一笔业务",
+      "pinyin": "yì bǐ yèwù",
+      "english": "a business deal/transaction",
+      "sample_sentences": [
+        "公司最近完成了一笔重要业务。",
+        "他们正在谈一笔新的业务。"
+      ]
+    },
+    {
+      "chinese": "一项业务",
+      "pinyin": "yí xiàng yèwù",
+      "english": "a business service/project",
+      "sample_sentences": [
+        "这家公司新增了一项业务。",
+        "我们正在研究如何开展这项业务。"
+      ]
+    }
+  ]
+}

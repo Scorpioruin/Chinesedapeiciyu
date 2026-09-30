@@ -1,0 +1,491 @@
+{
+  "title": "23",
+  "words": [
+    {
+      "chinese": "遵守法律",
+      "pinyin": "zūn shǒu fǎ lǜ",
+      "english": "obey the law",
+      "sample_sentences": [
+        "每个人都应该遵守法律。",
+        "我们必须遵守法律，不能做违法的事情。"
+      ]
+    },
+    {
+      "chinese": "遵守规定",
+      "pinyin": "zūn shǒu guī dìng",
+      "english": "follow the regulations",
+      "sample_sentences": [
+        "进入图书馆以后，请遵守规定。",
+        "所有员工都必须遵守公司的规定。"
+      ]
+    },
+    {
+      "chinese": "遵守纪律",
+      "pinyin": "zūn shǒu jì lǜ",
+      "english": "observe discipline",
+      "sample_sentences": [
+        "学生应该遵守学校纪律。",
+        "每个成员都必须遵守纪律。"
+      ]
+    },
+    {
+      "chinese": "遵守原则",
+      "pinyin": "zūn shǒu yuán zé",
+      "english": "adhere to principles",
+      "sample_sentences": [
+        "做事情应该遵守原则。",
+        "他一直坚持遵守自己的原则。"
+      ]
+    },
+    {
+      "chinese": "遵守规矩",
+      "pinyin": "zūn shǒu guī ju",
+      "english": "follow the rules",
+      "sample_sentences": [
+        "在公共场所要遵守规矩。",
+        "大家都应该遵守规矩。"
+      ]
+    },
+    {
+      "chinese": "遵守秩序",
+      "pinyin": "zūn shǒu zhì xù",
+      "english": "maintain / follow order",
+      "sample_sentences": [
+        "请大家排队，遵守秩序。",
+        "进入会场以后，请遵守现场秩序。"
+      ]
+    },
+    {
+      "chinese": "违反法律",
+      "pinyin": "wéi fǎn fǎ lǜ",
+      "english": "violate the law",
+      "sample_sentences": [
+        "任何违反法律的行为都可能受到处罚。",
+        "我们不能做违反法律的事情。"
+      ]
+    },
+    {
+      "chinese": "违反规定",
+      "pinyin": "wéi fǎn guī dìng",
+      "english": "violate the regulations",
+      "sample_sentences": [
+        "如果违反规定，可能会受到处罚。",
+        "他因为违反规定而被警告。"
+      ]
+    },
+    {
+      "chinese": "违反纪律",
+      "pinyin": "wéi fǎn jì lǜ",
+      "english": "violate discipline",
+      "sample_sentences": [
+        "学生违反纪律以后需要接受教育。",
+        "任何违反纪律的行为都应该受到处理。"
+      ]
+    },
+    {
+      "chinese": "违反程序",
+      "pinyin": "wéi fǎn chéng xù",
+      "english": "violate procedures",
+      "sample_sentences": [
+        "如果违反程序，工作可能会出现问题。",
+        "办理这项业务不能违反程序。"
+      ]
+    },
+    {
+      "chinese": "违反规律",
+      "pinyin": "wéi fǎn guī lǜ",
+      "english": "go against the rules / laws of nature",
+      "sample_sentences": [
+        "这种做法违反了自然规律。",
+        "任何事情的发展都有规律，不能违反规律。"
+      ]
+    },
+    {
+      "chinese": "违反科学",
+      "pinyin": "wéi fǎn kē xué",
+      "english": "go against scientific principles",
+      "sample_sentences": [
+        "这种说法违反科学常识。",
+        "我们不能相信违反科学规律的说法。"
+      ]
+    },
+    {
+      "chinese": "陌生的城市",
+      "pinyin": "mò shēng de chéng shì",
+      "english": "an unfamiliar city",
+      "sample_sentences": [
+        "一个人来到陌生的城市，需要一段时间适应。",
+        "在陌生的城市生活让我学到了很多东西。"
+      ]
+    },
+    {
+      "chinese": "陌生的名字",
+      "pinyin": "mò shēng de míng zi",
+      "english": "an unfamiliar name",
+      "sample_sentences": [
+        "这个名字对我来说很陌生。",
+        "我在名单上看到了一个陌生的名字。"
+      ]
+    },
+    {
+      "chinese": "陌生的声音",
+      "pinyin": "mò shēng de shēng yīn",
+      "english": "an unfamiliar voice / sound",
+      "sample_sentences": [
+        "电话里传来一个陌生的声音。",
+        "我听到了一个陌生的声音。"
+      ]
+    },
+    {
+      "chinese": "陌生的感觉",
+      "pinyin": "mò shēng de gǎn jué",
+      "english": "an unfamiliar feeling",
+      "sample_sentences": [
+        "第一次一个人旅行让我有一种陌生的感觉。",
+        "来到新环境以后，他有一种陌生的感觉。"
+      ]
+    },
+    {
+      "chinese": "陌生的环境",
+      "pinyin": "mò shēng de huán jìng",
+      "english": "an unfamiliar environment",
+      "sample_sentences": [
+        "刚来到这里，我还不习惯陌生的环境。",
+        "孩子需要时间适应陌生的环境。"
+      ]
+    },
+    {
+      "chinese": "陌生的时代",
+      "pinyin": "mò shēng de shí dài",
+      "english": "an unfamiliar era",
+      "sample_sentences": [
+        "小说描写了一个人进入陌生的时代。",
+        "面对一个陌生的时代，人们需要不断学习。"
+      ]
+    },
+    {
+      "chinese": "基本的条件",
+      "pinyin": "jī běn de tiáo jiàn",
+      "english": "basic conditions",
+      "sample_sentences": [
+        "健康是学习和工作的基本条件。",
+        "这些都是申请这份工作的基本条件。"
+      ]
+    },
+    {
+      "chinese": "基本的理论知识",
+      "pinyin": "jī běn de lǐ lùn zhī shi",
+      "english": "basic theoretical knowledge",
+      "sample_sentences": [
+        "学习这门课程需要掌握基本的理论知识。",
+        "在实践以前，我们应该先了解基本的理论知识。"
+      ]
+    },
+    {
+      "chinese": "基本的认识",
+      "pinyin": "jī běn de rèn shi",
+      "english": "basic understanding",
+      "sample_sentences": [
+        "通过这门课，我对这个问题有了基本的认识。",
+        "我们首先需要对这个概念有基本的认识。"
+      ]
+    },
+    {
+      "chinese": "基本的结构",
+      "pinyin": "jī běn de jié gòu",
+      "english": "basic structure",
+      "sample_sentences": [
+        "学生首先要了解文章的基本结构。",
+        "这座建筑保留了原来的基本结构。"
+      ]
+    },
+    {
+      "chinese": "基本的权利",
+      "pinyin": "jī běn de quán lì",
+      "english": "basic rights",
+      "sample_sentences": [
+        "每个人都应该享有基本的权利。",
+        "了解自己的基本权利非常重要。"
+      ]
+    },
+    {
+      "chinese": "基本的制度",
+      "pinyin": "jī běn de zhì dù",
+      "english": "basic system",
+      "sample_sentences": [
+        "这些是公司运行所需要的基本制度。",
+        "了解基本制度以后，员工才能更好地开展工作。"
+      ]
+    },
+    {
+      "chinese": "及时沟通",
+      "pinyin": "jí shí gōu tōng",
+      "english": "communicate promptly",
+      "sample_sentences": [
+        "遇到问题以后，我们应该及时沟通。",
+        "如果有任何变化，请及时沟通。"
+      ]
+    },
+    {
+      "chinese": "积极沟通",
+      "pinyin": "jī jí gōu tōng",
+      "english": "communicate actively",
+      "sample_sentences": [
+        "团队成员应该积极沟通。",
+        "遇到分歧时，双方应该积极沟通。"
+      ]
+    },
+    {
+      "chinese": "直接沟通",
+      "pinyin": "zhí jiē gōu tōng",
+      "english": "communicate directly",
+      "sample_sentences": [
+        "有问题最好直接沟通。",
+        "双方通过直接沟通解决了这个问题。"
+      ]
+    },
+    {
+      "chinese": "慢慢沟通",
+      "pinyin": "màn màn gōu tōng",
+      "english": "communicate gradually / take time to communicate",
+      "sample_sentences": [
+        "这个问题比较复杂，我们可以慢慢沟通。",
+        "大家不要着急，可以坐下来慢慢沟通。"
+      ]
+    },
+    {
+      "chinese": "顺利地沟通",
+      "pinyin": "shùn lì de gōu tōng",
+      "english": "communicate smoothly",
+      "sample_sentences": [
+        "因为语言不同，他们很难顺利地沟通。",
+        "掌握共同的语言以后，双方可以顺利地沟通。"
+      ]
+    },
+    {
+      "chinese": "轻轻地吻",
+      "pinyin": "qīng qīng de wěn",
+      "english": "kiss gently",
+      "sample_sentences": [
+        "母亲轻轻地吻了孩子的额头。",
+        "他轻轻地吻了一下她的脸。"
+      ]
+    },
+    {
+      "chinese": "深情地吻",
+      "pinyin": "shēn qíng de wěn",
+      "english": "kiss passionately / affectionately",
+      "sample_sentences": [
+        "电影中的男女主角深情地吻了对方。",
+        "他们分别以前深情地吻了一下。"
+      ]
+    },
+    {
+      "chinese": "亲切地吻",
+      "pinyin": "qīn qiè de wěn",
+      "english": "kiss affectionately",
+      "sample_sentences": [
+        "母亲亲切地吻了孩子的脸。",
+        "她亲切地吻了吻孙子的额头。"
+      ]
+    },
+    {
+      "chinese": "大胆地吻",
+      "pinyin": "dà dǎn de wěn",
+      "english": "kiss boldly",
+      "sample_sentences": [
+        "他大胆地吻了她。",
+        "电影中的角色大胆地吻了对方。"
+      ]
+    },
+    {
+      "chinese": "沉默起来",
+      "pinyin": "chén mò qǐ lái",
+      "english": "become silent",
+      "sample_sentences": [
+        "听到这个消息以后，他突然沉默起来。",
+        "大家讨论了一会儿，然后都沉默起来了。"
+      ]
+    },
+    {
+      "chinese": "沉默下去",
+      "pinyin": "chén mò xià qù",
+      "english": "remain silent / continue being silent",
+      "sample_sentences": [
+        "如果大家都沉默下去，问题就无法解决。",
+        "他没有回答，只是继续沉默下去。"
+      ]
+    },
+    {
+      "chinese": "计算出",
+      "pinyin": "jì suàn chū",
+      "english": "calculate / work out",
+      "sample_sentences": [
+        "我们终于计算出了正确的答案。",
+        "科学家计算出了这颗行星的运行时间。"
+      ]
+    },
+    {
+      "chinese": "计算出来",
+      "pinyin": "jì suàn chū lái",
+      "english": "calculate and obtain a result",
+      "sample_sentences": [
+        "这个数字是怎么计算出来的？",
+        "经过几个小时的计算，我们终于把结果计算出来了。"
+      ]
+    },
+    {
+      "chinese": "工作认真",
+      "pinyin": "gōng zuò rèn zhēn",
+      "english": "work conscientiously",
+      "sample_sentences": [
+        "他工作认真，很少犯错误。",
+        "她工作认真，得到了同事的认可。"
+      ]
+    },
+    {
+      "chinese": "学习认真",
+      "pinyin": "xué xí rèn zhēn",
+      "english": "study diligently / seriously",
+      "sample_sentences": [
+        "他学习认真，成绩一直很好。",
+        "这个学生学习认真，老师很喜欢他。"
+      ]
+    },
+    {
+      "chinese": "工作努力",
+      "pinyin": "gōng zuò nǔ lì",
+      "english": "work hard",
+      "sample_sentences": [
+        "他工作努力，很快就得到了提升。",
+        "只要工作努力，就会不断积累经验。"
+      ]
+    },
+    {
+      "chinese": "学习努力",
+      "pinyin": "xué xí nǔ lì",
+      "english": "study hard",
+      "sample_sentences": [
+        "她学习努力，成绩进步得很快。",
+        "只要学习努力，就能取得进步。"
+      ]
+    },
+    {
+      "chinese": "工作刻苦",
+      "pinyin": "gōng zuò kè kǔ",
+      "english": "work diligently / work very hard",
+      "sample_sentences": [
+        "他工作刻苦，从来不怕困难。",
+        "这位员工工作刻苦，受到了领导的表扬。"
+      ]
+    },
+    {
+      "chinese": "学习刻苦",
+      "pinyin": "xué xí kè kǔ",
+      "english": "study diligently",
+      "sample_sentences": [
+        "他学习刻苦，最终考上了理想的大学。",
+        "她从小学习刻苦，成绩一直很好。"
+      ]
+    },
+    {
+      "chinese": "目标清楚",
+      "pinyin": "mù biāo qīng chu",
+      "english": "have a clear goal",
+      "sample_sentences": [
+        "做事情以前，首先要让自己的目标清楚。",
+        "目标清楚以后，行动会更加有效。"
+      ]
+    },
+    {
+      "chinese": "目标远大",
+      "pinyin": "mù biāo yuǎn dà",
+      "english": "have ambitious goals",
+      "sample_sentences": [
+        "年轻人应该有远大的目标。",
+        "他的目标远大，希望将来创办自己的公司。"
+      ]
+    },
+    {
+      "chinese": "目标一致",
+      "pinyin": "mù biāo yí zhì",
+      "english": "have a common goal",
+      "sample_sentences": [
+        "虽然方法不同，但是我们的目标一致。",
+        "团队成员目标一致，合作起来更加容易。"
+      ]
+    },
+    {
+      "chinese": "目标坚定",
+      "pinyin": "mù biāo jiān dìng",
+      "english": "remain firm in one's goal",
+      "sample_sentences": [
+        "只要目标坚定，就不容易受到外界影响。",
+        "他目标坚定，一直朝着自己的方向努力。"
+      ]
+    },
+    {
+      "chinese": "目标实现",
+      "pinyin": "mù biāo shí xiàn",
+      "english": "achieve a goal",
+      "sample_sentences": [
+        "经过努力，他终于实现了自己的目标。",
+        "为了让目标实现，我们需要制定详细的计划。"
+      ]
+    },
+    {
+      "chinese": "征求意见",
+      "pinyin": "zhēng qiú yì jiàn",
+      "english": "seek opinions / solicit opinions",
+      "sample_sentences": [
+        "公司正在征求员工的意见。",
+        "在做决定以前，我们应该征求大家的意见。"
+      ]
+    },
+    {
+      "chinese": "面临危机",
+      "pinyin": "miàn lín wēi jī",
+      "english": "face a crisis",
+      "sample_sentences": [
+        "这家公司目前正面临危机。",
+        "面对危机，我们需要保持冷静。"
+      ]
+    },
+    {
+      "chinese": "出席宴会",
+      "pinyin": "chū xí yàn huì",
+      "english": "attend a banquet",
+      "sample_sentences": [
+        "他今晚要出席一个重要的宴会。",
+        "很多客人应邀出席宴会。"
+      ]
+    },
+    {
+      "chinese": "担任经理",
+      "pinyin": "dān rèn jīng lǐ",
+      "english": "serve as / take the position of manager",
+      "sample_sentences": [
+        "他毕业以后在一家大公司担任经理。",
+        "她被公司任命为新的部门经理。"
+      ]
+    },
+    {
+      "chinese": "一致的结论",
+      "pinyin": "yí zhì de jié lùn",
+      "english": "a unanimous / consistent conclusion",
+      "sample_sentences": [
+        "经过讨论，大家得出了一致的结论。",
+        "专家们经过研究后得出了基本一致的结论。"
+      ]
+    },
+    {
+      "chinese": "精彩的讲座",
+      "pinyin": "jīng cǎi de jiǎng zuò",
+      "english": "an excellent / fascinating lecture",
+      "sample_sentences": [
+        "昨天学校举办了一场精彩的讲座。",
+        "这位教授的讲座非常精彩，吸引了很多学生。"
+      ]
+    }
+  ]
+}

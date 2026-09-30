@@ -1,0 +1,275 @@
+{
+  "title": "7",
+  "words": [
+    {
+      "chinese": "寻找机会",
+      "pinyin": "xúnzhǎo jīhuì",
+      "english": "look for opportunities",
+      "sample_sentences": [
+        "年轻人应该主动寻找机会提高自己的能力。",
+        "与其等待机会，不如主动寻找机会。"
+      ]
+    },
+    {
+      "chinese": "寻找信息",
+      "pinyin": "xúnzhǎo xìnxī",
+      "english": "look for information",
+      "sample_sentences": [
+        "我们可以通过互联网寻找信息。",
+        "在做研究之前，需要先寻找相关信息。"
+      ]
+    },
+    {
+      "chinese": "寻找亲人",
+      "pinyin": "xúnzhǎo qīnrén",
+      "english": "look for relatives/family members",
+      "sample_sentences": [
+        "他一直在寻找失散多年的亲人。",
+        "警方正在帮助这个家庭寻找亲人。"
+      ]
+    },
+    {
+      "chinese": "寻找人才",
+      "pinyin": "xúnzhǎo réncái",
+      "english": "look for talented people",
+      "sample_sentences": [
+        "公司正在全国范围内寻找人才。",
+        "企业需要不断寻找优秀人才。"
+      ]
+    },
+    {
+      "chinese": "确定时间",
+      "pinyin": "quèdìng shíjiān",
+      "english": "determine the time",
+      "sample_sentences": [
+        "我们还没有确定会议的时间。",
+        "请尽快确定时间，然后通知大家。"
+      ]
+    },
+    {
+      "chinese": "确定地点",
+      "pinyin": "quèdìng dìdiǎn",
+      "english": "determine the location",
+      "sample_sentences": [
+        "活动的地点已经确定了。",
+        "我们需要先确定地点，再安排交通。"
+      ]
+    },
+    {
+      "chinese": "确定人选",
+      "pinyin": "quèdìng rénxuǎn",
+      "english": "determine the candidate/person selected",
+      "sample_sentences": [
+        "经过讨论以后，大家确定了最终的人选。",
+        "公司还没有确定参加会议的人选。"
+      ]
+    },
+    {
+      "chinese": "片面地看",
+      "pinyin": "piànmiàn de kàn",
+      "english": "look at something one-sidedly",
+      "sample_sentences": [
+        "我们不能片面地看待这个问题。",
+        "如果片面地看问题，很容易得出错误的结论。"
+      ]
+    },
+    {
+      "chinese": "片面地认为",
+      "pinyin": "piànmiàn de rènwéi",
+      "english": "think in a one-sided way",
+      "sample_sentences": [
+        "不能片面地认为成绩好就代表能力强。",
+        "我们不应该片面地认为年轻人缺乏经验。"
+      ]
+    },
+    {
+      "chinese": "连续工作",
+      "pinyin": "liánxù gōngzuò",
+      "english": "work continuously",
+      "sample_sentences": [
+        "他已经连续工作了十个小时。",
+        "连续工作太长时间会影响身体健康。"
+      ]
+    },
+    {
+      "chinese": "连续驾驶",
+      "pinyin": "liánxù jiàshǐ",
+      "english": "drive continuously",
+      "sample_sentences": [
+        "长途驾驶时，不应该连续驾驶太长时间。",
+        "司机已经连续驾驶了几个小时，需要休息。"
+      ]
+    },
+    {
+      "chinese": "连续发生",
+      "pinyin": "liánxù fāshēng",
+      "english": "happen repeatedly/continuously",
+      "sample_sentences": [
+        "最近这里连续发生了几起交通事故。",
+        "类似的问题连续发生，引起了大家的注意。"
+      ]
+    },
+    {
+      "chinese": "连续演出",
+      "pinyin": "liánxù yǎnchū",
+      "english": "perform continuously",
+      "sample_sentences": [
+        "这个剧团将在这里连续演出一个月。",
+        "演员们连续演出几天以后都感到很疲劳。"
+      ]
+    },
+    {
+      "chinese": "摸到",
+      "pinyin": "mō dào",
+      "english": "touch; feel one's way to",
+      "sample_sentences": [
+        "他闭着眼睛也能摸到开关。",
+        "我在黑暗中摸到了门把手。"
+      ]
+    },
+    {
+      "chinese": "摸出来",
+      "pinyin": "mō chūlái",
+      "english": "feel out; take out by touch",
+      "sample_sentences": [
+        "他从口袋里摸出来一把钥匙。",
+        "她闭着眼睛也能把手机摸出来。"
+      ]
+    },
+    {
+      "chinese": "打碎",
+      "pinyin": "dǎsuì",
+      "english": "break into pieces",
+      "sample_sentences": [
+        "孩子不小心把杯子打碎了。",
+        "小心一点，不要把玻璃打碎。"
+      ]
+    },
+    {
+      "chinese": "撞碎",
+      "pinyin": "zhuàngsuì",
+      "english": "shatter by collision",
+      "sample_sentences": [
+        "汽车撞碎了商店的玻璃门。",
+        "球不小心撞碎了窗户上的玻璃。"
+      ]
+    },
+    {
+      "chinese": "撕碎",
+      "pinyin": "sīsuì",
+      "english": "tear into pieces",
+      "sample_sentences": [
+        "他一生气就把那张纸撕碎了。",
+        "请不要把重要文件撕碎。"
+      ]
+    },
+    {
+      "chinese": "一支笔",
+      "pinyin": "yì zhī bǐ",
+      "english": "a pen",
+      "sample_sentences": [
+        "请借我一支笔。",
+        "桌子上有一支黑色的笔。"
+      ]
+    },
+    {
+      "chinese": "一枝花",
+      "pinyin": "yì zhī huā",
+      "english": "a flower",
+      "sample_sentences": [
+        "她手里拿着一枝漂亮的花。",
+        "桌上放着一枝玫瑰花。"
+      ]
+    },
+    {
+      "chinese": "一支烟",
+      "pinyin": "yì zhī yān",
+      "english": "a cigarette",
+      "sample_sentences": [
+        "他从口袋里拿出一支烟。",
+        "他点了一支烟，然后走到窗边。"
+      ]
+    },
+    {
+      "chinese": "一根尾巴",
+      "pinyin": "yì gēn wěiba",
+      "english": "a tail",
+      "sample_sentences": [
+        "这只动物有一根很长的尾巴。",
+        "小狗摇着一根尾巴跑了过来。"
+      ]
+    },
+    {
+      "chinese": "一根绳子",
+      "pinyin": "yì gēn shéngzi",
+      "english": "a rope",
+      "sample_sentences": [
+        "他用一根绳子把箱子绑起来。",
+        "请找一根结实的绳子。"
+      ]
+    },
+    {
+      "chinese": "一根皮带",
+      "pinyin": "yì gēn pídài",
+      "english": "a belt",
+      "sample_sentences": [
+        "他的皮箱需要用一根皮带固定。",
+        "他找了一根皮带把东西绑在一起。"
+      ]
+    },
+    {
+      "chinese": "一条尾巴",
+      "pinyin": "yì tiáo wěiba",
+      "english": "a tail",
+      "sample_sentences": [
+        "这只猫有一条长长的尾巴。",
+        "小狗有一条又短又可爱的尾巴。"
+      ]
+    },
+    {
+      "chinese": "一条绳子",
+      "pinyin": "yì tiáo shéngzi",
+      "english": "a rope",
+      "sample_sentences": [
+        "地上放着一条长绳子。",
+        "他们用一条绳子把两边连接起来。"
+      ]
+    },
+    {
+      "chinese": "一条皮带",
+      "pinyin": "yì tiáo pídài",
+      "english": "a belt",
+      "sample_sentences": [
+        "他买了一条新的皮带。",
+        "这条皮带和他的西服很相配。"
+      ]
+    },
+    {
+      "chinese": "这件事情不要紧",
+      "pinyin": "zhè jiàn shìqing bù yàojǐn",
+      "english": "this matter is not serious",
+      "sample_sentences": [
+        "这件事情不要紧，你不用太担心。",
+        "虽然出了点问题，但这件事情不要紧。"
+      ]
+    },
+    {
+      "chinese": "他的伤不要紧",
+      "pinyin": "tā de shāng bù yàojǐn",
+      "english": "his injury is not serious",
+      "sample_sentences": [
+        "医生检查以后说他的伤不要紧。",
+        "放心吧，他的伤不要紧，休息几天就好了。"
+      ]
+    },
+    {
+      "chinese": "反应很快",
+      "pinyin": "fǎnyìng hěn kuài",
+      "english": "react quickly",
+      "sample_sentences": [
+        "他的反应很快，很快就发现了问题。",
+        "这个运动员反应很快，能够及时躲开危险。"
+      ]
+    }
+  ]
+}

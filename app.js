@@ -1,10 +1,5 @@
 // ========================================
 // 词语搭配练习网站
-// JSON files:
-// dapeiciyu/1.json
-// dapeiciyu/2.json
-// ...
-// dapeiciyu/36.json
 // ========================================
 
 const MAX_CHAPTERS = 36;
@@ -18,9 +13,11 @@ const tableBody = document.getElementById("tableBody");
 // ========================================
 
 document.addEventListener("DOMContentLoaded", () => {
+
     createChapterOptions();
 
     chapterSelect.addEventListener("change", () => {
+
         const chapter = chapterSelect.value;
 
         if (chapter) {
@@ -28,16 +25,17 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             showMessage("请选择一个章节");
         }
+
     });
 
-    // Load Chapter 1 automatically
+    // Automatically load Chapter 1
     chapterSelect.value = "1";
     loadChapter("1");
 });
 
 
 // ========================================
-// Create Chapter Dropdown
+// Create Chapter Options
 // ========================================
 
 function createChapterOptions() {
@@ -55,7 +53,7 @@ function createChapterOptions() {
 
 
 // ========================================
-// Load JSON Chapter
+// Load Chapter JSON
 // ========================================
 
 async function loadChapter(chapterNumber) {
@@ -70,116 +68,221 @@ async function loadChapter(chapterNumber) {
 
         if (!response.ok) {
             throw new Error(
-                `无法找到 ${filePath}`
+                `无法找到文件：${filePath}`
             );
         }
 
         const data = await response.json();
 
-        if (!data.words || !Array.isArray(data.words)) {
+        // New JSON structure
+        if (
+            !data.categories ||
+            !Array.isArray(data.categories)
+        ) {
+
             throw new Error(
-                "JSON 文件格式不正确：找不到 words 数组。"
+                "JSON 格式错误：找不到 categories 数组。"
             );
         }
 
-        displayWords(data.words);
+        displayCategories(data.categories);
 
     } catch (error) {
 
         console.error(error);
 
         showMessage(
-            `Chapter ${chapterNumber} 加载失败。<br>
-             请检查文件：<strong>${filePath}</strong>`
+            `Chapter ${chapterNumber} 加载失败。<br><br>
+             请检查文件：<strong>${filePath}</strong><br><br>
+             ${escapeHTML(error.message)}`
         );
     }
 }
 
 
 // ========================================
-// Display Words
+// Display All Categories
 // ========================================
 
-function displayWords(words) {
+function displayCategories(categories) {
 
     tableBody.innerHTML = "";
 
-    if (words.length === 0) {
+    if (categories.length === 0) {
 
-        showMessage("这个章节没有词语。");
+        showMessage("这个章节没有词语搭配。");
 
         return;
     }
 
-    words.forEach((word, index) => {
+    categories.forEach((category) => {
 
-        const row = document.createElement("tr");
+        createCategorySection(category);
 
-        // ----------------------------
-        // Number
-        // ----------------------------
-
-        const numberCell = document.createElement("td");
-
-        numberCell.textContent = index + 1;
-
-        numberCell.style.textAlign = "center";
-
-
-        // ----------------------------
-        // Chinese
-        // ----------------------------
-
-        const chineseCell = document.createElement("td");
-
-        chineseCell.textContent =
-            word.chinese || "";
-
-
-        // ----------------------------
-        // Pinyin
-        // ----------------------------
-
-        const pinyinCell = document.createElement("td");
-
-        pinyinCell.textContent =
-            word.pinyin || "";
-
-
-        // ----------------------------
-        // English
-        // ----------------------------
-
-        const englishCell = document.createElement("td");
-
-        englishCell.textContent =
-            word.english || "";
-
-
-        // ----------------------------
-        // Sample Sentences
-        // ----------------------------
-
-        const sentenceCell = document.createElement("td");
-
-        displaySampleSentences(
-            sentenceCell,
-            word.sample_sentences
-        );
-
-
-        // ----------------------------
-        // Add cells to row
-        // ----------------------------
-
-        row.appendChild(numberCell);
-        row.appendChild(chineseCell);
-        row.appendChild(pinyinCell);
-        row.appendChild(englishCell);
-        row.appendChild(sentenceCell);
-
-        tableBody.appendChild(row);
     });
+}
+
+
+// ========================================
+// Create One Main Word Category
+// ========================================
+
+function createCategorySection(category) {
+
+    // ------------------------------------
+    // Category Header
+    // ------------------------------------
+
+    const categoryRow = document.createElement("tr");
+
+    categoryRow.className = "category-row";
+
+
+    const categoryCell = document.createElement("td");
+
+    categoryCell.colSpan = 5;
+
+    categoryCell.className = "category-title";
+
+
+    // Main word
+    const mainWord = document.createElement("span");
+
+    mainWord.className = "main-word";
+
+    mainWord.textContent =
+        category.main_word || "";
+
+
+    // Pinyin
+    const mainPinyin = document.createElement("span");
+
+    mainPinyin.className = "main-pinyin";
+
+    if (category.pinyin) {
+
+        mainPinyin.textContent =
+            ` ${category.pinyin}`;
+
+    }
+
+
+    // English
+    const mainEnglish = document.createElement("span");
+
+    mainEnglish.className = "main-english";
+
+    if (category.english) {
+
+        mainEnglish.textContent =
+            ` — ${category.english}`;
+
+    }
+
+
+    categoryCell.appendChild(mainWord);
+    categoryCell.appendChild(mainPinyin);
+    categoryCell.appendChild(mainEnglish);
+
+    categoryRow.appendChild(categoryCell);
+
+    tableBody.appendChild(categoryRow);
+
+
+    // ------------------------------------
+    // Words inside this category
+    // ------------------------------------
+
+    if (
+        !category.words ||
+        !Array.isArray(category.words)
+    ) {
+
+        return;
+    }
+
+
+    category.words.forEach((word, index) => {
+
+        createWordRow(word, index);
+
+    });
+}
+
+
+// ========================================
+// Create Word Row
+// ========================================
+
+function createWordRow(word, index) {
+
+    const row = document.createElement("tr");
+
+
+    // ------------------------------------
+    // Number
+    // ------------------------------------
+
+    const numberCell = document.createElement("td");
+
+    numberCell.textContent = index + 1;
+
+    numberCell.className = "number-column";
+
+
+    // ------------------------------------
+    // Chinese
+    // ------------------------------------
+
+    const chineseCell = document.createElement("td");
+
+    chineseCell.textContent =
+        word.chinese || "";
+
+
+    // ------------------------------------
+    // Pinyin
+    // ------------------------------------
+
+    const pinyinCell = document.createElement("td");
+
+    pinyinCell.textContent =
+        word.pinyin || "";
+
+
+    // ------------------------------------
+    // English
+    // ------------------------------------
+
+    const englishCell = document.createElement("td");
+
+    englishCell.textContent =
+        word.english || "";
+
+
+    // ------------------------------------
+    // Sample Sentences
+    // ------------------------------------
+
+    const sentenceCell = document.createElement("td");
+
+    displaySampleSentences(
+        sentenceCell,
+        word.sample_sentences
+    );
+
+
+    // ------------------------------------
+    // Add cells
+    // ------------------------------------
+
+    row.appendChild(numberCell);
+    row.appendChild(chineseCell);
+    row.appendChild(pinyinCell);
+    row.appendChild(englishCell);
+    row.appendChild(sentenceCell);
+
+    tableBody.appendChild(row);
 }
 
 
@@ -190,12 +293,11 @@ function displayWords(words) {
 function displaySampleSentences(cell, sentences) {
 
     if (!sentences) {
-        cell.textContent = "";
         return;
     }
 
 
-    // If sample_sentences is an array
+    // Multiple sentences
     if (Array.isArray(sentences)) {
 
         sentences.forEach((sentence, index) => {
@@ -203,10 +305,16 @@ function displaySampleSentences(cell, sentences) {
             const sentenceDiv =
                 document.createElement("div");
 
-            sentenceDiv.textContent = sentence;
+            sentenceDiv.className =
+                "sample-sentence";
+
+            sentenceDiv.textContent =
+                sentence;
 
             if (index > 0) {
-                sentenceDiv.style.marginTop = "8px";
+
+                sentenceDiv.style.marginTop =
+                    "8px";
             }
 
             cell.appendChild(sentenceDiv);
@@ -216,7 +324,7 @@ function displaySampleSentences(cell, sentences) {
     }
 
 
-    // If sample_sentences is a single string
+    // Single sentence
     cell.textContent = sentences;
 }
 
@@ -234,4 +342,18 @@ function showMessage(message) {
             </td>
         </tr>
     `;
+}
+
+
+// ========================================
+// Escape HTML
+// ========================================
+
+function escapeHTML(text) {
+
+    const div = document.createElement("div");
+
+    div.textContent = text;
+
+    return div.innerHTML;
 }

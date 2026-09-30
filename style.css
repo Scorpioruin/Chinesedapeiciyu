@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:
+        Arial,
+        "Microsoft YaHei",
+        "Noto Sans SC",
+        sans-serif;
+
+    background: #ffffff;
+    color: #222222;
+}
+
+.container {
+    width: 95%;
+    max-width: 1400px;
+    margin: 30px auto;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.chapter-selector {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.chapter-selector label {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#chapterSelect {
+    min-width: 180px;
+    padding: 8px 12px;
+
+    font-size: 15px;
+
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+
+    background: #ffffff;
+    color: #222222;
+
+    cursor: pointer;
+}
+
+#chapterSelect:focus {
+    outline: none;
+    border-color: #888888;
+}
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+thead th {
+    background: #f2f2f2;
+    font-weight: 600;
+    text-align: left;
+}
+
+th,
+td {
+    border: 1px solid #cccccc;
+    padding: 10px 12px;
+    vertical-align: top;
+    line-height: 1.6;
+}
+
+th {
+    font-size: 15px;
+}
+
+td {
+    font-size: 15px;
+}
+
+.number-column {
+    width: 80px;
+    text-align: center;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+    width: 18%;
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+    width: 20%;
+}
+
+th:nth-child(4),
+td:nth-child(4) {
+    width: 20%;
+}
+
+th:nth-child(5),
+td:nth-child(5) {
+    width: 42%;
+}
+
+tbody tr:hover {
+    background: #fafafa;
+}
+
+.empty-message {
+    text-align: center;
+    color: #777777;
+    padding: 30px;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+    .container {
+        width: 98%;
+        margin: 15px auto;
+    }
+
+    h1 {
+        font-size: 23px;
+    }
+
+    .chapter-selector {
+        margin-bottom: 15px;
+    }
+
+    #chapterSelect {
+        flex: 1;
+    }
+
+    table {
+        min-width: 900px;
+    }
+
+    th,
+    td {
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+}
